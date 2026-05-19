@@ -1597,6 +1597,7 @@
     }
 
     function initBankSelector() {
+
       questionBanks.forEach(bank => {
         const questionCount = bank.questions ? bank.questions.length : (bank.sheets ? bank.sheets.reduce((sum, s) => sum + s.questions.length, 0) : 0);
         const option = document.createElement('option');
@@ -1605,79 +1606,73 @@
         bankSelect.appendChild(option);
       });
 
+      // Lưu trữ các câu đã random để loại trừ khi random part tiếp theo
+      let usedQuestionsByPart = {};
+
       bankSelect.addEventListener('change', (e) => {
-        // Save current progress before switching
         if (!isPracticeMode && answered > 0 && wrongAnswers.length > 0) {
           saveToHistory();
         }
-        
         const selectedBankId = e.target.value;
         currentBankId = selectedBankId;
-        
         sheetSelect.innerHTML = '<option value="">-- Tất cả --</option>';
-        
+        usedQuestionsByPart = {};
+
         if (selectedBankId === 'all') {
           questions = [...allQuestions];
           sheetSelect.disabled = true;
         } else {
           const bank = questionBanks.find(b => b.id === selectedBankId);
-          if (bank && bank.sheets.length > 0) {
+          if (selectedBankId === 'bo_so_lieu_nang_cao') {
+            // Chỉ hiện 4 part, mỗi part random 100 câu không trùng nhau từ toàn bộ bộ đề
+            sheetSelect.disabled = false;
+            // Gom toàn bộ câu hỏi của bộ đề
+            let allQuestionsInBank = [];
+            bank.sheets.forEach(sheet => {
+              if (sheet.questions && Array.isArray(sheet.questions)) {
+                allQuestionsInBank.push(...sheet.questions);
+              }
+            });
+            // Shuffle toàn bộ câu hỏi
+            let shuffled = [...allQuestionsInBank];
+            for (let i = shuffled.length - 1; i > 0; i--) {
+              const j = Math.floor(Math.random() * (i + 1));
+              [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            }
+            // Chia thành 4 part, mỗi part 100 câu, không trùng nhau
+            for (let part = 1; part <= 4; part++) {
+              const start = (part - 1) * 100;
+              const end = start + 100;
+              const partQuestions = shuffled.slice(start, end);
+              usedQuestionsByPart['part' + part] = partQuestions;
+              const option = document.createElement('option');
+              option.value = 'part' + part;
+              option.textContent = `Part ${part} (${partQuestions.length} câu)`;
+              sheetSelect.appendChild(option);
+            }
+          } else if (bank && bank.sheets.length > 0) {
             sheetSelect.disabled = false;
             const allOption = document.createElement('option');
             allOption.value = 'all';
             allOption.textContent = `Tất cả (${bank.questions.length} câu)`;
             sheetSelect.appendChild(allOption);
-            
-            if (selectedBankId === 'bo_thong_tu') {
-              const combinedGroups = {
-                'TT 15+30': ['III2-TT 15.2024', 'III3-TT30.2025'],
-                'TT 17+25': ['III4-TT 17.2024', 'III5-TT 25.2025'],
-                'TT 50+77': ['III7-TT 50.2024', 'III8-TT 77.2025']
-              };
-              const singleSheets = ['III1-TT 09.2020', 'III6-TT 18.2024', 'III9-TT 64.2024'];
-              
-              singleSheets.forEach(sheetId => {
-                const sheet = bank.sheets.find(s => s.id === sheetId);
-                if (sheet) {
-                  const option = document.createElement('option');
-                  option.value = sheet.id;
-                  option.textContent = `${sheet.name} (${sheet.questions.length} câu)`;
-                  sheetSelect.appendChild(option);
-                }
-              });
-              
-              Object.keys(combinedGroups).forEach(groupName => {
-                const sheetIds = combinedGroups[groupName];
-                const sheets = sheetIds.map(id => bank.sheets.find(s => s.id === id)).filter(s => s);
-                if (sheets.length > 0) {
-                  const totalQuestions = sheets.reduce((sum, s) => sum + s.questions.length, 0);
-                  const option = document.createElement('option');
-                  option.value = JSON.stringify(sheetIds);
-                  option.textContent = `${groupName} (${totalQuestions} câu)`;
-                  sheetSelect.appendChild(option);
-                }
-              });
-            } else {
-              bank.sheets.forEach(sheet => {
-                const option = document.createElement('option');
-                option.value = sheet.id;
-                option.textContent = `${sheet.name} (${sheet.questions.length} câu)`;
-                sheetSelect.appendChild(option);
-              });
-            }
+            bank.sheets.forEach(sheet => {
+              const option = document.createElement('option');
+              option.value = sheet.id;
+              option.textContent = `${sheet.name} (${sheet.questions.length} câu)`;
+              sheetSelect.appendChild(option);
+            });
           } else {
             questions = bank ? [...bank.questions] : [...allQuestions];
             sheetSelect.disabled = true;
           }
         }
-        
         resetQuiz();
       });
 
       sheetSelect.addEventListener('change', (e) => {
         const selectedBankId = bankSelect.value;
         const selectedSheetId = e.target.value;
-        
         if (selectedBankId === 'all') {
           questions = [...allQuestions];
         } else {
@@ -1686,6 +1681,9 @@
             questions = [...allQuestions];
           } else if (selectedSheetId === 'all' || selectedSheetId === '') {
             questions = [...bank.questions];
+          } else if (selectedBankId === 'bo_so_lieu_nang_cao') {
+            // Lấy đúng 100 câu random đã sinh cho part này
+            questions = usedQuestionsByPart[selectedSheetId] ? [...usedQuestionsByPart[selectedSheetId]] : [];
           } else {
             try {
               const sheetIds = JSON.parse(selectedSheetId);
@@ -1708,7 +1706,6 @@
             }
           }
         }
-        
         resetQuiz();
       });
 
