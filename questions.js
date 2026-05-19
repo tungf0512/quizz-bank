@@ -140190,6 +140190,10034 @@ const questionBanks = [
         "explanation": "Điều 56, Khoản 1: Thông tư có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021."
       }
     ]
+  },
+  {
+    "id": "bo_so_lieu_nang_cao",
+    "name": "Câu số liệu VB nâng cao",
+    "sheets": [
+      {
+        "id": "I1_Big_Data_trong_hoạt_động_ngân_hàng",
+        "name": "I.1. Big Data trong hoạt động ngân hàng",
+        "questions": [
+          {
+            "question": "Nghị quyết 57-NQ/TW,Chỉ số Chính phủ điện tử của Việt Nam mục tiêu đến năm 2030 đứng trong nhóm bao nhiêu nước dẫn đầu thế giới?",
+            "options": {
+              "A": "Nhóm 30",
+              "B": "Nhóm 50",
+              "C": "Nhóm 70",
+              "D": "Nhóm 100"
+            },
+            "answer": 2,
+            "topic": "I.1. Big Data trong hoạt động ngân hàng",
+            "explanation": "Nhóm 30"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Đến năm 2030, có tối thiểu bao nhiêu doanh nghiệp công nghệ số Việt Nam ngang tầm các nước tiên tiến?",
+            "options": {
+              "A": "5 doanh nghiệp",
+              "B": "10 doanh nghiệp",
+              "C": "20 doanh nghiệp",
+              "D": "50 doanh nghiệp"
+            },
+            "answer": 1,
+            "topic": "I.1. Big Data trong hoạt động ngân hàng",
+            "explanation": "5 doanh nghiệp"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Đến năm 2030, thu hút thêm ít nhất bao nhiêu tổ chức, doanh nghiệp công nghệ hàng đầu thế giới đầu tư tại Việt Nam?",
+            "options": {
+              "A": "1 tổ chức",
+              "B": "2 tổ chức",
+              "C": "3 tổ chức",
+              "D": "5 tổ chức"
+            },
+            "answer": 3,
+            "topic": "I.1. Big Data trong hoạt động ngân hàng",
+            "explanation": "1 tổ chức"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Kinh phí chi cho nghiên cứu phát triển (R&D) năm 2030 phấn đấu đạt bao nhiêu % GDP?",
+            "options": {
+              "A": "1% GDP",
+              "B": "2% GDP",
+              "C": "3% GDP",
+              "D": "5% GDP"
+            },
+            "answer": 2,
+            "topic": "I.1. Big Data trong hoạt động ngân hàng",
+            "explanation": "1% GDP"
+          }
+        ]
+      },
+      {
+        "id": "I1_Big_Data_trong_hoạt_động_ngân_hàng_Big_Data_trong_hoạt_động_ngân_hàng",
+        "name": "I.1. Big Data trong hoạt động ngân hàng. Big Data trong hoạt động ngân hàng",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP, Nhân lực KH&CN của tổ chức (trừ đơn vị sự nghiệp công lập) yêu cầu tối thiểu bao nhiêu người có trình độ đại học trở lên?",
+            "options": {
+              "A": "02 người",
+              "B": "03 người",
+              "C": "05 người",
+              "D": "10 người"
+            },
+            "answer": 3,
+            "topic": "I.1. Big Data trong hoạt động ngân hàng. Big Data trong hoạt động ngân hàng",
+            "explanation": "02 người"
+          }
+        ]
+      },
+      {
+        "id": "I2_Quản_trị_dữ_liệu_(Data_Governance)",
+        "name": "I.2. Quản trị dữ liệu (Data Governance)",
+        "questions": [
+          {
+            "question": "Nghị quyết 57-NQ/TW,Năm 2030, số lượng nhân lực nghiên cứu khoa học phấn đấu đạt bao nhiêu người trên một vạn dân?",
+            "options": {
+              "A": "8 người",
+              "B": "10 người",
+              "C": "12 người",
+              "D": "15 người"
+            },
+            "answer": 3,
+            "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+            "explanation": "8 người"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Ngân sách nhà nước bố trí ít nhất bao nhiêu % tổng chi ngân sách hằng năm cho khoa học công nghệ và chuyển đổi số?",
+            "options": {
+              "A": "1%",
+              "B": "2%",
+              "C": "3%",
+              "D": "5%"
+            },
+            "answer": 3,
+            "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+            "explanation": "1%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Phấn đấu đến năm 2030 có bao nhiêu tổ chức khoa học công nghệ được xếp hạng khu vực và thế giới?",
+            "options": {
+              "A": "10 - 20 tổ chức",
+              "B": "20 - 30 tổ chức",
+              "C": "40 - 50 tổ chức",
+              "D": "Trên 100 tổ chức"
+            },
+            "answer": 3,
+            "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+            "explanation": "10 - 20 tổ chức"
+          }
+        ]
+      },
+      {
+        "id": "I3Chất_lượng_dữ_liệu,_chuẩn_hóa_dữ_liệu",
+        "name": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "questions": [
+          {
+            "question": "Nghị quyết 57-NQ/TW,Phấn đấu tỷ lệ thương mại hóa kết quả nghiên cứu đạt mức nào vào năm 2030?",
+            "options": {
+              "A": "2 - 5%",
+              "B": "5 - 7%",
+              "C": "8 - 10%",
+              "D": "Trên 15%"
+            },
+            "answer": 3,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "2 - 5%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Tầm nhìn đến năm 2045, quy mô kinh tế số Việt Nam phấn đấu đạt tối thiểu bao nhiêu % GDP?",
+            "options": {
+              "A": "30% GDP",
+              "B": "40% GDP",
+              "C": "50% GDP",
+              "D": "60% GDP"
+            },
+            "answer": 3,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "30% GDP"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Tỷ lệ kinh phí từ xã hội chiếm bao nhiêu % trong tổng kinh phí R&D năm 2030?",
+            "options": {
+              "A": "Trên 40%",
+              "B": "Trên 50%",
+              "C": "Trên 60%",
+              "D": "Trên 80%"
+            },
+            "answer": 3,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "Trên 40%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Tỷ lệ ngân sách nhà nước chi sự nghiệp KHCN ưu tiên cho nghiên cứu công nghệ chiến lược là bao nhiêu?",
+            "options": {
+              "A": "Ít nhất 5%",
+              "B": "Ít nhất 10%",
+              "C": "Ít nhất 15%",
+              "D": "Ít nhất 20%"
+            },
+            "answer": 3,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "Ít nhất 5%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Tỷ lệ người dân và doanh nghiệp sử dụng dịch vụ công trực tuyến năm 2030 đạt trên bao nhiêu %?",
+            "options": {
+              "A": "60%",
+              "B": "70%",
+              "C": "80%",
+              "D": "90%"
+            },
+            "answer": 3,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "60%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Tỷ trọng đóng góp của năng suất nhân tố tổng hợp (TFP) vào tăng trưởng kinh tế năm 2030 mục tiêu là bao nhiêu?",
+            "options": {
+              "A": "Trên 40%",
+              "B": "Trên 45%",
+              "C": "Trên 50%",
+              "D": "Ở mức trên 55%"
+            },
+            "answer": 4,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "Trên 40%"
+          },
+          {
+            "question": "Nghị quyết 57-NQ/TW,Văn phòng Trung ương Đảng định kỳ bao lâu báo cáo kết quả thực hiện Nghị quyết cho Bộ Chính trị?",
+            "options": {
+              "A": "3 tháng một lần",
+              "B": "6 tháng một lần",
+              "C": "Hàng năm",
+              "D": "2 năm một lần"
+            },
+            "answer": 2,
+            "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+            "explanation": "3 tháng một lần"
+          }
+        ]
+      },
+      {
+        "id": "I4Chia_sẻ,_kết_nối_dữ_liệu_liên_ngành",
+        "name": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "questions": [
+          {
+            "question": "Nghị quyết 57-NQ/TW,Việt Nam đặt mục tiêu duy trì chỉ số phát triển con người (HDI) năm 2030 trên mức nào?",
+            "options": {
+              "A": "Trên 0,5",
+              "B": "Trên 0,6",
+              "C": "Trên 0,7",
+              "D": "Trên 0,8"
+            },
+            "answer": 3,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "Trên 0,5"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, mục tiêu hoàn thành xây dựng kết nối, chia sẻ đồng bộ bao nhiêu % cơ sở dữ liệu quốc gia?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, nguồn nhân lực nghiên cứu khoa học phấn đấu đạt bao nhiêu người trên một vạn dân?",
+            "options": {
+              "A": "8 người",
+              "B": "10 người",
+              "C": "12 người",
+              "D": "15 người"
+            },
+            "answer": 3,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "8 người"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, tỷ lệ giao dịch không dùng tiền mặt phấn đấu đạt tối thiểu bao nhiêu %?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "80%",
+              "D": "90%"
+            },
+            "answer": 3,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "50%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, tỷ trọng đóng góp của năng suất nhân tố tổng hợp (TFP) vào tăng trưởng kinh tế mục tiêu đạt bao nhiêu?",
+            "options": {
+              "A": ">= 40%",
+              "B": ">= 45%",
+              "C": ">= 50%",
+              "D": ">= 55%"
+            },
+            "answer": 4,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": ">= 40%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, Việt Nam phấn đấu có tối thiểu bao nhiêu doanh nghiệp công nghệ số ngang tầm các nước tiên tiến?",
+            "options": {
+              "A": "03 doanh nghiệp",
+              "B": "05 doanh nghiệp",
+              "C": "10 doanh nghiệp",
+              "D": "20 doanh nghiệp"
+            },
+            "answer": 2,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "03 doanh nghiệp"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, Việt Nam phấn đấu hoàn thành xây dựng đô thị thông minh tại tối thiểu bao nhiêu thành phố trực thuộc Trung ương?",
+            "options": {
+              "A": "3 thành phố",
+              "B": "4 thành phố",
+              "C": "5 thành phố",
+              "D": "6 thành phố"
+            },
+            "answer": 4,
+            "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+            "explanation": "3 thành phố"
+          }
+        ]
+      },
+      {
+        "id": "I5Dữ_liệu_mở_(Open_Data)",
+        "name": "I.5.Dữ liệu mở (Open Data)",
+        "questions": [
+          {
+            "question": "Nghị quyết 71/NQ-CP,Kinh phí chi cho nghiên cứu phát triển (R&D) năm 2030 mục tiêu đạt bao nhiêu % GDP?",
+            "options": {
+              "A": "1%",
+              "B": "2%",
+              "C": "3%",
+              "D": "5%"
+            },
+            "answer": 2,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "1%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Mục tiêu hình thành ít nhất bao nhiêu Trung tâm dữ liệu quốc gia đến năm 2030?",
+            "options": {
+              "A": "01 trung tâm",
+              "B": "02 trung tâm",
+              "C": "03 trung tâm",
+              "D": "05 trung tâm"
+            },
+            "answer": 3,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "01 trung tâm"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Mục tiêu tỷ lệ dịch vụ công trực tuyến TOÀN TRÌNH trên tổng số thủ tục đủ điều kiện năm 2030 là bao nhiêu?",
+            "options": {
+              "A": "80%",
+              "B": "85%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Ngân sách nhà nước bố trí hằng năm cho KHCN, ĐMST và CĐS quốc gia ít nhất đạt bao nhiêu % tổng chi?",
+            "options": {
+              "A": "1%",
+              "B": "2%",
+              "C": "3%",
+              "D": "5%"
+            },
+            "answer": 3,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "1%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Phấn đấu hình thành bao nhiêu sàn dữ liệu đến năm 2030?",
+            "options": {
+              "A": "02 sàn",
+              "B": "03 sàn",
+              "C": "05 sàn",
+              "D": "10 sàn"
+            },
+            "answer": 3,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "02 sàn"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Quy mô kinh tế số Việt Nam đến năm 2030 phấn đấu đạt tối thiểu bao nhiêu % GDP?",
+            "options": {
+              "A": "20% GDP",
+              "B": "25% GDP",
+              "C": "30% GDP",
+              "D": "40% GDP"
+            },
+            "answer": 3,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "20% GDP"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Số lượng công bố khoa học quốc tế mục tiêu tăng trung bình bao nhiêu % mỗi năm đến năm 2030?",
+            "options": {
+              "A": "5%",
+              "B": "10%",
+              "C": "15%",
+              "D": "20%"
+            },
+            "answer": 2,
+            "topic": "I.5.Dữ liệu mở (Open Data)",
+            "explanation": "5%"
+          }
+        ]
+      },
+      {
+        "id": "I6Vòng_đời_dữ_liệu_khách_hàng",
+        "name": "I.6.Vòng đời dữ liệu khách hàng",
+        "questions": [
+          {
+            "question": "Nghị quyết 71/NQ-CP,Số lượng doanh nghiệp công nghệ hàng đầu thế giới đặt trụ sở, đầu tư nghiên cứu tại Việt Nam mục tiêu đến 2030 là bao nhiêu?",
+            "options": {
+              "A": ">= 1",
+              "B": ">= 2",
+              "C": ">= 3",
+              "D": ">= 5"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": ">= 1"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Số lượng doanh nghiệp công nghệ số Việt Nam ngang tầm các nước tiên tiến mục tiêu đến năm 2030 là bao nhiêu?",
+            "options": {
+              "A": "Ít nhất 2 doanh nghiệp",
+              "B": "Ít nhất 5 doanh nghiệp",
+              "C": "Ít nhất 10 doanh nghiệp",
+              "D": "Ít nhất 20 doanh nghiệp"
+            },
+            "answer": 2,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "Ít nhất 2 doanh nghiệp"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Số lượng đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế mục tiêu tăng trung bình bao nhiêu % mỗi năm đến năm 2030?",
+            "options": {
+              "A": "10 - 12%",
+              "B": "12 - 15%",
+              "C": "16 - 18%",
+              "D": "20 - 25%"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "10 - 12%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Số lượng tổ chức KHCN của Việt Nam được xếp hạng khu vực và thế giới năm 2030 phấn đấu đạt bao nhiêu?",
+            "options": {
+              "A": "10 - 20 tổ chức",
+              "B": "20 - 30 tổ chức",
+              "C": "40 - 50 tổ chức",
+              "D": "Trên 100 tổ chức"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "10 - 20 tổ chức"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tầm nhìn đến năm 2045, quy mô kinh tế số Việt Nam mục tiêu đạt bao nhiêu % GDP?",
+            "options": {
+              "A": "30% GDP",
+              "B": "40% GDP",
+              "C": "50% GDP",
+              "D": "60% GDP"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "30% GDP"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tầm nhìn đến năm 2045, Việt Nam phấn đấu có bao nhiêu doanh nghiệp công nghệ số ngang tầm các nước tiên tiến?",
+            "options": {
+              "A": "≥ 5 doanh nghiệp",
+              "B": "≥ 10 doanh nghiệp",
+              "C": "≥ 20 doanh nghiệp",
+              "D": "≥ 50 doanh nghiệp"
+            },
+            "answer": 2,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "≥ 5 doanh nghiệp"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Trong tổng chi cho R&D năm 2030, tỷ trọng kinh phí từ nguồn xã hội mục tiêu đạt bao nhiêu %?",
+            "options": {
+              "A": "> 40%",
+              "B": "> 50%",
+              "C": "> 60%",
+              "D": "> 80%"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "> 40%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ cung cấp dịch vụ công trực tuyến TOÀN TRÌNH trên tổng số thủ tục hành chính có đủ điều kiện năm 2030 là bao nhiêu?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": "70%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ dân số trưởng thành có chữ ký số hoặc chữ ký điện tử cá nhân năm 2030 mục tiêu là bao nhiêu?",
+            "options": {
+              "A": ">= 50%",
+              "B": ">= 60%",
+              "C": ">= 70%",
+              "D": ">= 80%"
+            },
+            "answer": 3,
+            "topic": "I.6.Vòng đời dữ liệu khách hàng",
+            "explanation": ">= 50%"
+          }
+        ]
+      },
+      {
+        "id": "I7Khai_thác_dữ_liệu_phục_vụ_QTRR,_kinh_doanh",
+        "name": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+        "questions": [
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ dân số từ 15 tuổi trở lên có tài khoản giao dịch tại ngân hàng năm 2030 mục tiêu là bao nhiêu?",
+            "options": {
+              "A": ">= 80%",
+              "B": ">= 85%",
+              "C": ">= 90%",
+              "D": ">= 95%"
+            },
+            "answer": 4,
+            "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+            "explanation": ">= 80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ doanh nghiệp có hoạt động đổi mới sáng tạo mục tiêu đến năm 2030 đạt mức nào?",
+            "options": {
+              "A": "≥ 20%",
+              "B": "≥ 30%",
+              "C": "≥ 40%",
+              "D": "≥ 50%"
+            },
+            "answer": 3,
+            "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+            "explanation": "≥ 20%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế KHAI THÁC THƯƠNG MẠI năm 2030 mục tiêu đạt bao nhiêu %?",
+            "options": {
+              "A": "5 - 8%",
+              "B": "8 - 10%",
+              "C": "10 - 15%",
+              "D": "15 - 20%"
+            },
+            "answer": 2,
+            "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+            "explanation": "5 - 8%"
+          }
+        ]
+      },
+      {
+        "id": "I8Tài_sản_số",
+        "name": "I.8.Tài sản số",
+        "questions": [
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ giao dịch không dùng tiền mặt mục tiêu đến năm 2030 đạt mức nào?",
+            "options": {
+              "A": "≥ 50%",
+              "B": "≥ 70%",
+              "C": "≥ 80%",
+              "D": "≥ 95%"
+            },
+            "answer": 3,
+            "topic": "I.8.Tài sản số",
+            "explanation": "≥ 50%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ hồ sơ, kết quả giải quyết thủ tục hành chính được số hóa năm 2030 phải đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "I.8.Tài sản số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân được phủ sóng 5G mục tiêu đến năm 2030 là bao nhiêu?",
+            "options": {
+              "A": "90%",
+              "B": "95%",
+              "C": "99%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "I.8.Tài sản số",
+            "explanation": "90%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân được phủ sóng mạng 5G đến năm 2030 mục tiêu đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "99%"
+            },
+            "answer": 4,
+            "topic": "I.8.Tài sản số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân và doanh nghiệp sử dụng dịch vụ công trực tuyến năm 2030 mục tiêu đạt bao nhiêu %?",
+            "options": {
+              "A": ">= 60%",
+              "B": ">= 70%",
+              "C": ">= 80%",
+              "D": ">= 90%"
+            },
+            "answer": 3,
+            "topic": "I.8.Tài sản số",
+            "explanation": ">= 60%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ lệ số hóa hồ sơ, kết quả giải quyết thủ tục hành chính năm 2030 mục tiêu đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "I.8.Tài sản số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ trọng doanh nghiệp Make in Vietnam trong tổng doanh thu công nghiệp số năm 2030 mục tiêu là?",
+            "options": {
+              "A": "30%",
+              "B": "40%",
+              "C": "50%",
+              "D": "60%"
+            },
+            "answer": 3,
+            "topic": "I.8.Tài sản số",
+            "explanation": "30%"
+          },
+          {
+            "question": "Nghị quyết 71/NQ-CP,Tỷ trọng xuất khẩu sản phẩm công nghệ cao trên tổng giá trị hàng hóa xuất khẩu năm 2030 mục tiêu là bao nhiêu?",
+            "options": {
+              "A": "≥ 30%",
+              "B": "≥ 40%",
+              "C": "≥ 50%",
+              "D": "≥ 60%"
+            },
+            "answer": 3,
+            "topic": "I.8.Tài sản số",
+            "explanation": "≥ 30%"
+          }
+        ]
+      },
+      {
+        "id": "I9Đạo_đức_trong_sử_dụng_dữ_liệu",
+        "name": "I.9.Đạo đức trong sử dụng dữ liệu",
+        "questions": [
+          {
+            "question": "Nghị quyết 71/NQ-CP,Xếp hạng chỉ số đổi mới sáng tạo toàn cầu (GII) của Việt Nam năm 2045 phấn đấu đạt mức nào?",
+            "options": {
+              "A": "Top 50",
+              "B": "Top 40",
+              "C": "Top 30",
+              "D": "Top 20"
+            },
+            "answer": 3,
+            "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+            "explanation": "Top 50"
+          },
+          {
+            "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Cơ quan chuyên trách bảo vệ dữ liệu cá nhân có trách nhiệm kiểm tra định kỳ bao nhiêu lần/năm?",
+            "options": {
+              "A": "01 lần",
+              "B": "Không quá 01 lần",
+              "C": "02 lần",
+              "D": "Hàng tháng"
+            },
+            "answer": 2,
+            "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+            "explanation": "01 lần"
+          },
+          {
+            "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới gồm bao nhiêu bản chính gửi Bộ Công an?",
+            "options": {
+              "A": "01 bản chính",
+              "B": "02 bản chính",
+              "C": "03 bản chính",
+              "D": "05 bản chính"
+            },
+            "answer": 1,
+            "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+            "explanation": "01 bản chính"
+          },
+          {
+            "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải được lưu trữ trong bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "Luôn luôn sẵn sàng để phục vụ hoạt động kiểm tra, đánh giá",
+              "C": "5 năm",
+              "D": "10 năm"
+            },
+            "answer": 2,
+            "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+            "explanation": "1 năm"
+          }
+        ]
+      },
+      {
+        "id": "II1Lấy_khách_hàng_làm_trung_tâm",
+        "name": "II.1.Lấy khách hàng làm trung tâm",
+        "questions": [
+          {
+            "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Khi có sự cố xâm phạm dữ liệu cá nhân, Bên kiểm soát phải thông báo cho cơ quan chuyên trách trong bao lâu?",
+            "options": {
+              "A": "24 giờ",
+              "B": "48 giờ",
+              "C": "72 giờ",
+              "D": "7 ngày"
+            },
+            "answer": 3,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "24 giờ"
+          },
+          {
+            "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Mức phạt tiền tối đa đối với các hành vi vi phạm khác (ngoài mua bán, chuyển xuyên biên giới) là bao nhiêu?",
+            "options": {
+              "A": "500 triệu đồng",
+              "B": "1 tỷ đồng",
+              "C": "3 tỷ đồng",
+              "D": "5 tỷ đồng"
+            },
+            "answer": 3,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "500 triệu đồng"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Điều kiện để thực hiện chuyển giao bắt buộc NHTM là lỗ lũy kế vượt mức nào?",
+            "options": {
+              "A": "50% vốn điều lệ và các quỹ dự trữ",
+              "B": "80% vốn điều lệ và các quỹ dự trữ",
+              "C": "100% giá trị vốn điều lệ và các quỹ dự trữ",
+              "D": "150% vốn điều lệ và các quỹ dự trữ"
+            },
+            "answer": 3,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "50% vốn điều lệ và các quỹ dự trữ"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Định kỳ bao lâu NHTM phải cập nhật, điều chỉnh phương án khắc phục dự kiến?",
+            "options": {
+              "A": "Hàng năm",
+              "B": "Ít nhất 02 năm",
+              "C": "Ít nhất 03 năm",
+              "D": "Ít nhất 05 năm"
+            },
+            "answer": 2,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "Hàng năm"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Đối với bất động sản nắm giữ do xử lý nợ, TCTD phải xử lý trong thời hạn tối đa bao lâu?",
+            "options": {
+              "A": "01 năm",
+              "B": "02 năm",
+              "C": "03 năm",
+              "D": "05 năm"
+            },
+            "answer": 4,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "01 năm"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Giới hạn cấp tín dụng của TCTD phi ngân hàng đối với một khách hàng là bao nhiêu % vốn tự có?",
+            "options": {
+              "A": "10%",
+              "B": "15%",
+              "C": "20%",
+              "D": "25%"
+            },
+            "answer": 2,
+            "topic": "II.1.Lấy khách hàng làm trung tâm",
+            "explanation": "10%"
+          }
+        ]
+      },
+      {
+        "id": "II2Hành_trình_khách_hàng_số",
+        "name": "II.2.Hành trình khách hàng số",
+        "questions": [
+          {
+            "question": "Theo Luật Các TCTD 2024,Mức góp vốn tối đa của một NHTM vào một doanh nghiệp khác là bao nhiêu % vốn điều lệ doanh nghiệp đó?",
+            "options": {
+              "A": "5%",
+              "B": "11%",
+              "C": "15%",
+              "D": "20%"
+            },
+            "answer": 2,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Mức tối đa của quỹ dự trữ bổ sung vốn điều lệ là bao nhiêu?",
+            "options": {
+              "A": "50% vốn điều lệ",
+              "B": "100% vốn điều lệ",
+              "C": "200% vốn điều lệ",
+              "D": "Không giới hạn"
+            },
+            "answer": 2,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "50% vốn điều lệ"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Năm tài chính của TCTD bắt đầu và kết thúc khi nào?",
+            "options": {
+              "A": "01/01 đến 31/12",
+              "B": "01/04 đến 31/03 năm sau",
+              "C": "01/07 đến 30/06 năm sau",
+              "D": "Tùy quyết định TCTD"
+            },
+            "answer": 1,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "01/01 đến 31/12"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,NHNN can thiệp sớm khi lỗ lũy kế lớn hơn bao nhiêu % giá trị vốn điều lệ và các quỹ dự trữ?",
+            "options": {
+              "A": "10%",
+              "B": "15%",
+              "C": "20%",
+              "D": "25%"
+            },
+            "answer": 2,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "10%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,NHNN quyết định đặt TCTD vào kiểm soát đặc biệt khi tỷ lệ CAR thấp hơn mức nào trong 06 tháng liên tục?",
+            "options": {
+              "A": "2%",
+              "B": "4%",
+              "C": "6%",
+              "D": "8%"
+            },
+            "answer": 2,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "2%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Quỹ tín dụng nhân dân được đầu tư tài sản cố định tối đa bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+            "options": {
+              "A": "50%",
+              "B": "75%",
+              "C": "100%",
+              "D": "150%"
+            },
+            "answer": 3,
+            "topic": "II.2.Hành trình khách hàng số",
+            "explanation": "50%"
+          }
+        ]
+      },
+      {
+        "id": "II3Cá_nhân_hóa_sản_phẩm,_dịch_vụ",
+        "name": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "questions": [
+          {
+            "question": "Theo Luật Các TCTD 2024,TCTD được can thiệp sớm phải gửi phương án khắc phục cho NHNN trong bao lâu sau khi được thông qua?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,TCTD phải trích bao nhiêu % lợi nhuận sau thuế hằng năm để lập quỹ dự trữ bổ sung vốn điều lệ?",
+            "options": {
+              "A": "5%",
+              "B": "10%",
+              "C": "15%",
+              "D": "20%"
+            },
+            "answer": 2,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Thời gian phân bổ lãi phải thu phải thoái tối đa cho TCTD can thiệp sớm là bao lâu?",
+            "options": {
+              "A": "03 năm",
+              "B": "05 năm",
+              "C": "07 năm",
+              "D": "10 năm"
+            },
+            "answer": 2,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "03 năm"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Thời hạn gửi báo cáo hằng năm cho Ngân hàng Nhà nước là bao lâu kể từ ngày kết thúc năm tài chính?",
+            "options": {
+              "A": "30 ngày",
+              "B": "60 ngày",
+              "C": "90 ngày",
+              "D": "120 ngày"
+            },
+            "answer": 3,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Thời hạn xây dựng phương án phục hồi sau khi nhận yêu cầu từ Ban kiểm soát đặc biệt là bao lâu?",
+            "options": {
+              "A": "30 ngày",
+              "B": "45 ngày",
+              "C": "60 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 3,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Tổng dư nợ cấp tín dụng đối với các đối tượng hạn chế cấp tín dụng (không bao gồm công ty con, công ty liên kết của TCTD) không được vượt quá bao nhiêu % vốn tự có?",
+            "options": {
+              "A": "1%",
+              "B": "3%",
+              "C": "5%",
+              "D": "10%"
+            },
+            "answer": 3,
+            "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+            "explanation": "1%"
+          }
+        ]
+      },
+      {
+        "id": "II4Định_danh_điện_tử_(eKYC)",
+        "name": "II.4.Định danh điện tử (eKYC)",
+        "questions": [
+          {
+            "question": "Theo Luật Các TCTD 2024,Tổng mức góp vốn, mua cổ phần của NHTM vào các doanh nghiệp, TCTD khác không vượt quá bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+            "options": {
+              "A": "30%",
+              "B": "40%",
+              "C": "50%",
+              "D": "60%"
+            },
+            "answer": 2,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "30%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Trong thời gian can thiệp sớm, lỗ lũy kế vượt bao nhiêu % vốn điều lệ thì được hỗ trợ về dự phòng rủi ro?",
+            "options": {
+              "A": "30%",
+              "B": "40%",
+              "C": "50%",
+              "D": "60%"
+            },
+            "answer": 3,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "30%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Từ ngày 01/01/2029, giới hạn cấp tín dụng của NHTM đối với một khách hàng và người có liên quan là bao nhiêu?",
+            "options": {
+              "A": "15% vốn tự có",
+              "B": "20% vốn tự có",
+              "C": "23% vốn tự có",
+              "D": "25% vốn tự có"
+            },
+            "answer": 1,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "15% vốn tự có"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Từ ngày Luật có hiệu lực đến trước 01/01/2026, giới hạn cấp tín dụng của NHTM đối với một khách hàng là bao nhiêu?",
+            "options": {
+              "A": "10% vốn tự có",
+              "B": "12% vốn tự có",
+              "C": "14% vốn tự có",
+              "D": "15% vốn tự có"
+            },
+            "answer": 3,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "10% vốn tự có"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Tỷ lệ an toàn vốn tối thiểu (CAR) mà TCTD phải duy trì là bao nhiêu?",
+            "options": {
+              "A": "5%",
+              "B": "8%",
+              "C": "10%",
+              "D": "12%"
+            },
+            "answer": 2,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Tỷ lệ giá trị tài sản cố định phục vụ hoạt động của NHTM không được vượt quá bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+            "options": {
+              "A": "30%",
+              "B": "50%",
+              "C": "70%",
+              "D": "100%"
+            },
+            "answer": 2,
+            "topic": "II.4.Định danh điện tử (eKYC)",
+            "explanation": "30%"
+          }
+        ]
+      },
+      {
+        "id": "II5Chăm_sóc_khách_hàng_đa_kênh",
+        "name": "II.5.Chăm sóc khách hàng đa kênh",
+        "questions": [
+          {
+            "question": "Theo Luật Các TCTD 2024,Vi phạm tỷ lệ an toàn vốn tối thiểu (CAR) trong bao lâu liên tục thì bị can thiệp sớm?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 3,
+            "topic": "II.5.Chăm sóc khách hàng đa kênh",
+            "explanation": "01 tháng"
+          },
+          {
+            "question": "Theo Luật Các TCTD 2024,Vi phạm tỷ lệ khả năng chi trả trong bao lâu liên tục thì TCTD bị can thiệp sớm?",
+            "options": {
+              "A": "07 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 3,
+            "topic": "II.5.Chăm sóc khách hàng đa kênh",
+            "explanation": "07 ngày"
+          },
+          {
+            "question": "Theo Luật Chuyển đổi số số 148/2025/QH15,Cơ quan nào chịu trách nhiệm thống nhất quản lý nhà nước về chuyển đổi số trên toàn quốc?",
+            "options": {
+              "A": "Bộ Công an",
+              "B": "Chính phủ",
+              "C": "Bộ Khoa học và Công nghệ",
+              "D": "Quốc hội"
+            },
+            "answer": 2,
+            "topic": "II.5.Chăm sóc khách hàng đa kênh",
+            "explanation": "Bộ Công an"
+          },
+          {
+            "question": "Theo Luật Chuyển đổi số số 148/2025/QH15,Việc thống kê, đánh giá mức độ chuyển đổi số quốc gia được thực hiện định kỳ bao lâu?",
+            "options": {
+              "A": "10 năm một lần",
+              "B": "Hằng năm",
+              "C": "5 năm một lần",
+              "D": "Mỗi tháng"
+            },
+            "answer": 2,
+            "topic": "II.5.Chăm sóc khách hàng đa kênh",
+            "explanation": "10 năm một lần"
+          },
+          {
+            "question": "Theo Luật Công nghiệp công nghệ số 2025,Các khoản thu nhập của nhân lực công nghệ số chất lượng cao được miễn thuế thu nhập cá nhân trong bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "05 năm",
+              "C": "10 năm",
+              "D": "Vĩnh viễn"
+            },
+            "answer": 2,
+            "topic": "II.5.Chăm sóc khách hàng đa kênh",
+            "explanation": "1 năm"
+          }
+        ]
+      },
+      {
+        "id": "II6UXUI_trong_ngân_hàng_số",
+        "name": "II.6.UX/UI trong ngân hàng số",
+        "questions": [
+          {
+            "question": "Theo Luật Công nghiệp công nghệ số 2025,Nhân lực công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú trong bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "05 năm",
+              "C": "10 năm",
+              "D": "2 năm"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "1 năm"
+          },
+          {
+            "question": "Theo Luật Công nghiệp công nghệ số 2025,Nhân lực công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú trong bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "05 năm",
+              "C": "10 năm",
+              "D": "2 năm"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "1 năm"
+          },
+          {
+            "question": "Theo Luật Dữ liệu,Tỷ lệ kinh phí tối thiểu dành cho an toàn thông tin, an ninh mạng trong dự án dữ liệu là bao nhiêu?",
+            "options": {
+              "A": "5%",
+              "B": "15%",
+              "C": "20%",
+              "D": "50%"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo Luật giao dịch điện tử 2023,Chuyển giao chứng thư điện tử yêu cầu hệ thống thông tin đạt mức an toàn nào?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Tối thiểu cấp độ 3",
+              "C": "Cấp độ quốc gia",
+              "D": "Cấp độ bí mật"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Theo Luật giao dịch điện tử 2023,Hệ thống thông tin phục vụ việc chuyển giao chứng thư điện tử phải đáp ứng an toàn cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Tối thiểu cấp độ 3",
+              "C": "Cấp độ 5",
+              "D": "Tối thiểu cấp độ 2"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Theo Luật giao dịch điện tử 2023,Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là bao lâu?",
+            "options": {
+              "A": "5 năm",
+              "B": "10 năm",
+              "C": "15 năm",
+              "D": "20 năm"
+            },
+            "answer": 2,
+            "topic": "II.6.UX/UI trong ngân hàng số",
+            "explanation": "5 năm"
+          }
+        ]
+      },
+      {
+        "id": "II7Tài_chính_toàn_diện_qua_ngân_hàng_số",
+        "name": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "questions": [
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Cá nhân cung cấp dịch vụ bảo vệ dữ liệu cá nhân thuê ngoài cần bao nhiêu năm kinh nghiệm?",
+            "options": {
+              "A": "01 năm",
+              "B": "02 năm",
+              "C": "03 năm",
+              "D": "05 năm"
+            },
+            "answer": 3,
+            "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+            "explanation": "01 năm"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Các tổ chức tài chính, ngân hàng phải đánh giá tuân thủ bảo vệ dữ liệu cá nhân định kỳ bao lâu?",
+            "options": {
+              "A": "06 tháng/lần",
+              "B": "01 năm/lần",
+              "C": "02 năm/lần",
+              "D": "03 năm/lần"
+            },
+            "answer": 2,
+            "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+            "explanation": "06 tháng/lần"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Cơ quan chuyên trách thông báo kiểm tra định kỳ trước bao nhiêu ngày?",
+            "options": {
+              "A": "03 ngày",
+              "B": "07 ngày",
+              "C": "10 ngày",
+              "D": "15 ngày"
+            },
+            "answer": 4,
+            "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+            "explanation": "03 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Cơ quan chuyên trách trả kết quả đánh giá hồ sơ chuyển dữ liệu trong bao lâu?",
+            "options": {
+              "A": "07 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "20 ngày"
+            },
+            "answer": 3,
+            "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+            "explanation": "07 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Đơn vị vận hành Blockchain phải đánh giá tuân thủ bảo vệ dữ liệu định kỳ bao lâu?",
+            "options": {
+              "A": "06 tháng/lần",
+              "B": "01 năm/lần",
+              "C": "02 năm/lần",
+              "D": "05 năm/lần"
+            },
+            "answer": 2,
+            "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+            "explanation": "06 tháng/lần"
+          }
+        ]
+      },
+      {
+        "id": "II8Blockchain_trong_tài_chính_–_ngân_hàng",
+        "name": "II.8.Blockchain trong tài chính – ngân hàng",
+        "questions": [
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Giấy chứng nhận kinh doanh sẽ bị thu hồi nếu tổ chức không hoạt động từ bao nhiêu tháng?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Hồ sơ đánh giá tác động xử lý/chuyển dữ liệu phải được cập nhật định kỳ bao lâu?",
+            "options": {
+              "A": "03 tháng/lần",
+              "B": "06 tháng/lần",
+              "C": "01 năm/lần",
+              "D": "02 năm/lần"
+            },
+            "answer": 2,
+            "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+            "explanation": "03 tháng/lần"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Hồ sơ vi phạm dữ liệu cá nhân phải được lưu trữ trong thời gian tối thiểu bao nhiêu năm?",
+            "options": {
+              "A": "01 năm",
+              "B": "03 năm",
+              "C": "05 năm",
+              "D": "10 năm"
+            },
+            "answer": 3,
+            "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+            "explanation": "01 năm"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận được yêu cầu rút lại sự đồng ý, bên kiểm soát dữ liệu phải phản hồi trong bao lâu?",
+            "options": {
+              "A": "24 giờ",
+              "B": "02 ngày làm việc",
+              "C": "05 ngày làm việc",
+              "D": "07 ngày"
+            },
+            "answer": 2,
+            "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+            "explanation": "24 giờ"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận được yêu cầu xóa dữ liệu, bên kiểm soát dữ liệu phải hoàn thành trong bao lâu?",
+            "options": {
+              "A": "10 ngày",
+              "B": "15 ngày",
+              "C": "20 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 3,
+            "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+            "explanation": "10 ngày"
+          }
+        ]
+      },
+      {
+        "id": "II9Quản_lý_phản_hồi,_dữ_liệu_hành_vi_khách_hàng",
+        "name": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "questions": [
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận yêu cầu chỉnh sửa dữ liệu, bên kiểm soát phản hồi về thủ tục trong bao lâu?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "05 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Một tổ chức có thể gia hạn thời gian giải quyết yêu cầu xóa dữ liệu tối đa mấy lần?",
+            "options": {
+              "A": "Không được gia hạn",
+              "B": "01 lần",
+              "C": "02 lần",
+              "D": "03 lần"
+            },
+            "answer": 2,
+            "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+            "explanation": "Không được gia hạn"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Nếu cần yêu cầu bên thứ ba ngừng xử lý dữ liệu khi chủ thể rút lại sự đồng ý, thời hạn là bao lâu?",
+            "options": {
+              "A": "15 ngày",
+              "B": "20 ngày",
+              "C": "25 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+            "explanation": "15 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Nếu hồ sơ đánh giá tác động bị yêu cầu hoàn thiện, tổ chức có bao nhiêu ngày để thực hiện?",
+            "options": {
+              "A": "10 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "45 ngày"
+            },
+            "answer": 3,
+            "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Nếu hồ sơ đề nghị cấp giấy phép không đầy đủ, doanh nghiệp có bao nhiêu ngày để bổ sung?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "20 ngày"
+            },
+            "answer": 3,
+            "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+            "explanation": "05 ngày"
+          }
+        ]
+      },
+      {
+        "id": "III1_AI_trong_ngân_hàng",
+        "name": "III.1 AI trong ngân hàng",
+        "questions": [
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Nhân sự bảo vệ dữ liệu cá nhân nội bộ cần có ít nhất bao nhiêu năm kinh nghiệm?",
+            "options": {
+              "A": "01 năm",
+              "B": "02 năm",
+              "C": "03 năm",
+              "D": "05 năm"
+            },
+            "answer": 2,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "01 năm"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Quyền được xem dữ liệu của mình của chủ thể phải được thực hiện trong bao nhiêu ngày?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "20 ngày"
+            },
+            "answer": 2,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn hoàn thành việc chỉnh sửa dữ liệu cá nhân theo yêu cầu là bao nhiêu ngày?",
+            "options": {
+              "A": "05 ngày",
+              "B": "07 ngày",
+              "C": "10 ngày",
+              "D": "15 ngày"
+            },
+            "answer": 3,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn hoàn thành việc thực hiện yêu cầu rút lại sự đồng ý của chủ thể là bao nhiêu ngày?",
+            "options": {
+              "A": "10 ngày",
+              "B": "15 ngày",
+              "C": "20 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn thẩm định và cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu là bao nhiêu ngày?",
+            "options": {
+              "A": "15 ngày",
+              "B": "20 ngày",
+              "C": "30 ngày",
+              "D": "45 ngày"
+            },
+            "answer": 3,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "15 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức cung cấp dịch vụ bảo vệ dữ liệu cá nhân phải có tối thiểu bao nhiêu nhân sự đủ điều kiện?",
+            "options": {
+              "A": "01 nhân sự",
+              "B": "02 nhân sự",
+              "C": "03 nhân sự",
+              "D": "05 nhân sự"
+            },
+            "answer": 3,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "01 nhân sự"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức cung cấp dịch vụ điện toán đám mây phải thực hiện đánh giá tuân thủ định kỳ bao lâu?",
+            "options": {
+              "A": "06 tháng/lần",
+              "B": "01 năm/lần",
+              "C": "02 năm/lần",
+              "D": "Theo yêu cầu khách hàng"
+            },
+            "answer": 2,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "06 tháng/lần"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức kinh doanh dịch vụ xử lý dữ liệu phải dành bao nhiêu % kinh phí cho an toàn thông tin?",
+            "options": {
+              "A": "5%",
+              "B": "10%",
+              "C": "15%",
+              "D": "20%"
+            },
+            "answer": 3,
+            "topic": "III.1 AI trong ngân hàng",
+            "explanation": "5%"
+          }
+        ]
+      },
+      {
+        "id": "III2_Machine_Learning,_tự_động_hóa_quyết_định",
+        "name": "III.2 Machine Learning, tự động hóa quyết định",
+        "questions": [
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức phải nộp lại Giấy chứng nhận cho cơ quan chuyên trách trong bao lâu sau quyết định thu hồi?",
+            "options": {
+              "A": "03 ngày làm việc",
+              "B": "05 ngày làm việc",
+              "C": "10 ngày làm việc",
+              "D": "15 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "03 ngày làm việc"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức tài chính phải làm gì khi phát hiện lộ, mất dữ liệu cá nhân nhạy cảm của khách hàng?",
+            "options": {
+              "A": "Thông báo trong 24 giờ",
+              "B": "Thông báo trong 48 giờ",
+              "C": "Thông báo trong 72 giờ",
+              "D": "Thông báo trong 07 ngày"
+            },
+            "answer": 3,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "Thông báo trong 24 giờ"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức xử lý dữ liệu phải nộp hồ sơ đánh giá tác động xử lý trong bao lâu?",
+            "options": {
+              "A": "30 ngày từ khi bắt đầu",
+              "B": "45 ngày từ khi bắt đầu",
+              "C": "60 ngày từ khi bắt đầu",
+              "D": "90 ngày từ khi bắt đầu"
+            },
+            "answer": 3,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "30 ngày từ khi bắt đầu"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Trong trường hợp phức tạp, thời hạn xóa dữ liệu có thể gia hạn tối đa bao nhiêu ngày?",
+            "options": {
+              "A": "10 ngày",
+              "B": "15 ngày",
+              "C": "20 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 3,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Trường hợp kiểm tra đột xuất, cơ quan chuyên trách có cần thông báo trước không?",
+            "options": {
+              "A": "Thông báo trước 24 giờ",
+              "B": "Thông báo trước 12 giờ",
+              "C": "Không cần thông báo trước",
+              "D": "Luôn phải thông báo"
+            },
+            "answer": 3,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "Thông báo trước 24 giờ"
+          },
+          {
+            "question": "Theo nghị định 356/2025/NĐ-CP,Trường hợp thay đổi thông tin về tổ chức cung cấp dịch vụ, hồ sơ phải cập nhật trong bao lâu?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo nghị định 53/2022, Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia phải thông báo về hoạt động giám sát cho lực lượng chuyên trách định kỳ bao lâu một lần?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 2,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "01 tháng"
+          },
+          {
+            "question": "Theo nghị định 53/2022, Dữ liệu của hệ thống thông tin quan trọng về an ninh quốc gia phải được sao lưu dự phòng với tần suất thay đổi trong vòng bao nhiêu giờ?",
+            "options": {
+              "A": "6 giờ",
+              "B": "12 giờ",
+              "C": "24 giờ",
+              "D": "48 giờ"
+            },
+            "answer": 3,
+            "topic": "III.2 Machine Learning, tự động hóa quyết định",
+            "explanation": "6 giờ"
+          }
+        ]
+      },
+      {
+        "id": "III3_Điện_toán_đám_mây",
+        "name": "III.3 Điện toán đám mây",
+        "questions": [
+          {
+            "question": "Theo nghị định 53/2022, Hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia gồm mấy loại văn bản/tài liệu chính?",
+            "options": {
+              "A": "2 loại",
+              "B": "3 loại",
+              "C": "4 loại",
+              "D": "5 loại"
+            },
+            "answer": 2,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "2 loại"
+          },
+          {
+            "question": "Theo nghị định 53/2022, Nhật ký hệ thống để phục vụ điều tra, xử lý vi phạm pháp luật về an ninh mạng phải được lưu trữ tối thiểu bao lâu?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Đoàn kiểm tra an ninh mạng phải thông báo kết quả kiểm tra trong thời hạn bao lâu kể từ khi hoàn thành?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "03 ngày làm việc",
+              "C": "05 ngày làm việc",
+              "D": "07 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống quan trọng về an ninh quốc gia được lập thành bao nhiêu bản?",
+            "options": {
+              "A": "01 bản chính",
+              "B": "02 bản chính",
+              "C": "03 bản chính",
+              "D": "04 bản chính"
+            },
+            "answer": 1,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "01 bản chính"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Lực lượng chuyên trách phải cấp giấy tiếp nhận hồ sơ đề nghị thẩm định an ninh mạng trong thời gian bao lâu?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "05 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Nghị định 262/2025/NĐ-CP Chi nhánh của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian trình độ đại học trở lên?",
+            "options": {
+              "A": "01 người",
+              "B": "02 người",
+              "C": "03 người",
+              "D": "05 người"
+            },
+            "answer": 3,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "01 người"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Nhật ký hệ thống về hoạt động của hệ thống thông tin quan trọng về an ninh quốc gia phải được lưu trữ tối thiểu bao lâu?",
+            "options": {
+              "A": "1 tháng",
+              "B": "3 tháng",
+              "C": "6 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 2,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "1 tháng"
+          },
+          {
+            "question": "Theo nghị định 53/2022,Việc kiểm tra an ninh mạng định kỳ đối với hệ thống thông tin quan trọng về an ninh quốc gia được thực hiện bao lâu một lần?",
+            "options": {
+              "A": "01 lần/năm",
+              "B": "02 lần/năm",
+              "C": "03 lần/năm",
+              "D": "05 năm/lần"
+            },
+            "answer": 1,
+            "topic": "III.3 Điện toán đám mây",
+            "explanation": "01 lần/năm"
+          }
+        ]
+      },
+      {
+        "id": "III4_RPA_-_Tự_động_hóa_quyết_định",
+        "name": "III.4 RPA - Tự động hóa quyết định",
+        "questions": [
+          {
+            "question": "Theo nghị định 63/2010/NĐ-CP,Cán bộ công chức không được để cá nhân, tổ chức phải đi lại bổ sung hồ sơ quá mấy lần cho một vụ việc?",
+            "options": {
+              "A": "01 lần",
+              "B": "02 lần",
+              "C": "03 lần",
+              "D": "05 lần"
+            },
+            "answer": 2,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "01 lần"
+          },
+          {
+            "question": "Theo nghị định 63/2010/NĐ-CP,Định kỳ hàng quý, các Bộ, UBND tỉnh phải báo cáo kết quả kiểm soát thủ tục hành chính trước ngày nào?",
+            "options": {
+              "A": "Ngày 01 của quý sau",
+              "B": "Trước ngày 15 của tháng thứ ba của mỗi quý",
+              "C": "Ngày 30 của tháng cuối năm",
+              "D": "Không cần báo cáo định kỳ"
+            },
+            "answer": 2,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "Ngày 01 của quý sau"
+          },
+          {
+            "question": "Theo nghị định 63/2010/NĐ-CP,Thời hạn nhập dữ liệu và gửi Cơ quan kiểm soát thủ tục hành chính là bao lâu kể từ ngày ký quyết định công bố?",
+            "options": {
+              "A": "03 ngày làm việc",
+              "B": "05 ngày làm việc",
+              "C": "07 ngày làm việc",
+              "D": "10 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "03 ngày làm việc"
+          },
+          {
+            "question": "Theo nghị định 63/2010/NĐ-CP,Thời hạn Văn phòng Bộ hoặc Văn phòng UBND tỉnh gửi văn bản tham gia ý kiến là bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "20 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Theo QĐ 11/2019,Có bao nhiêu chuẩn mực đạo đức nghề nghiệp cốt lõi của cán bộ ngân hàng được quy định tại Chương II?",
+            "options": {
+              "A": "04 chuẩn mực",
+              "B": "05 chuẩn mực",
+              "C": "06 chuẩn mực",
+              "D": "08 chuẩn mực"
+            },
+            "answer": 3,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "04 chuẩn mực"
+          },
+          {
+            "question": "Theo QĐ 1789/2005,Chứng từ kế toán bằng giấy được lưu tại bộ phận kế toán tối đa bao lâu trước khi chuyển vào kho lưu trữ?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Theo QĐ 1789/2005,Khách hàng gửi chứng từ điện tử phải lưu trữ chứng từ đó ít nhất bao lâu để phục vụ tra soát?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "30 ngày",
+              "D": "01 năm"
+            },
+            "answer": 2,
+            "topic": "III.4 RPA - Tự động hóa quyết định",
+            "explanation": "05 ngày"
+          }
+        ]
+      },
+      {
+        "id": "III5_API,_Open_Banking",
+        "name": "III.5 API, Open Banking",
+        "questions": [
+          {
+            "question": "Theo QĐ 2439 năm 2025,Hệ thống quản lý truy cập và mã hóa dữ liệu thuộc lớp nào trong kiến trúc an toàn dữ liệu?",
+            "options": {
+              "A": "Lớp 1",
+              "B": "Lớp 2",
+              "C": "Lớp 3",
+              "D": "Lớp 8"
+            },
+            "answer": 3,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "Lớp 1"
+          },
+          {
+            "question": "Theo QĐ 2439 năm 2025,Kho dữ liệu dùng chung quốc gia bao gồm bao nhiêu lớp dữ liệu dùng chung?",
+            "options": {
+              "A": "05 lớp",
+              "B": "08 lớp",
+              "C": "10 lớp",
+              "D": "12 lớp"
+            },
+            "answer": 2,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "05 lớp"
+          },
+          {
+            "question": "Theo QĐ 2439 năm 2025,Một tổ chức được xếp loại mức độ trưởng thành về năng lực quản trị dữ liệu là \"Tối ưu, tự động hóa\" khi điểm trung bình đạt?",
+            "options": {
+              "A": "0.0 - 0.99",
+              "B": "2.0 - 2.99",
+              "C": "4.0 - 4.49",
+              "D": "4.5 - 5.0"
+            },
+            "answer": 4,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "0.0 - 0.99"
+          },
+          {
+            "question": "Theo QĐ 2439 năm 2025,Phiên bản \"Chính\" (Major Release) của Từ điển dữ liệu dùng chung được phát hành theo chu kỳ bao lâu?",
+            "options": {
+              "A": "12 tháng",
+              "B": "2 năm",
+              "C": "3 năm",
+              "D": "5 năm"
+            },
+            "answer": 3,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "12 tháng"
+          },
+          {
+            "question": "Theo QĐ 3090/2025,Đến năm 2030, bao nhiêu dịch vụ công trực tuyến toàn trình phải ứng dụng Trí tuệ nhân tạo (AI)?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3090/2025,Khung quốc gia tuân thủ bao nhiêu nguyên tắc cốt lõi?",
+            "options": {
+              "A": "05 nguyên tắc",
+              "B": "07 nguyên tắc",
+              "C": "09 nguyên tắc",
+              "D": "10 nguyên tắc"
+            },
+            "answer": 2,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "05 nguyên tắc"
+          },
+          {
+            "question": "Theo QĐ 3090/2025,Mục tiêu đào tạo kỹ năng số cơ bản cho tối thiểu bao nhiêu người dân trong độ tuổi lao động đến năm 2030?",
+            "options": {
+              "A": "1.000.000 người",
+              "B": "5.000.000 người",
+              "C": "10.000.000 người",
+              "D": "20.000.000 người"
+            },
+            "answer": 3,
+            "topic": "III.5 API, Open Banking",
+            "explanation": "1.000.000 người"
+          }
+        ]
+      },
+      {
+        "id": "III6_Công_nghệ_thanh_toán_không_dùng_tiền_mặt",
+        "name": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "questions": [
+          {
+            "question": "Theo QĐ 3090/2025,Mục tiêu đến năm 2030, bao nhiêu phần trăm thủ tục hành chính đủ điều kiện được cung cấp dịch vụ công trực tuyến toàn trình?",
+            "options": {
+              "A": "50%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3090/2025,Tầm nhìn đến năm 2045, kinh tế số chiếm bao nhiêu phần trăm GDP?",
+            "options": {
+              "A": "20% GDP",
+              "B": "30% GDP",
+              "C": "50% GDP",
+              "D": "70% GDP"
+            },
+            "answer": 3,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "20% GDP"
+          },
+          {
+            "question": "Theo QĐ 3090/2025,Trục liên thông văn bản quốc gia dự kiến hoàn thành trong giai đoạn nào?",
+            "options": {
+              "A": "2020-2022",
+              "B": "2025-2026",
+              "C": "2027-2028",
+              "D": "Sau 2030"
+            },
+            "answer": 2,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "2020-2022"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Kết quả đánh giá việc giải quyết thủ tục hành chính được phân thành bao nhiêu mức?",
+            "options": {
+              "A": "03 mức",
+              "B": "04 mức",
+              "C": "05 mức",
+              "D": "10 mức"
+            },
+            "answer": 3,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "03 mức"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Sau khi nhận được thông báo khóa tài khoản do lỗi thông tin định danh không chính xác, cơ quan quản lý phải phản hồi kết quả xử lý cho chủ tài khoản trong bao lâu?",
+            "options": {
+              "A": "Trong vòng 08 giờ làm việc",
+              "B": "Trong vòng 24 giờ làm việc",
+              "C": "Không quá 48 giờ làm việc",
+              "D": "Sau 07 ngày"
+            },
+            "answer": 3,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "Trong vòng 08 giờ làm việc"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Tài khoản người dùng sẽ bị khóa nếu không phát sinh hoạt động nào trong bao lâu kể từ lần đăng nhập cuối cùng?",
+            "options": {
+              "A": "06 tháng",
+              "B": "12 tháng",
+              "C": "02 năm",
+              "D": "05 năm"
+            },
+            "answer": 3,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "06 tháng"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Thời hạn xử lý hoàn trả tiền cho người dùng (nếu lỗi xác định đúng là do nộp thừa/trùng) là bao lâu kể từ ngày nhận được đề nghị?",
+            "options": {
+              "A": "Không quá 02 ngày làm việc",
+              "B": "Không quá 05 ngày làm việc",
+              "C": "Không quá 10 ngày làm việc",
+              "D": "Sau 01 tháng"
+            },
+            "answer": 2,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "Không quá 02 ngày làm việc"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Trường hợp đối soát phát hiện có chênh lệch, các bên phải phối hợp xử lý dứt điểm chậm nhất trong bao lâu?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "05 ngày làm việc",
+              "D": "10 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+            "explanation": "01 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "III7_Sinh_trắc_học_(Biometrics)",
+        "name": "III.7 Sinh trắc học (Biometrics)",
+        "questions": [
+          {
+            "question": "Theo QĐ 31 năm 2021',Văn phòng Chính phủ phải thông báo cho các bên liên quan về kế hoạch bảo trì, nâng cấp hệ thống trước bao lâu?",
+            "options": {
+              "A": "Tối thiểu 01 ngày làm việc",
+              "B": "Tối thiểu 03 ngày làm việc",
+              "C": "Tối thiểu 05 ngày làm việc",
+              "D": "Không cần thông báo"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "Tối thiểu 01 ngày làm việc"
+          },
+          {
+            "question": "Theo QĐ 31 năm 2021',Việc thanh toán điện tử giữa ngân hàng thương mại (hoặc trung gian thanh toán) đến tài khoản thụ hưởng của cơ quan được thực hiện không chậm hơn thời gian nào (trừ thuế, bảo hiểm)?",
+            "options": {
+              "A": "Ngay lập tức",
+              "B": "Chậm nhất ngày T+1",
+              "C": "Chậm nhất ngày T+2",
+              "D": "Sau 01 tuần"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "Ngay lập tức"
+          },
+          {
+            "question": "Theo thông tư 09/2020 \"Xác thực đa yếu tố\" theo Thông tư 09 yêu cầu tối thiểu bao nhiêu yếu tố?",
+            "options": {
+              "A": "Một yếu tố",
+              "B": "Hai yếu tố",
+              "C": "Ba yếu tố",
+              "D": "Bốn yếu tố"
+            },
+            "answer": 2,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "Một yếu tố"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Báo cáo hoàn thành khắc phục sự cố phải gửi NHNN trong vòng bao nhiêu ngày sau khi khắc phục xong?",
+            "options": {
+              "A": "1 ngày làm việc",
+              "B": "3 ngày làm việc",
+              "C": "5 ngày làm việc",
+              "D": "10 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "1 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Báo cáo kỷ luật sa thải nhân sự CNTT phải gửi cho NHNN trong vòng bao nhiêu ngày?",
+            "options": {
+              "A": "24 giờ",
+              "B": "3 ngày làm việc",
+              "C": "5 ngày làm việc",
+              "D": "7 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "24 giờ"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Bộ phận kiểm toán nội bộ phải thực hiện kiểm tra ATTT tối thiểu bao lâu một lần?",
+            "options": {
+              "A": "Hàng năm",
+              "B": "2 năm một lần",
+              "C": "3 năm một lần",
+              "D": "5 năm một lần"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "Hàng năm"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Các ngân hàng thương mại phải thực hiện kiểm tra nội bộ về ATTT tối thiểu bao lâu một lần?",
+            "options": {
+              "A": "6 tháng một lần",
+              "B": "1 năm một lần",
+              "C": "2 năm một lần",
+              "D": "3 năm một lần"
+            },
+            "answer": 2,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "6 tháng một lần"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Camera giám sát tại Trung tâm dữ liệu phải lưu trữ dữ liệu tối thiểu bao nhiêu ngày?",
+            "options": {
+              "A": "30 ngày",
+              "B": "60 ngày",
+              "C": "90 ngày",
+              "D": "180 ngày"
+            },
+            "answer": 3,
+            "topic": "III.7 Sinh trắc học (Biometrics)",
+            "explanation": "30 ngày"
+          }
+        ]
+      },
+      {
+        "id": "IV1Khung_pháp_lý_chuyển_đổi_số,_chuyển_đổi_số_ngành_ngân_hàng",
+        "name": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "questions": [
+          {
+            "question": "Theo thông tư 09/2020 Danh sách HTTT theo cấp độ phải được rà soát, cập nhật định kỳ bao lâu một lần?",
+            "options": {
+              "A": "6 tháng",
+              "B": "Hàng năm",
+              "C": "2 năm",
+              "D": "3 năm"
+            },
+            "answer": 2,
+            "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+            "explanation": "6 tháng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Đối với giao dịch chuyển tiền điện tử liên ngân hàng từ bao nhiêu tiền trở lên bắt buộc áp dụng xác thực đa yếu tố tại bước phê duyệt cuối?",
+            "options": {
+              "A": "50 triệu đồng",
+              "B": "100 triệu đồng",
+              "C": "200 triệu đồng",
+              "D": "500 triệu đồng"
+            },
+            "answer": 2,
+            "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+            "explanation": "50 triệu đồng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Dữ liệu của HTTT cấp độ 3 trở lên phải được sao lưu với tần suất như thế nào?",
+            "options": {
+              "A": "Hàng tuần",
+              "B": "Hàng tháng",
+              "C": "Trong vòng 24 giờ kể từ khi phát sinh",
+              "D": "Theo quý"
+            },
+            "answer": 3,
+            "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+            "explanation": "Hàng tuần"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Dữ liệu nhật ký (log) của HTTT cấp độ 3 trở lên phải được lưu trực tuyến tối thiểu bao lâu?",
+            "options": {
+              "A": "1 tháng",
+              "B": "3 tháng",
+              "C": "6 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 2,
+            "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+            "explanation": "1 tháng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Dữ liệu nhật ký của HTTT cấp độ 2 phải được sao lưu tối thiểu bao lâu?",
+            "options": {
+              "A": "1 tháng",
+              "B": "3 tháng",
+              "C": "6 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 3,
+            "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+            "explanation": "1 tháng"
+          }
+        ]
+      },
+      {
+        "id": "IV10Khoa_học_công_nghệ",
+        "name": "IV.10.Khoa học công nghệ",
+        "questions": [
+          {
+            "question": "Theo thông tư 18/2024, Khi chủ thẻ báo mất thẻ, TCPHT phải thực hiện việc khóa thẻ trong bao lâu?",
+            "options": {
+              "A": "Ngay lập tức",
+              "B": "Sau 30 phút",
+              "C": "Sau 01 giờ",
+              "D": "Trong ngày làm việc"
+            },
+            "answer": 1,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "Ngay lập tức"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Khi thay đổi biểu phí dịch vụ thẻ, TCPHT phải thông báo cho chủ thẻ trước ít nhất bao nhiêu ngày?",
+            "options": {
+              "A": "03 ngày",
+              "B": "05 ngày",
+              "C": "07 ngày",
+              "D": "15 ngày"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "03 ngày"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Khoản cấp tín dụng qua thẻ có mức giá trị nhỏ theo Luật Các TCTD là khoản nợ không vượt quá bao nhiêu?",
+            "options": {
+              "A": "100 triệu đồng",
+              "B": "200 triệu đồng",
+              "C": "400 triệu đồng",
+              "D": "500 triệu đồng"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "100 triệu đồng"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Nếu không xác định được lỗi trong thời gian quy định, trong bao lâu TCPHT phải thỏa thuận phương án xử lý tạm thời?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "30 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 18/2024, TCPHT phải bồi hoàn cho chủ thẻ trong vòng bao nhiêu ngày làm việc kể từ khi thông báo kết quả tra soát nếu lỗi thuộc ngân hàng?",
+            "options": {
+              "A": "03 ngày",
+              "B": "05 ngày",
+              "C": "07 ngày",
+              "D": "10 ngày"
+            },
+            "answer": 2,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "03 ngày"
+          },
+          {
+            "question": "Theo thông tư 18/2024, TCPHT phải gửi thông báo cho khách hàng bao nhiêu ngày trước khi giấy tờ tùy thân hết hiệu lực?",
+            "options": {
+              "A": "07 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "07 ngày"
+          },
+          {
+            "question": "Theo thông tư 18/2024, TCPHT phải gửi thông báo về mẫu thẻ phát hành cho Ngân hàng Nhà nước trước ít nhất bao nhiêu ngày?",
+            "options": {
+              "A": "07 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "07 ngày"
+          },
+          {
+            "question": "Theo thông tư 18/2024, TCPHT phải lưu trữ quy định nội bộ về cấp tín dụng qua thẻ và gửi cho NHNN trong bao lâu sau khi ban hành?",
+            "options": {
+              "A": "05 ngày",
+              "B": "10 ngày",
+              "C": "15 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Thời hạn chủ thẻ được quyền đề nghị tra soát, khiếu nại không được ít hơn bao nhiêu ngày?",
+            "options": {
+              "A": "30 ngày",
+              "B": "45 ngày",
+              "C": "60 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 3,
+            "topic": "IV.10.Khoa học công nghệ",
+            "explanation": "30 ngày"
+          }
+        ]
+      },
+      {
+        "id": "IV11Dữ_liệu",
+        "name": "IV.11.Dữ liệu",
+        "questions": [
+          {
+            "question": "Theo thông tư 18/2024, Thời hạn xử lý đề nghị tra soát, khiếu nại tối đa đối với thẻ có BIN của NHNN là bao nhiêu ngày?",
+            "options": {
+              "A": "15 ngày làm việc",
+              "B": "30 ngày làm việc",
+              "C": "45 ngày làm việc",
+              "D": "60 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.11.Dữ liệu",
+            "explanation": "15 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Thời hạn xử lý thông báo mất thẻ (đối với thẻ có BIN của Ngân hàng Nhà nước) không quá bao nhiêu ngày làm việc?",
+            "options": {
+              "A": "03 ngày",
+              "B": "05 ngày",
+              "C": "07 ngày",
+              "D": "10 ngày"
+            },
+            "answer": 2,
+            "topic": "IV.11.Dữ liệu",
+            "explanation": "03 ngày"
+          },
+          {
+            "question": "Theo thông tư 25, Tài liệu trong hồ sơ mở tài khoản của nhà đầu tư nước ngoài do cơ quan nước ngoài cấp phải được công chứng, chứng thực trong thời hạn bao lâu?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "IV.11.Dữ liệu",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Theo thông tư 25, Theo Phụ lục 02, tài khoản có bao nhiêu giao dịch nhận tiền từ tài khoản nghi ngờ lừa đảo thì bị xếp vào lý do số 4?",
+            "options": {
+              "A": "01 giao dịch",
+              "B": "Hơn 03 giao dịch",
+              "C": "Hơn 10 giao dịch",
+              "D": "100 giao dịch"
+            },
+            "answer": 2,
+            "topic": "IV.11.Dữ liệu",
+            "explanation": "01 giao dịch"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Khi nhận được lệnh chuyển tiền đến, doanh nghiệp bưu chính phải hạch toán và thông báo cho bên thụ hưởng trong bao lâu?",
+            "options": {
+              "A": "Ngay lập tức",
+              "B": "Chậm nhất trong 01 ngày làm việc",
+              "C": "Chậm nhất trong 02 ngày làm việc",
+              "D": "Chậm nhất trong 05 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.11.Dữ liệu",
+            "explanation": "Ngay lập tức"
+          }
+        ]
+      },
+      {
+        "id": "IV2Bảo_vệ_dữ_liệu_cá_nhân",
+        "name": "IV.2.Bảo vệ dữ liệu cá nhân",
+        "questions": [
+          {
+            "question": "Theo thông tư 09/2020 Dữ liệu nhật ký HTTT cấp độ 3+ phải được sao lưu tối thiểu bao lâu?",
+            "options": {
+              "A": "3 tháng",
+              "B": "6 tháng",
+              "C": "1 năm",
+              "D": "2 năm"
+            },
+            "answer": 3,
+            "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+            "explanation": "3 tháng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Hệ thống dự phòng thảm họa phải đảm bảo khả năng thay thế hệ thống chính cấp độ 3 trong bao lâu?",
+            "options": {
+              "A": "1 giờ",
+              "B": "2 giờ",
+              "C": "4 giờ",
+              "D": "24 giờ"
+            },
+            "answer": 3,
+            "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+            "explanation": "1 giờ"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Hệ thống thông tin phục vụ hoạt động nội bộ và chỉ xử lý thông tin công cộng được phân loại là cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Cấp độ 2",
+              "C": "Cấp độ 3",
+              "D": "Cấp độ 4"
+            },
+            "answer": 1,
+            "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Hệ thống thông tin phục vụ khách hàng yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành không có kế hoạch là cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 2",
+              "B": "Cấp độ 3",
+              "C": "Cấp độ 4",
+              "D": "Cấp độ 5"
+            },
+            "answer": 2,
+            "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+            "explanation": "Cấp độ 2"
+          }
+        ]
+      },
+      {
+        "id": "IV3Giao_dịch_điện_tử",
+        "name": "IV.3.Giao dịch điện tử",
+        "questions": [
+          {
+            "question": "Theo thông tư 09/2020 Hoạt động kiểm tra, đánh giá ATTT cho HTTT cấp độ 3 và 4 định kỳ bao lâu?",
+            "options": {
+              "A": "6 tháng một lần",
+              "B": "1 năm một lần",
+              "C": "2 năm một lần",
+              "D": "3 năm một lần"
+            },
+            "answer": 2,
+            "topic": "IV.3.Giao dịch điện tử",
+            "explanation": "6 tháng một lần"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT cấp độ 5 phải thực hiện kiểm tra, đánh giá ATTT định kỳ bao lâu một lần?",
+            "options": {
+              "A": "3 tháng một lần",
+              "B": "6 tháng một lần",
+              "C": "1 năm một lần",
+              "D": "2 năm một lần"
+            },
+            "answer": 2,
+            "topic": "IV.3.Giao dịch điện tử",
+            "explanation": "3 tháng một lần"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT cấp độ mấy xử lý thông tin bí mật nhà nước ở mức \"Tối mật\"?",
+            "options": {
+              "A": "Cấp độ 3",
+              "B": "Cấp độ 4",
+              "C": "Cấp độ 5",
+              "D": "Không phân cấp"
+            },
+            "answer": 2,
+            "topic": "IV.3.Giao dịch điện tử",
+            "explanation": "Cấp độ 3"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT cấp độ mấy xử lý thông tin bí mật nhà nước ở mức \"Tuyệt mật\"?",
+            "options": {
+              "A": "Cấp độ 3",
+              "B": "Cấp độ 4",
+              "C": "Cấp độ 5",
+              "D": "Cấp độ đặc biệt"
+            },
+            "answer": 3,
+            "topic": "IV.3.Giao dịch điện tử",
+            "explanation": "Cấp độ 3"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT cung cấp dịch vụ trực tuyến cho khách hàng phải tuân thủ tiêu chuẩn nào?",
+            "options": {
+              "A": "ISO 9001",
+              "B": "TCVN 11930:2017",
+              "C": "ISO 14001",
+              "D": "TCVN 7568"
+            },
+            "answer": 2,
+            "topic": "IV.3.Giao dịch điện tử",
+            "explanation": "ISO 9001"
+          }
+        ]
+      },
+      {
+        "id": "IV4Rủi_ro_pháp_lý_trong_môi_trường_số",
+        "name": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "questions": [
+          {
+            "question": "Theo thông tư 09/2020 HTTT phục vụ khách hàng có xử lý, lưu trữ dữ liệu của bao nhiêu khách hàng trở lên thì được xếp vào cấp độ 4?",
+            "options": {
+              "A": "1 triệu khách hàng",
+              "B": "5 triệu khách hàng",
+              "C": "10 triệu khách hàng",
+              "D": "20 triệu khách hàng"
+            },
+            "answer": 3,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "1 triệu khách hàng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT quốc gia trong ngành Ngân hàng phục vụ kết nối liên thông quốc tế thuộc cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 3",
+              "B": "Cấp độ 4",
+              "C": "Cấp độ 5",
+              "D": "Cấp độ đặc biệt"
+            },
+            "answer": 3,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "Cấp độ 3"
+          },
+          {
+            "question": "Theo thông tư 09/2020 HTTT từ cấp độ mấy trở lên bắt buộc phải áp dụng phương án chống thất thoát dữ liệu (DLP)?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Cấp độ 2",
+              "C": "Cấp độ 3",
+              "D": "Cấp độ 4"
+            },
+            "answer": 3,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Khi thuê bên thứ ba quản trị HTTT cấp độ 3, tổ chức phải gửi báo cáo đánh giá rủi ro cho NHNN trước bao nhiêu ngày?",
+            "options": {
+              "A": "5 ngày làm việc",
+              "B": "7 ngày làm việc",
+              "C": "10 ngày làm việc",
+              "D": "15 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "5 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Quy chế an toàn thông tin của tổ chức phải được rà soát tối thiểu bao lâu một lần?",
+            "options": {
+              "A": "6 tháng",
+              "B": "Mỗi năm một lần",
+              "C": "2 năm một lần",
+              "D": "5 năm một lần"
+            },
+            "answer": 2,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "6 tháng"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Tổ chức phải báo cáo sự cố ATTT về Ngân hàng Nhà nước trong vòng bao lâu kể từ khi phát hiện?",
+            "options": {
+              "A": "1 giờ",
+              "B": "12 giờ",
+              "C": "24 giờ",
+              "D": "48 giờ"
+            },
+            "answer": 3,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "1 giờ"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Việc diễn tập phương án xử lý sự cố ATTT cho ít nhất một HTTT cấp độ 3 trở lên phải thực hiện định kỳ bao lâu?",
+            "options": {
+              "A": "6 tháng một lần",
+              "B": "Hàng năm",
+              "C": "2 năm một lần",
+              "D": "3 năm một lần"
+            },
+            "answer": 2,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "6 tháng một lần"
+          },
+          {
+            "question": "Theo thông tư 09/2020 Việc kiểm tra phục hồi dữ liệu từ phương tiện lưu trữ ngoài đối với HTTT cấp độ 3 trở lên được thực hiện định kỳ bao lâu?",
+            "options": {
+              "A": "6 tháng một lần",
+              "B": "1 năm một lần",
+              "C": "2 năm một lần",
+              "D": "3 năm một lần"
+            },
+            "answer": 2,
+            "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+            "explanation": "6 tháng một lần"
+          }
+        ]
+      },
+      {
+        "id": "IV5Pháp_lý_Fintech,_Bigtech",
+        "name": "IV.5.Pháp lý Fintech, Bigtech",
+        "questions": [
+          {
+            "question": "Theo thông tư 15/2024, \"Xác thực đa yếu tố\" trong giao dịch thanh toán trực tuyến là yêu cầu tại cấp độ nào?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Cấp độ 2",
+              "C": "Theo quy định về an toàn bảo mật hệ thống thông tin",
+              "D": "Không bắt buộc"
+            },
+            "answer": 3,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Báo cáo về tình hình triển khai dịch vụ của doanh nghiệp bưu chính định kỳ hàng năm phải gửi trước ngày nào?",
+            "options": {
+              "A": "4638700%",
+              "B": "Trước ngày 15/01 của năm tiếp theo",
+              "C": "Trước ngày 30/01 của năm tiếp theo",
+              "D": "4602300%"
+            },
+            "answer": 2,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "4638700%"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Cục Công nghệ thông tin có bao nhiêu ngày để đánh giá điều kiện kỹ thuật của doanh nghiệp bưu chính?",
+            "options": {
+              "A": "07 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "30 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "07 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Doanh nghiệp bưu chính công ích thực hiện chuyển tiền đi cho khách hàng trong thời hạn bao lâu kể từ khi nhận chứng từ hợp lệ?",
+            "options": {
+              "A": "Ngay lập tức",
+              "B": "Chậm nhất 01 ngày làm việc",
+              "C": "Chậm nhất 02 ngày làm việc",
+              "D": "Chậm nhất 03 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "Ngay lập tức"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Khi thực hiện dịch vụ ủy nhiệm chi, nếu bên thụ hưởng và bên trả tiền có tài khoản tại CÙNG một ngân hàng, thời hạn hạch toán chậm nhất là bao lâu?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "Tức thời"
+            },
+            "answer": 1,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Nếu bên thụ hưởng nhận tiền mặt nhưng không đến nhận hoặc không liên hệ được, sau bao lâu ngân hàng phải hoàn trả tiền cho bên trả tiền?",
+            "options": {
+              "A": "05 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 3,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "05 ngày"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Nếu tổn thất phát sinh không do lỗi của khách hàng, tổ chức thanh toán phải bồi hoàn trong thời hạn bao lâu sau khi thông báo kết quả tra soát?",
+            "options": {
+              "A": "Tối đa 02 ngày làm việc",
+              "B": "Tối đa 03 ngày làm việc",
+              "C": "Tối đa 05 ngày làm việc",
+              "D": "Tối đa 07 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.5.Pháp lý Fintech, Bigtech",
+            "explanation": "Tối đa 02 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "IV6Chữ_ký_số,_hợp_đồng_điện_tử",
+        "name": "IV.6.Chữ ký số, hợp đồng điện tử",
+        "questions": [
+          {
+            "question": "Theo thông tư 15/2024, Tại ngân hàng phục vụ bên thụ hưởng, nếu lệnh chuyển tiền hợp lệ, thời hạn hạch toán vào tài khoản khách hàng là bao lâu?",
+            "options": {
+              "A": "Chậm nhất 01 ngày làm việc",
+              "B": "Chậm nhất 02 ngày làm việc",
+              "C": "Chậm nhất 04 ngày làm việc",
+              "D": "Chậm nhất 07 ngày làm việc"
+            },
+            "answer": 1,
+            "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+            "explanation": "Chậm nhất 01 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Tại ngân hàng phục vụ bên trả tiền, nếu ủy nhiệm thu có sai sót, ngân hàng phải gửi yêu cầu tra soát hoặc trả lại trong bao lâu?",
+            "options": {
+              "A": "Chậm nhất 01 ngày làm việc",
+              "B": "Chậm nhất 02 ngày làm việc",
+              "C": "Chậm nhất 03 ngày làm việc",
+              "D": "Chậm nhất 05 ngày làm việc"
+            },
+            "answer": 1,
+            "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+            "explanation": "Chậm nhất 01 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Thời hạn để khách hàng có quyền đề nghị tra soát, khiếu nại đối với giao dịch thanh toán là bao lâu kể từ ngày phát sinh?",
+            "options": {
+              "A": "Không ít hơn 30 ngày",
+              "B": "Không ít hơn 60 ngày",
+              "C": "Không ít hơn 90 ngày",
+              "D": "Không ít hơn 180 ngày"
+            },
+            "answer": 2,
+            "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+            "explanation": "Không ít hơn 30 ngày"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Thời hạn để Vụ Thanh toán xem xét và gửi hồ sơ lấy ý kiến các đơn vị liên quan về cấp phép dịch vụ bưu chính là bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "20 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+            "explanation": "05 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "IV7Trách_nhiệm_pháp_lý_khi_xảy_ra_sự_cố_Công_nghệ_thông_tin",
+        "name": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+        "questions": [
+          {
+            "question": "Theo thông tư 15/2024, Thời hạn phối hợp tra soát giữa các tổ chức cung ứng dịch vụ thanh toán trong thanh toán ủy nhiệm chi là bao nhiêu ngày?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "04 ngày làm việc",
+              "D": "07 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Thời hạn tổ chức thanh toán phải trả lời hoặc xử lý khiếu nại của khách hàng là bao lâu?",
+            "options": {
+              "A": "Tối đa 15 ngày làm việc",
+              "B": "Tối đa 30 ngày làm việc",
+              "C": "Tối đa 45 ngày làm việc",
+              "D": "Tối đa 60 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+            "explanation": "Tối đa 15 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Thống đốc NHNN quyết định chấp thuận hoạt động cung ứng dịch vụ thanh toán của doanh nghiệp bưu chính trong thời hạn bao lâu?",
+            "options": {
+              "A": "15 ngày làm việc",
+              "B": "30 ngày làm việc",
+              "C": "45 ngày làm việc",
+              "D": "60 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+            "explanation": "15 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 15/2024, Trong quá trình xử lý khiếu nại, nếu hết thời hạn mà vẫn chưa xác định được lỗi thuộc bên nào thì trong bao lâu tiếp theo hai bên phải thỏa thuận phương án xử lý?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "30 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+            "explanation": "05 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "IV8Ngân_hàng_số,_thanh_toán",
+        "name": "IV.8.Ngân hàng số, thanh toán",
+        "questions": [
+          {
+            "question": "Theo thông tư 17/2024, Định kỳ hàng tháng, ngân hàng phải cung cấp thông tin về tài khoản nghi ngờ gian lận cho Ngân hàng Nhà nước vào ngày nào?",
+            "options": {
+              "A": "Ngày 01",
+              "B": "Chậm nhất ngày 10",
+              "C": "Ngày 20",
+              "D": "Ngày cuối tháng"
+            },
+            "answer": 2,
+            "topic": "IV.8.Ngân hàng số, thanh toán",
+            "explanation": "Ngày 01"
+          },
+          {
+            "question": "Theo thông tư 17/2024, Ngân hàng phải thông báo cho khách hàng trước bao nhiêu ngày khi giấy tờ tùy thân hết hiệu lực?",
+            "options": {
+              "A": "10 ngày",
+              "B": "Tối thiểu 30 ngày",
+              "C": "60 ngày",
+              "D": "Không cần thông báo"
+            },
+            "answer": 2,
+            "topic": "IV.8.Ngân hàng số, thanh toán",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Theo thông tư 17/2024, Tài khoản thanh toán có hơn bao nhiêu giao dịch nhận tiền từ các tài khoản nghi ngờ lừa đảo thì bị xếp vào lý do nghi ngờ số 4?",
+            "options": {
+              "A": "01 giao dịch",
+              "B": "03 giao dịch",
+              "C": "05 giao dịch",
+              "D": "10 giao dịch"
+            },
+            "answer": 2,
+            "topic": "IV.8.Ngân hàng số, thanh toán",
+            "explanation": "01 giao dịch"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Cá nhân từ đủ bao nhiêu tuổi trở lên có năng lực hành vi dân sự đầy đủ được sử dụng mọi loại thẻ chính?",
+            "options": {
+              "A": "Đủ 15 tuổi",
+              "B": "Đủ 16 tuổi",
+              "C": "Đủ 18 tuổi",
+              "D": "Đủ 20 tuổi"
+            },
+            "answer": 3,
+            "topic": "IV.8.Ngân hàng số, thanh toán",
+            "explanation": "Đủ 15 tuổi"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Đối với chủ thẻ là người nước ngoài, thời hạn cư trú tại Việt Nam tối thiểu để được phát hành thẻ là bao lâu?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "IV.8.Ngân hàng số, thanh toán",
+            "explanation": "03 tháng"
+          }
+        ]
+      },
+      {
+        "id": "IV9An_ninh_an_toàn_thông_tin",
+        "name": "IV.9.An ninh an toàn thông tin",
+        "questions": [
+          {
+            "question": "Theo thông tư 18/2024, Đối với thẻ trả trước vô danh, số dư tại mọi thời điểm trên một thẻ không được vượt quá bao nhiêu?",
+            "options": {
+              "A": "02 triệu đồng",
+              "B": "05 triệu đồng",
+              "C": "10 triệu đồng",
+              "D": "15 triệu đồng"
+            },
+            "answer": 2,
+            "topic": "IV.9.An ninh an toàn thông tin",
+            "explanation": "02 triệu đồng"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Hạn mức rút ngoại tệ tiền mặt tại nước ngoài tối đa cho một thẻ trong một ngày là bao nhiêu?",
+            "options": {
+              "A": "Tương đương 10 triệu VND",
+              "B": "Tương đương 20 triệu VND",
+              "C": "Tương đương 30 triệu VND",
+              "D": "Tương đương 50 triệu VND"
+            },
+            "answer": 3,
+            "topic": "IV.9.An ninh an toàn thông tin",
+            "explanation": "Tương đương 10 triệu VND"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Hạn mức rút tiền mặt bằng thẻ tín dụng tối đa trong 01 tháng là bao nhiêu (tính theo BIN)?",
+            "options": {
+              "A": "50 triệu đồng",
+              "B": "100 triệu đồng",
+              "C": "200 triệu đồng",
+              "D": "Tùy thỏa thuận không giới hạn"
+            },
+            "answer": 2,
+            "topic": "IV.9.An ninh an toàn thông tin",
+            "explanation": "50 triệu đồng"
+          },
+          {
+            "question": "Theo thông tư 18/2024, Hạn mức tín dụng tối đa đối với thẻ tín dụng phát hành không có tài sản bảo đảm cho cá nhân là bao nhiêu?",
+            "options": {
+              "A": "100 triệu đồng",
+              "B": "300 triệu đồng",
+              "C": "500 triệu đồng",
+              "D": "01 tỷ đồng"
+            },
+            "answer": 3,
+            "topic": "IV.9.An ninh an toàn thông tin",
+            "explanation": "100 triệu đồng"
+          }
+        ]
+      },
+      {
+        "id": "V1An_toàn_thông_tin_ngân_hàng_số",
+        "name": "V.1.An toàn thông tin ngân hàng số",
+        "questions": [
+          {
+            "question": "Theo thông tư 30/2025, Khi phát hiện sự cố gây gián đoạn dịch vụ thanh toán trực tuyến QUÁ 30 phút, tổ chức phải báo cáo NHNN trong bao lâu?",
+            "options": {
+              "A": "Trong vòng 01 giờ",
+              "B": "Trong vòng 04 giờ",
+              "C": "Trong vòng 12 giờ",
+              "D": "Trong vòng 24 giờ"
+            },
+            "answer": 2,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "Trong vòng 01 giờ"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Một lần gián đoạn cung ứng dịch vụ thanh toán trực tuyến không được vượt quá bao nhiêu phút (trừ trường hợp bất khả kháng hoặc bảo trì đã thông báo)?",
+            "options": {
+              "A": "15 phút",
+              "B": "30 phút",
+              "C": "45 phút",
+              "D": "60 phút"
+            },
+            "answer": 2,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "15 phút"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Sau khi cơ quan nhà nước thông báo kết quả xử lý không có yếu tố tội phạm, tổ chức thanh toán phải thỏa thuận với khách hàng về phương án xử lý khiếu nại trong bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "30 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Sau khi hoàn thành khắc phục sự cố gián đoạn dịch vụ, tổ chức phải gửi báo cáo đầy đủ cho NHNN trong bao lâu?",
+            "options": {
+              "A": "24 giờ",
+              "B": "03 ngày làm việc",
+              "C": "05 ngày làm việc",
+              "D": "07 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "24 giờ"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Theo Phụ lục 05, sự cố được coi là \"Nghiêm trọng\" khi thời gian gián đoạn là bao lâu?",
+            "options": {
+              "A": "> 01 giờ",
+              "B": "> 02 giờ",
+              "C": "> 04 giờ",
+              "D": "> 24 giờ"
+            },
+            "answer": 3,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "> 01 giờ"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Thời hạn chậm nhất để doanh nghiệp bưu chính xử lý và hoàn tất việc chuyển tiền đi là bao lâu?",
+            "options": {
+              "A": "Ngay lập tức",
+              "B": "Chậm nhất trong 01 ngày làm việc",
+              "C": "Chậm nhất trong 02 ngày làm việc",
+              "D": "Chậm nhất trong 03 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "Ngay lập tức"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Tổng thời gian gián đoạn cung ứng toàn bộ dịch vụ thanh toán trực tuyến không được vượt quá bao nhiêu?",
+            "options": {
+              "A": "02 giờ/năm",
+              "B": "04 giờ/năm",
+              "C": "10 giờ/năm",
+              "D": "24 giờ/năm"
+            },
+            "answer": 2,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "02 giờ/năm"
+          },
+          {
+            "question": "Theo thông tư 30/2025, Trước khi bảo trì, nâng cấp hệ thống dẫn đến gián đoạn dịch vụ, tổ chức thanh toán phải thông báo cho khách hàng trước bao lâu?",
+            "options": {
+              "A": "04 giờ",
+              "B": "12 giờ",
+              "C": "24 giờ",
+              "D": "48 giờ"
+            },
+            "answer": 3,
+            "topic": "V.1.An toàn thông tin ngân hàng số",
+            "explanation": "04 giờ"
+          }
+        ]
+      },
+      {
+        "id": "V2An_ninh_mạng",
+        "name": "V.2.An ninh mạng",
+        "questions": [
+          {
+            "question": "Thời gian chậm nhất để gửi văn bản yêu cầu đình chỉ, tạm đình chỉ hoạt động hệ thống thông tin là bao lâu kể từ khi có yêu cầu (trường hợp cấp bách đã yêu cầu trực tiếp)?Theo nghị định 53/2022",
+            "options": {
+              "A": "12 giờ",
+              "B": "24 giờ",
+              "C": "48 giờ",
+              "D": "72 giờ"
+            },
+            "answer": 2,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "12 giờ"
+          },
+          {
+            "question": "Thời gian khảo sát thực tế để thẩm định an ninh mạng (trường hợp cần thiết) không quá bao nhiêu ngày?Theo nghị định 53/2022",
+            "options": {
+              "A": "03 ngày làm việc",
+              "B": "05 ngày làm việc",
+              "C": "07 ngày làm việc",
+              "D": "10 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "03 ngày làm việc"
+          },
+          {
+            "question": "Thời gian khảo sát, đánh giá thực tế khi thực hiện thẩm định an ninh mạng tối đa là bao nhiêu ngày làm việc?Theo nghị định 53/2022",
+            "options": {
+              "A": "03 ngày",
+              "B": "05 ngày",
+              "C": "07 ngày",
+              "D": "10 ngày"
+            },
+            "answer": 3,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "03 ngày"
+          },
+          {
+            "question": "Thời gian thẩm định hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia là bao lâu?Theo nghị định 53/2022",
+            "options": {
+              "A": "15 ngày",
+              "B": "20 ngày",
+              "C": "30 ngày",
+              "D": "45 ngày"
+            },
+            "answer": 3,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "15 ngày"
+          },
+          {
+            "question": "Thời gian xác nhận hồ sơ hợp lệ kể từ khi nhận đủ hồ sơ đề nghị là bao lâu?Theo nghị định 53/2022",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "05 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Thời hạn để doanh nghiệp hoàn thành việc lưu trữ dữ liệu, đặt chi nhánh hoặc văn phòng đại diện tại Việt Nam là bao lâu kể từ ngày có quyết định của Bộ trưởng Bộ Công an?Theo nghị định 53/2022",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Thời hạn tiến hành thẩm định an ninh mạng và thông báo kết quả là bao nhiêu ngày kể từ khi nhận đủ hồ sơ?Theo nghị định 53/2022",
+            "options": {
+              "A": "10 ngày",
+              "B": "15 ngày",
+              "C": "20 ngày",
+              "D": "30 ngày"
+            },
+            "answer": 4,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Định kỳ tối thiểu bao lâu đơn vị phải lập danh mục và kiểm tra các phần mềm được phép cài đặt trên máy chủ?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 2,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Đối với giao dịch Nhóm I.2 của khách hàng cá nhân, giao dịch có giá trị (G+T) từ bao nhiêu tiền trở lên thì được xếp vào loại D?",
+            "options": {
+              "A": "Trên 100 triệu VND",
+              "B": "Trên 500 triệu VND",
+              "C": "Trên 1 tỷ VND",
+              "D": "Trên 1,5 tỷ VND"
+            },
+            "answer": 4,
+            "topic": "V.2.An ninh mạng",
+            "explanation": "Trên 100 triệu VND"
+          }
+        ]
+      },
+      {
+        "id": "V3Quản_lý_rủi_ro_công_nghệ_thông_tin",
+        "name": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "questions": [
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Đơn vị phải gửi báo cáo về việc cung cấp dịch vụ Online Banking cho NHNN trước khi cung cấp chính thức bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "30 ngày"
+            },
+            "answer": 2,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Đơn vị phải thông báo cho khách hàng tối thiểu bao nhiêu ngày trước khi giấy tờ tùy thân của khách hàng hết hiệu lực?",
+            "options": {
+              "A": "07 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 3,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "07 ngày"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Giao dịch nạp, rút tiền từ ví điện tử của khách hàng tại ngân hàng liên kết (G <= 10 triệu, G+Tksth <= 20 triệu) là loại giao dịch nào?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 1,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Hệ thống Online Banking phải tuân thủ quy định bảo đảm an toàn hệ thống thông tin tối thiểu từ cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Cấp độ 2",
+              "C": "Cấp độ 3",
+              "D": "Cấp độ 4"
+            },
+            "answer": 3,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "Cấp độ 1"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Hiệu năng sử dụng tài nguyên máy chủ (CPU, RAM) trung bình hàng tháng tối đa là bao nhiêu so với công suất thiết kế?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "80%",
+              "D": "90%"
+            },
+            "answer": 3,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "50%"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Khi có lỗ hổng bảo mật được đánh giá ở mức NGHIÊM TRỌNG, đơn vị phải triển khai bản vá cho hệ thống kết nối Internet trong bao lâu?",
+            "options": {
+              "A": "Trong vòng 01 ngày",
+              "B": "Trong vòng 07 ngày",
+              "C": "Trong vòng 15 ngày",
+              "D": "Trong vòng 30 ngày"
+            },
+            "answer": 1,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "Trong vòng 01 ngày"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Khi sử dụng hình thức khớp đúng thông tin sinh trắc học, đơn vị phải lưu trữ thông tin này đối với tối thiểu bao nhiêu giao dịch gần nhất?",
+            "options": {
+              "A": "05 giao dịch",
+              "B": "10 giao dịch",
+              "C": "20 giao dịch",
+              "D": "50 giao dịch"
+            },
+            "answer": 2,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "05 giao dịch"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua cuộc gọi thoại (Voice OTP) có hiệu lực tối đa bao lâu?",
+            "options": {
+              "A": "02 phút",
+              "B": "03 phút",
+              "C": "05 phút",
+              "D": "10 phút"
+            },
+            "answer": 2,
+            "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+            "explanation": "02 phút"
+          }
+        ]
+      },
+      {
+        "id": "V4Phòng_chống_gian_lận_(Fraud_Detection)",
+        "name": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "questions": [
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua Email (Email OTP) có hiệu lực tối đa bao lâu?",
+            "options": {
+              "A": "03 phút",
+              "B": "05 phút",
+              "C": "07 phút",
+              "D": "10 phút"
+            },
+            "answer": 2,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "03 phút"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua tin nhắn SMS (SMS OTP) có hiệu lực tối đa bao lâu?",
+            "options": {
+              "A": "02 phút",
+              "B": "03 phút",
+              "C": "05 phút",
+              "D": "10 phút"
+            },
+            "answer": 3,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "02 phút"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Nhật ký (log) giao dịch Online Banking phải được sao lưu tối thiểu trong bao lâu?",
+            "options": {
+              "A": "06 tháng",
+              "B": "01 năm",
+              "C": "02 năm",
+              "D": "05 năm"
+            },
+            "answer": 2,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "06 tháng"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Nhật ký (log) xác nhận giao dịch phải được lưu trữ trực tuyến tối thiểu bao lâu?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 2,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "01 tháng"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Phần mềm Online Banking phải tự động ngắt phiên giao dịch khi người dùng không thao tác trong bao lâu?",
+            "options": {
+              "A": "Do đơn vị quy định",
+              "B": "Cố định 5 phút",
+              "C": "Cố định 10 phút",
+              "D": "Cố định 30 phút"
+            },
+            "answer": 1,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "Do đơn vị quy định"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Thẻ ma trận OTP có thời hạn sử dụng tối đa bao lâu kể từ ngày đăng ký thẻ?",
+            "options": {
+              "A": "06 tháng",
+              "B": "01 năm",
+              "C": "02 năm",
+              "D": "05 năm"
+            },
+            "answer": 2,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "06 tháng"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Thời gian hiệu lực tối đa của mã khóa bí mật (Password) được cấp phát mặc định lần đầu là bao nhiêu ngày?",
+            "options": {
+              "A": "07 ngày",
+              "B": "15 ngày",
+              "C": "30 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 3,
+            "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+            "explanation": "07 ngày"
+          }
+        ]
+      },
+      {
+        "id": "V5Bảo_mật_dữ_liệu_khách_hàng",
+        "name": "V.5.Bảo mật dữ liệu khách hàng",
+        "questions": [
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Thời gian thực hiện khớp đúng thông tin sinh trắc học tối đa là bao lâu?",
+            "options": {
+              "A": "01 phút",
+              "B": "02 phút",
+              "C": "03 phút",
+              "D": "05 phút"
+            },
+            "answer": 3,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "01 phút"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Trường hợp xác nhận khớp đúng thông tin sinh trắc học bằng khuôn mặt, tỷ lệ chấp nhận sai (FAR) phải thấp hơn mức nào?",
+            "options": {
+              "A": "0,1%",
+              "B": "0,01%",
+              "C": "0,001%",
+              "D": "1%"
+            },
+            "answer": 2,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "0,1%"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Việc diễn tập phương án xử lý các tình huống rủi ro cấp độ CAO phải được thực hiện định kỳ tối thiểu bao lâu?",
+            "options": {
+              "A": "06 tháng một lần",
+              "B": "01 năm một lần",
+              "C": "02 năm một lần",
+              "D": "03 năm một lần"
+            },
+            "answer": 2,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "06 tháng một lần"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Việc kiểm tra, đánh giá an toàn, bảo mật hệ thống Online Banking phải được thực hiện định kỳ bao lâu?",
+            "options": {
+              "A": "Hàng quý",
+              "B": "Hàng năm",
+              "C": "02 năm một lần",
+              "D": "05 năm một lần"
+            },
+            "answer": 2,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "Hàng quý"
+          },
+          {
+            "question": "Thông tư 50/2024/TT-NHNN,Với khách hàng cá nhân, giao dịch chuyển tiền giữa các tài khoản của chính khách hàng đó trong cùng một TCTD được xếp vào nhóm nào?",
+            "options": {
+              "A": "Nhóm I.1",
+              "B": "Nhóm I.2",
+              "C": "Nhóm I.3",
+              "D": "Nhóm II.1"
+            },
+            "answer": 1,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "Nhóm I.1"
+          },
+          {
+            "question": "Thông tư 64/2024/TT-NHNN,Hệ thống thông tin triển khai Open API của ngân hàng phải đáp ứng tối thiểu cấp độ mấy?",
+            "options": {
+              "A": "Cấp độ 1",
+              "B": "Cấp độ 2",
+              "C": "Cấp độ 3",
+              "D": "Cấp độ 4"
+            },
+            "answer": 3,
+            "topic": "V.5.Bảo mật dữ liệu khách hàng",
+            "explanation": "Cấp độ 1"
+          }
+        ]
+      },
+      {
+        "id": "V6Phòng_chống_lừa_đảo_trên_không_gian_mạng",
+        "name": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "questions": [
+          {
+            "question": "Thông tư 64/2024/TT-NHNN,Nhật ký sử dụng Open API từ bên thứ ba phải được ghi nhận và lưu trữ trực tuyến tối thiểu bao lâu?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 2,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "01 tháng"
+          },
+          {
+            "question": "Thông tư 64/2024/TT-NHNN,Thời gian sao lưu nhật ký sử dụng Open API tối thiểu là bao lâu?",
+            "options": {
+              "A": "06 tháng",
+              "B": "01 năm",
+              "C": "02 năm",
+              "D": "05 năm"
+            },
+            "answer": 2,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "06 tháng"
+          },
+          {
+            "question": "Thông tư 64/2024/TT-NHNN,Thời hạn mặc định để bên thứ ba thực hiện truy vấn thông tin khách hàng sau khi được đồng ý là bao nhiêu ngày?",
+            "options": {
+              "A": "Không quá 30 ngày",
+              "B": "Không quá 90 ngày",
+              "C": "Không quá 180 ngày",
+              "D": "Không quá 365 ngày"
+            },
+            "answer": 3,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "Không quá 30 ngày"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Chuyển tiền liên ngân hàng ra nước ngoài (Nhóm I.4) với G+T > 1 tỷ VND được phân loại là?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 4,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Định kỳ tối thiểu bao lâu đơn vị phải đánh giá an toàn, bảo mật của các phiên bản phần mềm Mobile Banking đang cho phép cài đặt?",
+            "options": {
+              "A": "Hàng tháng",
+              "B": "03 tháng một lần",
+              "C": "06 tháng một lần",
+              "D": "Hàng năm"
+            },
+            "answer": 2,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "Hàng tháng"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Giải pháp phát hiện tấn công giả mạo thông tin sinh trắc học của vật thể sống (PAD) phải đạt tiêu chuẩn nào?",
+            "options": {
+              "A": "ISO 9001",
+              "B": "ISO 30107 cấp độ 2 hoặc tương đương",
+              "C": "TCVN 11930",
+              "D": "OWASP Top 10"
+            },
+            "answer": 2,
+            "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+            "explanation": "ISO 9001"
+          }
+        ]
+      },
+      {
+        "id": "V7DR,_BCP_–_khôi_phục_hệ_thống",
+        "name": "V.7.DR, BCP – khôi phục hệ thống",
+        "questions": [
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Giao dịch chuyển tiền giữa các ví điện tử của cùng một khách hàng trong một tổ chức trung gian thanh toán thuộc loại giao dịch nào?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 1,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Giao dịch Nhóm I.2 của khách hàng cá nhân có giá trị G+T > 1,5 tỷ VND là loại giao dịch nào?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 4,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Giao dịch Nhóm I.2 của khách hàng cá nhân có giá trị G+T > 100 triệu VND là loại giao dịch nào?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 3,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Giao dịch thanh toán hóa đơn hàng hóa dịch vụ hợp pháp (Nhóm I.2) có giá trị G+T <= 5 triệu VND là loại giao dịch nào?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Loại D"
+            },
+            "answer": 1,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Hình thức xác nhận giao dịch loại D có thể dùng để xác nhận cho loại giao dịch nào khác?",
+            "options": {
+              "A": "Loại A",
+              "B": "Loại B",
+              "C": "Loại C",
+              "D": "Tất cả các loại A, B, C"
+            },
+            "answer": 4,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "Loại A"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Phần mềm Online Banking trên nền tảng web phải phòng chống tối thiểu bao nhiêu lỗi hổng theo OWASP?",
+            "options": {
+              "A": "05 lỗ hổng",
+              "B": "10 lỗ hổng",
+              "C": "15 lỗ hổng",
+              "D": "20 lỗ hổng"
+            },
+            "answer": 2,
+            "topic": "V.7.DR, BCP – khôi phục hệ thống",
+            "explanation": "05 lỗ hổng"
+          }
+        ]
+      },
+      {
+        "id": "V8Nâng_cao_nhận_thức_an_toàn_thông_tin_cho_cán_bộ",
+        "name": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+        "questions": [
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Phiên bản OWASP áp dụng cho phần mềm phải là phiên bản được ban hành trong vòng bao lâu?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 2,
+            "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Thông tư 77/2025/TT-NHNN,Theo Thông tư 77, \"Khách hàng tổ chức mới\" là tổ chức đăng ký thành lập trong vòng bao lâu?",
+            "options": {
+              "A": "03 tháng",
+              "B": "06 tháng",
+              "C": "12 tháng",
+              "D": "24 tháng"
+            },
+            "answer": 3,
+            "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+            "explanation": "03 tháng"
+          },
+          {
+            "question": "Việc đình chỉ hoạt động của hệ thống thông tin phải được lập thành bao nhiêu bản biên bản?Theo nghị định 53/2022",
+            "options": {
+              "A": "01 bản",
+              "B": "02 bản",
+              "C": "03 bản",
+              "D": "04 bản"
+            },
+            "answer": 2,
+            "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+            "explanation": "01 bản"
+          }
+        ]
+      },
+      {
+        "id": "VI1Chiến_lược_chuyển_đổi_số_ngân_hàng",
+        "name": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Bản thỏa thuận sáp nhập phải được gửi cho các chủ nợ và người lao động trong thời hạn bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "20 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Chi nhánh của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+            "options": {
+              "A": "01 người",
+              "B": "02 người",
+              "C": "03 người",
+              "D": "05 người"
+            },
+            "answer": 3,
+            "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+            "explanation": "01 người"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Đội ngũ nhân lực nghiên cứu toàn thời gian của trung tâm R&D được công nhận tối thiểu bao nhiêu người?",
+            "options": {
+              "A": "03 người",
+              "B": "05 người",
+              "C": "10 người",
+              "D": "20 người"
+            },
+            "answer": 3,
+            "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+            "explanation": "03 người"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Đối với tổ chức nghiên cứu và phát triển công nghệ, yêu cầu tối thiểu bao nhiêu Tiến sĩ có chuyên môn phù hợp?",
+            "options": {
+              "A": "01 Tiến sĩ",
+              "B": "02 Tiến sĩ",
+              "C": "03 Tiến sĩ",
+              "D": "05 Tiến sĩ"
+            },
+            "answer": 1,
+            "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+            "explanation": "01 Tiến sĩ"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Giấy công nhận trung tâm nghiên cứu và phát triển có giá trị trong bao nhiêu năm?",
+            "options": {
+              "A": "02 năm",
+              "B": "03 năm",
+              "C": "05 năm",
+              "D": "10 năm"
+            },
+            "answer": 3,
+            "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+            "explanation": "02 năm"
+          }
+        ]
+      },
+      {
+        "id": "VI2Vai_trò_lãnh_đạo_trong_chuyển_đổi_số",
+        "name": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Hồ sơ đề nghị công nhận trung tâm R&D phải có tài liệu chứng minh kết quả nghiên cứu được ứng dụng trong bao nhiêu năm gần nhất?",
+            "options": {
+              "A": "01 năm",
+              "B": "02 năm",
+              "C": "03 năm",
+              "D": "05 năm"
+            },
+            "answer": 4,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "01 năm"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Hội đồng biên tập tạp chí khoa học phải có tối thiểu bao nhiêu thành viên?",
+            "options": {
+              "A": "03 thành viên",
+              "B": "05 thành viên",
+              "C": "07 thành viên",
+              "D": "09 thành viên"
+            },
+            "answer": 3,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "03 thành viên"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Hội đồng tư vấn công nhận trung tâm R&D làm việc theo nguyên tắc nào về sự có mặt của thành viên?",
+            "options": {
+              "A": "Phải có mặt 100%",
+              "B": "Phải có mặt ít nhất 2/3 số thành viên",
+              "C": "Phải có mặt ít nhất 1/2 số thành viên",
+              "D": "Chỉ cần Chủ tịch và Thư ký"
+            },
+            "answer": 2,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "Phải có mặt 100%"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Hội đồng tư vấn thẩm định hồ sơ công nhận trung tâm R&D có bao nhiêu thành viên?",
+            "options": {
+              "A": "03 đến 05",
+              "B": "05 đến 07",
+              "C": "09 đến 11",
+              "D": "15 đến 17"
+            },
+            "answer": 3,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "03 đến 05"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Kết quả thẩm định của Hội đồng được thông qua khi có ít nhất bao nhiêu số thành viên có mặt đồng ý?",
+            "options": {
+              "A": "2/3 số thành viên",
+              "B": "3/4 số thành viên",
+              "C": "4/5 số thành viên",
+              "D": "Toàn bộ"
+            },
+            "answer": 2,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "2/3 số thành viên"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Nguồn tài chính ổn định cho hoạt động của trung tâm R&D yêu cầu cam kết chi tối thiểu bao nhiêu mỗi năm?",
+            "options": {
+              "A": "500 triệu đồng",
+              "B": "01 tỷ đồng",
+              "C": "02 tỷ đồng",
+              "D": "05 tỷ đồng"
+            },
+            "answer": 3,
+            "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+            "explanation": "500 triệu đồng"
+          }
+        ]
+      },
+      {
+        "id": "VI3Mô_hình_ngân_hàng_số",
+        "name": "VI.3.Mô hình ngân hàng số",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Sau khi có quyết định thành lập, tổ chức KH&CN có vốn nước ngoài phải hoàn tất đăng ký trong thời hạn bao nhiêu ngày?",
+            "options": {
+              "A": "30 ngày",
+              "B": "45 ngày",
+              "C": "60 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 3,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời điểm thông báo đánh giá phải đảm bảo tối thiểu bao nhiêu ngày trước khi bắt đầu?",
+            "options": {
+              "A": "03 ngày làm việc",
+              "B": "05 ngày làm việc",
+              "C": "10 ngày làm việc",
+              "D": "15 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "03 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn cập nhật thông tin vi phạm liêm chính khoa học lên Nền tảng số quản lý KH, CN và ĐMST quốc gia là bao lâu?",
+            "options": {
+              "A": "03 ngày kể từ ngày ban hành kết luận",
+              "B": "05 ngày kể từ ngày ban hành kết luận",
+              "C": "10 ngày kể từ ngày ban hành kết luận",
+              "D": "15 ngày kể từ ngày ban hành kết luận"
+            },
+            "answer": 2,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "03 ngày kể từ ngày ban hành kết luận"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn giải quyết hồ sơ công nhận trung tâm R&D kể từ khi nhận đủ hồ sơ là bao nhiêu ngày?",
+            "options": {
+              "A": "15 ngày",
+              "B": "30 ngày",
+              "C": "45 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 3,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "15 ngày"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn nộp hồ sơ đăng ký văn phòng đại diện, chi nhánh là bao nhiêu ngày kể từ ngày thành lập?",
+            "options": {
+              "A": "15 ngày",
+              "B": "30 ngày",
+              "C": "45 ngày",
+              "D": "60 ngày"
+            },
+            "answer": 4,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "15 ngày"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn thẩm định và cấp Giấy chứng nhận đăng ký hoạt động KH&CN kể từ khi nhận đủ hồ sơ là bao nhiêu ngày?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "10 ngày làm việc",
+              "C": "15 ngày làm việc",
+              "D": "20 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "05 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn thanh lý tài sản và thanh toán nợ khi giải thể không quá bao nhiêu tháng?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 3,
+            "topic": "VI.3.Mô hình ngân hàng số",
+            "explanation": "01 tháng"
+          }
+        ]
+      },
+      {
+        "id": "VI4Đánh_giá_mức_độ_trưởng_thành_CĐS",
+        "name": "VI.4.Đánh giá mức độ trưởng thành CĐS",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn trả lời bằng văn bản của các bộ, cơ quan liên quan về việc thành lập tổ chức KH&CN có vốn nước ngoài là bao lâu?",
+            "options": {
+              "A": "05 ngày làm việc",
+              "B": "07 ngày làm việc",
+              "C": "10 ngày làm việc",
+              "D": "15 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VI.4.Đánh giá mức độ trưởng thành CĐS",
+            "explanation": "05 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "VI5Quản_trị_thay_đổi",
+        "name": "VI.5.Quản trị thay đổi",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Thời hạn Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thành lập tổ chức KH&CN có vốn nước ngoài là bao nhiêu ngày?",
+            "options": {
+              "A": "10 ngày",
+              "B": "20 ngày",
+              "C": "35 ngày",
+              "D": "45 ngày"
+            },
+            "answer": 3,
+            "topic": "VI.5.Quản trị thay đổi",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Tổ chức KH&CN công lập phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+            "options": {
+              "A": "01 người",
+              "B": "02 người",
+              "C": "03 người",
+              "D": "05 người"
+            },
+            "answer": 4,
+            "topic": "VI.5.Quản trị thay đổi",
+            "explanation": "01 người"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Tổng điểm đánh giá tối đa cho một tổ chức KH&CN công lập là bao nhiêu điểm?",
+            "options": {
+              "A": "50 điểm",
+              "B": "100 điểm",
+              "C": "200 điểm",
+              "D": "500 điểm"
+            },
+            "answer": 2,
+            "topic": "VI.5.Quản trị thay đổi",
+            "explanation": "50 điểm"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Trong số nhân lực trình độ đại học của tổ chức KH&CN, tối thiểu bao nhiêu % có chuyên môn phù hợp lĩnh vực đăng ký?",
+            "options": {
+              "A": "10%",
+              "B": "20%",
+              "C": "30%",
+              "D": "50%"
+            },
+            "answer": 3,
+            "topic": "VI.5.Quản trị thay đổi",
+            "explanation": "10%"
+          }
+        ]
+      },
+      {
+        "id": "VI6Quản_lý_dự_án_công_nghệ_thông_tin",
+        "name": "VI.6.Quản lý dự án công nghệ thông tin",
+        "questions": [
+          {
+            "question": "Nghị định 262/2025/NĐ-CP Văn phòng đại diện của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+            "options": {
+              "A": "01 người",
+              "B": "02 người",
+              "C": "03 người",
+              "D": "05 người"
+            },
+            "answer": 2,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "01 người"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CP, Ai có thẩm quyền thành lập Tổ chức Khoa học và Công nghệ công lập thuộc Chính Phu?",
+            "options": {
+              "A": "Thủ tướng Chính Phủ",
+              "B": "Quốc Hội",
+              "C": "Chính Phủ",
+              "D": "Bộ Khoa học và Công nghệ"
+            },
+            "answer": 3,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "Thủ tướng Chính Phủ"
+          },
+          {
+            "question": "Nghị định 262/2025/NĐ-CPGiấy chứng nhận đăng ký hoạt động KH&CN bị tước quyền sử dụng trong thời hạn tối đa bao lâu?",
+            "options": {
+              "A": "01 tháng",
+              "B": "03 tháng",
+              "C": "06 tháng",
+              "D": "12 tháng"
+            },
+            "answer": 3,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "01 tháng"
+          },
+          {
+            "question": " Theo Nghị định 265/2025 ,Kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo được xây dựng phù hợp với chu kỳ bao nhiêu năm?",
+            "options": {
+              "A": "01 năm",
+              "B": "03 năm",
+              "C": "05 năm",
+              "D": "10 năm"
+            },
+            "answer": 3,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "01 năm"
+          },
+          {
+            "question": " Theo Nghị định 265/2025 ,Kinh phí cấp cho Quỹ Đổi mới công nghệ quốc gia tối đa mấy lần?",
+            "options": {
+              "A": "1",
+              "B": "2",
+              "C": "3",
+              "D": "4"
+            },
+            "answer": 3,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "100%"
+          },
+          {
+            "question": " Theo Nghị định 265/2025 ,Kinh phí cấp cho Quỹ Phát triển Khoa học và Công nghệ quốc gia tối đa mấy lần?",
+            "options": {
+              "A": "1",
+              "B": "2",
+              "C": "3",
+              "D": "4"
+            },
+            "answer": 3,
+            "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+            "explanation": "100%"
+          }
+        ]
+      },
+      {
+        "id": "VI7Đo_lường_hiệu_quả_chuyển_đổi_số_(KPI,_OKR)",
+        "name": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "questions": [
+          {
+            "question": " Theo Nghị định 265/2025 ,Mức kinh phí bổ sung tối đa cho tổ chức khoa học công lập thực hiện nhiệm vụ thường xuyên là bao nhiêu?",
+            "options": {
+              "A": "5% kinh phí cố định",
+              "B": "10% kinh phí cố định",
+              "C": "20% kinh phí cố định",
+              "D": "30% kinh phí cố định"
+            },
+            "answer": 2,
+            "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+            "explanation": "5% kinh phí cố định"
+          },
+          {
+            "question": " Theo Nghị định 265/2025 ,Tổ chức khoa học và công nghệ công lập đạt từ bao nhiêu điểm trở lên thì được bảo đảm 100% kinh phí cố định?",
+            "options": {
+              "A": "50 điểm",
+              "B": "60 điểm",
+              "C": "80 điểm",
+              "D": "100 điểm"
+            },
+            "answer": 3,
+            "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+            "explanation": "50 điểm"
+          },
+          {
+            "question": " Theo Nghị định 265/2025 ,Tổ chức khoa học và công nghệ công lập liên tục đạt điểm dưới bao nhiêu 3 năm liên tục thì bị xem xét quyết định việc hoạt động của tổ chức đó?",
+            "options": {
+              "A": "50 điểm",
+              "B": "60 điểm",
+              "C": "80 điểm",
+              "D": "100 điểm"
+            },
+            "answer": 2,
+            "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+            "explanation": "50 điểm"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Khi bị dừng thử nghiệm, tổ chức phải thông báo cho khách hàng trước bao nhiêu ngày?",
+            "options": {
+              "A": "ít nhất 7 ngày",
+              "B": "ít nhất 30 ngày",
+              "C": "ít nhất 60 ngày",
+              "D": "ít nhất 90 ngày"
+            },
+            "answer": 2,
+            "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+            "explanation": "ít nhất 7 ngày"
+          }
+        ]
+      },
+      {
+        "id": "VI7Đo_lường_hiệu_quả_chuyển_đổi_số_(KPI,_OKR)",
+        "name": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "questions": [
+          {
+            "question": " Theo Nghị định 265/2025 ,Mức kinh phí cố định tối đa cho tổ chức khoa học công lập đạt dưới 60 điểm là bao nhiêu?",
+            "options": {
+              "A": "100%",
+              "B": "90%",
+              "C": "80%",
+              "D": "70%"
+            },
+            "answer": 2,
+            "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+            "explanation": "100%"
+          }
+        ]
+      },
+      {
+        "id": "VI8Dịch_vụ_công,_cải_cách_hành_chính",
+        "name": "VI.8.Dịch vụ công, cải cách hành chính",
+        "questions": [
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Khi phát hiện sự cố rủi ro nghiêm trọng, tổ chức phải báo cáo cho Ngân hàng Nhà nước trong bao lâu?",
+            "options": {
+              "A": "1 giờ",
+              "B": "Trong vòng 24 giờ kể từ thời điểm phát hiện",
+              "C": "1 tuần",
+              "D": "1 tháng"
+            },
+            "answer": 2,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "1 giờ"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Nếu sau bao nhiêu ngày kể từ khi cấp Giấy chứng nhận mà tổ chức không triển khai thì sẽ bị dừng thử nghiệm?",
+            "options": {
+              "A": "30 ngày",
+              "B": "90 ngày",
+              "C": "180 ngày",
+              "D": "1 năm"
+            },
+            "answer": 2,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Sau khi báo cáo bằng điện thoại/email về sự cố, tổ chức phải gửi văn bản báo cáo trong bao lâu?",
+            "options": {
+              "A": "12 giờ",
+              "B": "Trong vòng 03 ngày làm việc",
+              "C": "Trong vòng 05 ngày làm việc",
+              "D": "Trong vòng 07 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "12 giờ"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Số lần tối đa một giải pháp Fintech có thể được gia hạn thử nghiệm là bao nhiêu?",
+            "options": {
+              "A": "1 lần",
+              "B": "02 lần",
+              "C": "3 lần",
+              "D": "Không giới hạn"
+            },
+            "answer": 2,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "1 lần"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá toán bộ quá trình thử nghiệm giải pháp để tiền hành cấp chứng nhận thử nghiệm là bao lâu?",
+            "options": {
+              "A": "Trong vòng 30 ngày làm việc",
+              "B": "Trong vòng 45 ngày làm việc",
+              "C": "Trong vòng 60 ngày làm việc",
+              "D": "Trong vòng 90 ngày làm việc"
+            },
+            "answer": 1,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "Trong vòng 30 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá yêu cầu điều chỉnh giải pháp là bao lâu?",
+            "options": {
+              "A": "10 ngày",
+              "B": "Trong vòng 30 ngày làm việc",
+              "C": "60 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 2,
+            "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+            "explanation": "10 ngày"
+          }
+        ]
+      },
+      {
+        "id": "VII1Phát_triển_nguồn_nhân_lực_số",
+        "name": "VII.1.Phát triển nguồn nhân lực số",
+        "questions": [
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá yêu cầu gia hạn giải pháp là bao lâu?",
+            "options": {
+              "A": "Trong vòng 30 ngày làm việc",
+              "B": "Trong vòng 45 ngày làm việc",
+              "C": "Trong vòng 60 ngày làm việc",
+              "D": "Trong vòng 90 ngày làm việc"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "Trong vòng 30 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian mỗi lần gia hạn thời gian thử nghiệm là bao lâu?",
+            "options": {
+              "A": "6 tháng",
+              "B": "không quá 01 năm",
+              "C": "2 năm",
+              "D": "5 năm"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "6 tháng"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian thẩm định hồ sơ tham gia Cơ chế thử nghiệm là bao nhiêu ngày?",
+            "options": {
+              "A": "30 ngày",
+              "B": "90 ngày làm việc",
+              "C": "180 ngày",
+              "D": "1 năm"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn để Ngân hàng Nhà nước xác nhận đã nhận đủ hồ sơ hợp lệ là bao lâu?",
+            "options": {
+              "A": "1 ngày",
+              "B": "05 ngày làm việc",
+              "C": "30 ngày",
+              "D": "90 ngày"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "1 ngày"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn để tổ chức triển khai giải pháp sau khi được cấp Giấy chứng nhận tham gia là bao lâu?",
+            "options": {
+              "A": "30 ngày",
+              "B": "90 ngày",
+              "C": "6 tháng",
+              "D": "1 năm"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "30 ngày"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn giải quyết khiếu nại của khách hàng tối đa?",
+            "options": {
+              "A": "2 ngày làm việc",
+              "B": "3 ngày làm việc",
+              "C": "5 ngày làm việc",
+              "D": "7 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "2 ngày làm việc"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn tối đa của một hợp đồng cho vay ngang hàng tham gia thử nghiệm là bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "Không quá 02 năm",
+              "C": "5 năm",
+              "D": "10 năm"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "1 năm"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Tổ chức phải gửi báo cáo đánh giá kết quả thử nghiệm trước khi kết thúc thời hạn bao lâu?",
+            "options": {
+              "A": "10 ngày",
+              "B": "Tối thiểu 90 ngày",
+              "C": "6 tháng",
+              "D": "1 năm"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "10 ngày"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Tổ chức phải gửi đơn đề nghị gia hạn trước khi kết thúc thời hạn bao lâu?",
+            "options": {
+              "A": "1 tháng",
+              "B": "Tối thiểu 90 ngày",
+              "C": "6 tháng",
+              "D": "10 ngày"
+            },
+            "answer": 2,
+            "topic": "VII.1.Phát triển nguồn nhân lực số",
+            "explanation": "1 tháng"
+          }
+        ]
+      },
+      {
+        "id": "VII2Kỹ_năng_số_cho_người_lao_động",
+        "name": "VII.2.Kỹ năng số cho người lao động",
+        "questions": [
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Trước khi kiểm tra tại chỗ để thẩm định, Ngân hàng Nhà nước phải thông báo trước bao lâu?",
+            "options": {
+              "A": "1 giờ",
+              "B": "ít nhất 03 ngày làm việc",
+              "C": "1 tuần",
+              "D": "1 tháng"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "1 giờ"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Trường hợp hồ sơ đăng ký gia hạn cần giải trình, tổ chức có bao nhiêu lần thực hiện?",
+            "options": {
+              "A": "5 lần",
+              "B": "01 lần",
+              "C": "Không giới hạn",
+              "D": "10 lần"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "5 lần"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng,, Thời gian thử nghiệm các giải pháp Fintech tối đa là bao lâu? ",
+            "options": {
+              "A": "6 tháng",
+              "B": "02 năm",
+              "C": "5 năm",
+              "D": "Không giới hạn"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "6 tháng"
+          },
+          {
+            "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng,Tổ chức đăng ký có bao nhiêu lần gửi giải trình, hoàn thiện hồ sơ trong quá trình thẩm định?",
+            "options": {
+              "A": "Không giới hạn",
+              "B": "01 lần",
+              "C": "3 lần",
+              "D": "5 lần"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "Không giới hạn"
+          },
+          {
+            "question": "Theo Chỉ thị 02/2026,Chiến lược chuyển đổi số ngành Ngân hàng được đặt mục tiêu đến năm nào?",
+            "options": {
+              "A": "2025",
+              "B": "2030",
+              "C": "2035",
+              "D": "2045"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo Chỉ thị 02/2026,Chiến lược dữ liệu ngành Ngân hàng được định hướng đến năm nào?",
+            "options": {
+              "A": "2026",
+              "B": "2030",
+              "C": "2025",
+              "D": "2035"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "202600%"
+          },
+          {
+            "question": "Theo Chỉ thị 02/2026,Kế hoạch phát triển các hệ thống thanh toán Việt Nam được đặt mục tiêu đến năm nào?",
+            "options": {
+              "A": "2025",
+              "B": "2030",
+              "C": "2026",
+              "D": "2027"
+            },
+            "answer": 2,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo Chỉ thị 02/2026,Thời hạn nộp báo cáo tình hình thực hiện Chỉ thị 02 về NHNN hằng năm là khi nào?",
+            "options": {
+              "A": "Trước ngày 15/12",
+              "B": "Trước ngày 30/12",
+              "C": "Trước ngày 01/01 năm sau",
+              "D": "Ngày 01/06 hằng năm"
+            },
+            "answer": 1,
+            "topic": "VII.2.Kỹ năng số cho người lao động",
+            "explanation": "Trước ngày 15/12"
+          }
+        ]
+      },
+      {
+        "id": "VII3Thích_ứng_nghề_nghiệp",
+        "name": "VII.3.Thích ứng nghề nghiệp",
+        "questions": [
+          {
+            "question": "Theo Chỉ thị 02/2026,Thống đốc NHNN yêu cầu các đơn vị thuộc NHNN, TCTD tập trung triển khai nhiệm vụ này trong năm nào?",
+            "options": {
+              "A": "2025",
+              "B": "2026",
+              "C": "2030",
+              "D": "2032"
+            },
+            "answer": 2,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo Chỉ thị 02/2026,Tỷ lệ kinh phí tối thiểu dành cho các sản phẩm, dịch vụ an ninh mạng là bao nhiêu trong tổng kinh phí dự án CNTT?",
+            "options": {
+              "A": "5%",
+              "B": "15%",
+              "C": "10%",
+              "D": "20%"
+            },
+            "answer": 2,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo Đề án 06 năm 2022,Các bộ, ngành, địa phương phải báo cáo tình hình, kết quả thực hiện Đề án 06 định kỳ vào ngày nào hằng tháng?",
+            "options": {
+              "A": "Ngày 15 hàng tháng",
+              "B": "Trước ngày 20 hàng tháng",
+              "C": "Trước ngày 22 hàng tháng",
+              "D": "Ngày cuối cùng của tháng"
+            },
+            "answer": 3,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "Ngày 15 hàng tháng"
+          },
+          {
+            "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, phấn đấu đạt bao nhiêu tài khoản người dùng trên ứng dụng VNeID?",
+            "options": {
+              "A": "Trên 40 triệu",
+              "B": "Trên 50 triệu",
+              "C": "Trên 60 triệu",
+              "D": "Trên 80 triệu"
+            },
+            "answer": 3,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "Trên 40 triệu"
+          },
+          {
+            "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, tỷ lệ hồ sơ liên quan đến quản lý dân cư tại cấp bộ, tỉnh được xử lý trên môi trường mạng đạt bao nhiêu?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "100%",
+              "D": "95%"
+            },
+            "answer": 3,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, tỷ lệ mẫu đơn, tờ khai thông tin được chuẩn hóa thống nhất?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 1,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo Luật PCRT,Thời hạn áp dụng biện pháp trì hoãn giao dịch tối đa là bao nhiêu?",
+            "options": {
+              "A": "24 giờ",
+              "B": "2 ngày làm việc",
+              "C": "3 ngày làm việc",
+              "D": "5 ngày làm việc"
+            },
+            "answer": 3,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "24 giờ"
+          },
+          {
+            "question": "Theo Luật PCRT,Thời hạn báo cáo giao dịch giá trị lớn (trên 400 triệu) bằng dữ liệu điện tử là?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "24 giờ"
+            },
+            "answer": 1,
+            "topic": "VII.3.Thích ứng nghề nghiệp",
+            "explanation": "01 ngày làm việc"
+          }
+        ]
+      },
+      {
+        "id": "VII4Đào_tạo_lại,_nâng_cao_trình_độ_kỹ_năng_chuyển_đổi_số,…",
+        "name": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "questions": [
+          {
+            "question": "Theo Luật PCRT,Thời hạn lưu trữ hồ sơ nhận biết khách hàng tối thiểu là bao lâu?",
+            "options": {
+              "A": "1 năm",
+              "B": "3 năm",
+              "C": "5 năm",
+              "D": "10 năm"
+            },
+            "answer": 3,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "1 năm"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,\"Đại sứ số\" ở cấp đơn vị được xác định theo nguyên tắc tối thiểu bao nhiêu người?",
+            "options": {
+              "A": "Ít nhất 01 người",
+              "B": "Ít nhất 02 người",
+              "C": "Tùy quy mô đơn vị",
+              "D": "Mỗi phòng 01 người"
+            },
+            "answer": 1,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "Ít nhất 01 người"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,\"Hạt nhân số\" ở mỗi phòng ban trực thuộc được xác định theo nguyên tắc tối thiểu bao nhiêu người?",
+            "options": {
+              "A": "Ít nhất 01 người",
+              "B": "Ít nhất 02 người",
+              "C": "Ít nhất 03 người",
+              "D": "Tùy quy mô đơn vị"
+            },
+            "answer": 1,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "Ít nhất 01 người"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,Các đơn vị phải gửi báo cáo định kỳ kết quả triển khai Kế hoạch về NHNN vào các ngày nào?",
+            "options": {
+              "A": "Ngày 30 hàng tháng",
+              "B": "Ngày 15 của các tháng 6, 9, 12 và tháng 3 năm sau",
+              "C": "Ngày 01 hàng quý",
+              "D": "Cuối mỗi năm"
+            },
+            "answer": 2,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "Ngày 30 hàng tháng"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,Đến ngày 31/12/2026, yêu cầu bao nhiêu % các đơn vị trong ngành Ngân hàng có \"Đại sứ số\" và \"Hạt nhân số\"?",
+            "options": {
+              "A": "50%",
+              "B": "80%",
+              "C": "100%",
+              "D": "90%"
+            },
+            "answer": 3,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,Đến ngày 31/12/2026, yêu cầu mỗi đơn vị có bao nhiêu sản phẩm phục vụ công tác tuyên truyền, truyền thông, ứng dụng công nghệ số để ái tiến quy trình công việc được công bố trên Cổng thông tin điện tử NHNN?",
+            "options": {
+              "A": "1",
+              "B": "2",
+              "C": "3",
+              "D": "4"
+            },
+            "answer": 3,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "100%"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,Mỗi \"mentor\" trong mạng lưới \"Đại sứ số\" được yêu cầu hướng dẫn kỹ năng số cho ít nhất bao nhiêu \"mentee\"?",
+            "options": {
+              "A": "02 mentee",
+              "B": "05 mentee",
+              "C": "10 mentee",
+              "D": "Không giới hạn"
+            },
+            "answer": 2,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "02 mentee"
+          },
+          {
+            "question": "Theo QĐ 1938/2025,Mục tiêu đến ngày 30/9/2026, tỷ lệ CBCCVC&NLĐ trong ngành được phổ cập kiến thức chuyển đổi số ở CẤP ĐỘ NÂNG CAO đạt bao nhiêu?",
+            "options": {
+              "A": "70%",
+              "B": "90%",
+              "C": "100%",
+              "D": "50%"
+            },
+            "answer": 3,
+            "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+            "explanation": "70%"
+          }
+        ]
+      },
+      {
+        "id": "VII5Văn_hóa_đổi_mới_sáng_tạo",
+        "name": "VII.5.Văn hóa đổi mới sáng tạo",
+        "questions": [
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% chỉ tiêu thống kê của NHNN được cung cấp dưới dạng dữ liệu số?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% CSDL chuyên ngành hiện có của NHNN phải đáp ứng an toàn thông tin năm 2030?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% CSDL do NHNN quản lý phải được rà soát, chuẩn hóa toàn diện theo tiêu chuẩn chung?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% dữ liệu kết quả TTHC được tái sử dụng để khách hàng chỉ phải cung cấp thông tin một lần?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% hoạt động chỉ đạo, điều hành tại NHNN được quyết định dựa trên dữ liệu?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Các TCTD, chi nhánh NH nước ngoài có trách nhiệm báo cáo kết quả định kỳ khi nào?",
+            "options": {
+              "A": "Trước 15/12",
+              "B": "Trước 15/11 hàng năm",
+              "C": "Trước 30/12",
+              "D": "Hàng quý"
+            },
+            "answer": 2,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "Trước 15/12"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Đến năm nào hệ thống Thanh toán liên ngân hàng phải chuyển sang Active-Active?",
+            "options": {
+              "A": "2025",
+              "B": "2026",
+              "C": "2027",
+              "D": "2028"
+            },
+            "answer": 2,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Dữ liệu định danh được sử dụng để xác thực điện tử cho bao nhiêu % giao dịch cổng DVC?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Hệ thống dữ liệu trọng yếu của ngành Ngân hàng được sao lưu với tỷ lệ bao nhiêu?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+            "explanation": "80%"
+          }
+        ]
+      },
+      {
+        "id": "VII6Đạo_đức_nghề_nghiệp_trong_môi_trường_số",
+        "name": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "questions": [
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Ít nhất bao nhiêu % hoạt động kiểm tra, giám sát NHNN thực hiện qua môi trường số?",
+            "options": {
+              "A": "50%",
+              "B": "60%",
+              "C": "70%",
+              "D": "80%"
+            },
+            "answer": 3,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Ngân hàng Nhà nước ứng dụng AI trong bao nhiêu % dịch vụ công trực tuyến?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Nhiệm vụ xây dựng nền tảng phân tích dữ liệu tập trung (Big Data) hoàn thành năm nào?",
+            "options": {
+              "A": "202500%",
+              "B": "202700%",
+              "C": "203000%",
+              "D": "202600%"
+            },
+            "answer": 3,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo Luật PCRT,Thời hạn báo cáo giao dịch có giá trị lớn bằng dữ liệu điện tử là?",
+            "options": {
+              "A": "01 ngày làm việc",
+              "B": "02 ngày làm việc",
+              "C": "03 ngày làm việc",
+              "D": "24 giờ"
+            },
+            "answer": 1,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "01 ngày làm việc"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Thuê dịch vụ CNTT để quản trị phần mềm quản lý dữ liệu cán bộ hoàn thành khi nào?",
+            "options": {
+              "A": "202500%",
+              "B": "Giai đoạn 2025-2029",
+              "C": "203000%",
+              "D": "Hàng năm"
+            },
+            "answer": 2,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "202500%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tiêu chuẩn nào dùng cho an ninh mạng hệ thống thông tin quan trọng của NHNN?",
+            "options": {
+              "A": "ISO 9001",
+              "B": "TCVN 14423:2025",
+              "C": "PCI DSS",
+              "D": "FIDO"
+            },
+            "answer": 2,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "ISO 9001"
+          },
+          {
+            "question": "Theo QĐ 3579,Tổ chức Tài chính vi mô phải đạt tỷ lệ bao nhiêu nghiệp vụ trực tuyến?",
+            "options": {
+              "A": "30%",
+              "B": "40%",
+              "C": "50%",
+              "D": "60%"
+            },
+            "answer": 2,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "30%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ áp dụng dữ liệu số trong kiểm tra, xếp loại cán bộ NHNN tối thiểu đạt?",
+            "options": {
+              "A": "50%",
+              "B": "60%",
+              "C": "70%",
+              "D": "80%"
+            },
+            "answer": 3,
+            "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+            "explanation": "50%"
+          }
+        ]
+      },
+      {
+        "id": "VIII1Rò_rỉ_dữ_liệu_khách_hàng",
+        "name": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "questions": [
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ các CSDL do NHNN quản lý được chuẩn hóa toàn diện đến năm 2030?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ cán bộ quản trị dữ liệu của NHNN, TCTD được đào tạo AI và Big Data?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ CSDL trọng yếu của TCTD phải đáp ứng tiêu chuẩn an toàn quốc tế?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dân số trưởng thành có tài khoản giao dịch ngân hàng theo QĐ 3580 là?",
+            "options": {
+              "A": ">= 80%",
+              "B": ">= 90%",
+              "C": ">= 95%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": ">= 80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dữ liệu mở của NHNN công bố có lượt truy cập hoặc sử dụng lại tối thiểu?",
+            "options": {
+              "A": "50%",
+              "B": "60%",
+              "C": "70%",
+              "D": "80%"
+            },
+            "answer": 3,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ hồ sơ, kết quả giải quyết TTHC tại NHNN phải được số hóa là bao nhiêu?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ Ngân hàng có doanh thu từ kênh số đạt trên 30% vào năm 2030?",
+            "options": {
+              "A": "50%",
+              "B": "70%",
+              "C": "80%",
+              "D": "90%"
+            },
+            "answer": 3,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dữ liệu mở công bộ ghi nhận có lượt truy cập, sử dụng lại hoặc tích hợp vào nền tảng bên ngoài?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 1,
+            "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+            "explanation": "70%"
+          }
+        ]
+      },
+      {
+        "id": "VIII2Số_hóa_quy_trình_nội_bộ",
+        "name": "VIII.2.Số hóa quy trình nội bộ",
+        "questions": [
+          {
+            "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ nhiệm vụ của Chính phủ giao cho NHNN được theo dõi bằng dữ liệu số?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.2.Số hóa quy trình nội bộ",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 3579,Tỷ lệ ứng dụng tự động hóa (RPA) trong vận hành hạ tầng tại NHNN tối thiểu?",
+            "options": {
+              "A": "30%",
+              "B": "50%",
+              "C": "70%",
+              "D": "80%"
+            },
+            "answer": 2,
+            "topic": "VIII.2.Số hóa quy trình nội bộ",
+            "explanation": "30%"
+          },
+          {
+            "question": "Theo Luật PCRT,Việc đánh giá rủi ro về rửa tiền của đối tượng báo cáo được cập nhật khi nào?",
+            "options": {
+              "A": "5 năm",
+              "B": "2 năm",
+              "C": "Hằng năm",
+              "D": "3 năm"
+            },
+            "answer": 3,
+            "topic": "VIII.2.Số hóa quy trình nội bộ",
+            "explanation": "5 năm"
+          }
+        ]
+      },
+      {
+        "id": "VIII3_Kịch_bản_CĐS_tại_chi_nhánh",
+        "name": "VIII.3. Kịch bản CĐS tại chi nhánh",
+        "questions": [
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành có điện thoại thông minh đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "VIII.3. Kịch bản CĐS tại chi nhánh",
+            "explanation": "80%"
+          }
+        ]
+      },
+      {
+        "id": "VIII3Kịch_bản_chuyển_đổi_số_tại_chi_nhánh",
+        "name": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+        "questions": [
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 Chương trình phát triển mạng lưới chuyên gia, tổ chức tư vấn số là bao nhiêu?",
+            "options": {
+              "A": "1000 chuyên gia và 500 đơn vị tư vấn",
+              "B": "2000 chuyên gia và 1000 đơn vị tư vấn",
+              "C": "3000 chuyên gia và 1500 đơn vị tư vấn",
+              "D": "4000 chuyên gia và 2000 đơn vị tư vấn"
+            },
+            "answer": 1,
+            "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+            "explanation": "1000 chuyên gia và 500 đơn vị tư vấn"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Mục tiêu đến năm 2030, tỷ lệ hộ gia đình có đường Internet cáp quang băng rộng đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "100%",
+              "D": "95%"
+            },
+            "answer": 3,
+            "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ các cơ sở đào tạo đại học cao đẳng, giáo dục nghề nghiệp được mô hình quản trị số, hoạt động số, chuẩn hóa dữ liệu số, kho học liệu số?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ các cơ sở giáo dục từ tiểu học đến phổ thông được mô hình quản trị số, hoạt động số, chuẩn hóa dữ liệu số, kho học liệu số?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+            "explanation": "80%"
+          }
+        ]
+      },
+      {
+        "id": "VIII4_Rủi_ro_khi_triển_khai_NH_số",
+        "name": "VIII.4. Rủi ro khi triển khai NH số",
+        "questions": [
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân cơ hồ sơ sức khỏe điện tử?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 3,
+            "topic": "VIII.4. Rủi ro khi triển khai NH số",
+            "explanation": "80%"
+          }
+        ]
+      },
+      {
+        "id": "VIII4Rủi_ro_khi_triển_khai_ngân_hàng_số",
+        "name": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "questions": [
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành sử dụng dịch vụ công trực tuyến?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 1,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành sử dụng dịch vụ tư vấn sức khỏe trực tuyến, khám chữa bệnh từ xa?",
+            "options": {
+              "A": "40%",
+              "B": "50%",
+              "C": "60%",
+              "D": "70%"
+            },
+            "answer": 2,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "40%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số từ 15 tuổi trở lên có tài khoản giao dịch thanh toán đạt trên bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "85%",
+              "C": "90%",
+              "D": "95%"
+            },
+            "answer": 4,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ doanh nghiệp sử dụng nền tảng hợp đồng điện tử đạt bao nhiêu %?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "95%",
+              "D": "100%"
+            },
+            "answer": 4,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ doanh nghiệp vừa và nhỏ sử dụng nền tảng số đạt bao nhiêu %?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 1,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ lực lượng lao động kinh tế số đạt bao nhiêu % lực lượng lao động?",
+            "options": {
+              "A": "1%",
+              "B": "2%",
+              "C": "3%",
+              "D": "4%"
+            },
+            "answer": 3,
+            "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+            "explanation": "1%"
+          }
+        ]
+      },
+      {
+        "id": "VIII5_Ứng_dụng_CNTT_trong_hoạt_động_Công_đoàn",
+        "name": "VIII.5. Ứng dụng CNTT trong hoạt động Công đoàn",
+        "questions": [
+          {
+            "question": "Theo QĐ 749 năm 2020 , Thời điểm gửi báo cáo về Bộ KHCN hàng năm?",
+            "options": {
+              "A": "Trước ngày 15/11",
+              "B": "Trước ngày 15/12",
+              "C": "Trước ngày 31/12",
+              "D": "Trước ngày 15/01 năm sau"
+            },
+            "answer": 2,
+            "topic": "VIII.5. Ứng dụng CNTT trong hoạt động Công đoàn",
+            "explanation": "Trước ngày 15/11"
+          }
+        ]
+      },
+      {
+        "id": "VIII5Ứng_dụng_công_nghệ_thông_tin_trong_hoạt_động_Công_đoàn",
+        "name": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "questions": [
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân kết nối mạng được bảo vệ ở mức cơ bản?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 2,
+            "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân trong độ tuổi lao động được đào tạo kỹ năng số cơ bản?",
+            "options": {
+              "A": "70%",
+              "B": "80%",
+              "C": "90%",
+              "D": "100%"
+            },
+            "answer": 2,
+            "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+            "explanation": "70%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng kinh tế số đạt tối thiểu bao nhiêu % GDP?",
+            "options": {
+              "A": "10%",
+              "B": "20%",
+              "C": "30%",
+              "D": "50%"
+            },
+            "answer": 3,
+            "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+            "explanation": "10%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng kinh tế số trong từng ngành, lĩnh vực đạt tối thiểu bao nhiêu %?",
+            "options": {
+              "A": "10%",
+              "B": "20%",
+              "C": "30%",
+              "D": "50%"
+            },
+            "answer": 2,
+            "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+            "explanation": "10%"
+          },
+          {
+            "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng thương mại điện tử đạt tối thiểu bao nhiêu % tổng mức bán lẻ?",
+            "options": {
+              "A": "10%",
+              "B": "20%",
+              "C": "30%",
+              "D": "50%"
+            },
+            "answer": 2,
+            "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+            "explanation": "10%"
+          }
+        ]
+      },
+      {
+        "id": "VIII6Phân_tích_sản_phẩm_ngân_hàng_số",
+        "name": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "questions": [
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Chương trình đặt ra mục tiêu đào tạo được bao nhiêu chuyên gia về chuyển đổi số?",
+            "options": {
+              "A": "100 chuyên gia",
+              "B": "500 chuyên gia",
+              "C": "1000 chuyên gia",
+              "D": "5000 chuyên gia"
+            },
+            "answer": 3,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "100 chuyên gia"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ dân số có tài khoản thanh toán điện tử mục tiêu đạt trên bao nhiêu %?",
+            "options": {
+              "A": "50%",
+              "B": "60%",
+              "C": "80%",
+              "D": "95%"
+            },
+            "answer": 3,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "50%"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ dịch vụ công trực tuyến mức độ 4 được cung cấp trên nhiều phương tiện truy cập khác nhau?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "100%",
+              "D": "70%"
+            },
+            "answer": 3,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ giảm thủ tục hành chính là bao nhiêu?",
+            "options": {
+              "A": "10%",
+              "B": "20%",
+              "C": "30%",
+              "D": "70%"
+            },
+            "answer": 3,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "10%"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ hồ sơ công việc tại cấp bộ, tỉnh được xử lý trên môi trường mạng là bao nhiêu?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "100%",
+              "D": "70%"
+            },
+            "answer": 3,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "80%"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ hoạt động kiểm tra của cơ quan quản lý nhà nước được thực hiện thông qua môi trường số?",
+            "options": {
+              "A": "80%",
+              "B": "90%",
+              "C": "100%",
+              "D": "70%"
+            },
+            "answer": 4,
+            "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+            "explanation": "80%"
+          }
+        ]
+      },
+      {
+        "id": "VIII7Bài_học_mô_hình_ngân_hàng_số_thành_công",
+        "name": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "questions": [
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, kinh tế số chiếm bao nhiêu % GDP?",
+            "options": {
+              "A": "20% GDP",
+              "B": "25% GDP",
+              "C": "30% GDP",
+              "D": "50% GDP"
+            },
+            "answer": 3,
+            "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+            "explanation": "20% GDP"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, Năng suất lao động hàng năm tăng tối thiểu bao nhiêu?",
+            "options": {
+              "A": "5%",
+              "B": "6%",
+              "C": "7%",
+              "D": "8%"
+            },
+            "answer": 4,
+            "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+            "explanation": "5%"
+          },
+          {
+            "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, Tỷ lệ kinh tế số trong từng ngành, lĩnh vực đạt tối thiểu bao nhiêu?",
+            "options": {
+              "A": "15%",
+              "B": "20%",
+              "C": "25%",
+              "D": "30%"
+            },
+            "answer": 3,
+            "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+            "explanation": "15%"
+          },
+          {
+            "question": "Theo QĐ số 2711 năm 2025,Chiến lược đặt mục tiêu bảo đảm tối thiểu bao nhiêu % phụ nữ và người dân tộc thiểu số tham gia các vị trí lãnh đạo KHCN?",
+            "options": {
+              "A": "20%",
+              "B": "30%",
+              "C": "40%",
+              "D": "50%"
+            },
+            "answer": 3,
+            "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+            "explanation": "20%"
+          },
+          {
+            "question": "Theo QĐ số 2711 năm 2025,Chiến lược quốc gia về phát triển đội ngũ trí thức được phê duyệt có tầm nhìn đến năm bao nhiêu?",
+            "options": {
+              "A": "Năm 2030",
+              "B": "Năm 2035",
+              "C": "Năm 2040",
+              "D": "Năm 2045"
+            },
+            "answer": 4,
+            "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+            "explanation": "Năm 2030"
+          }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "Nghị quyết 57-NQ/TW,Chỉ số Chính phủ điện tử của Việt Nam mục tiêu đến năm 2030 đứng trong nhóm bao nhiêu nước dẫn đầu thế giới?",
+        "options": {
+          "A": "Nhóm 30",
+          "B": "Nhóm 50",
+          "C": "Nhóm 70",
+          "D": "Nhóm 100"
+        },
+        "answer": 2,
+        "topic": "I.1. Big Data trong hoạt động ngân hàng",
+        "explanation": "Nhóm 30"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Đến năm 2030, có tối thiểu bao nhiêu doanh nghiệp công nghệ số Việt Nam ngang tầm các nước tiên tiến?",
+        "options": {
+          "A": "5 doanh nghiệp",
+          "B": "10 doanh nghiệp",
+          "C": "20 doanh nghiệp",
+          "D": "50 doanh nghiệp"
+        },
+        "answer": 1,
+        "topic": "I.1. Big Data trong hoạt động ngân hàng",
+        "explanation": "5 doanh nghiệp"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Đến năm 2030, thu hút thêm ít nhất bao nhiêu tổ chức, doanh nghiệp công nghệ hàng đầu thế giới đầu tư tại Việt Nam?",
+        "options": {
+          "A": "1 tổ chức",
+          "B": "2 tổ chức",
+          "C": "3 tổ chức",
+          "D": "5 tổ chức"
+        },
+        "answer": 3,
+        "topic": "I.1. Big Data trong hoạt động ngân hàng",
+        "explanation": "1 tổ chức"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Kinh phí chi cho nghiên cứu phát triển (R&D) năm 2030 phấn đấu đạt bao nhiêu % GDP?",
+        "options": {
+          "A": "1% GDP",
+          "B": "2% GDP",
+          "C": "3% GDP",
+          "D": "5% GDP"
+        },
+        "answer": 2,
+        "topic": "I.1. Big Data trong hoạt động ngân hàng",
+        "explanation": "1% GDP"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP, Nhân lực KH&CN của tổ chức (trừ đơn vị sự nghiệp công lập) yêu cầu tối thiểu bao nhiêu người có trình độ đại học trở lên?",
+        "options": {
+          "A": "02 người",
+          "B": "03 người",
+          "C": "05 người",
+          "D": "10 người"
+        },
+        "answer": 3,
+        "topic": "I.1. Big Data trong hoạt động ngân hàng. Big Data trong hoạt động ngân hàng",
+        "explanation": "02 người"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Năm 2030, số lượng nhân lực nghiên cứu khoa học phấn đấu đạt bao nhiêu người trên một vạn dân?",
+        "options": {
+          "A": "8 người",
+          "B": "10 người",
+          "C": "12 người",
+          "D": "15 người"
+        },
+        "answer": 3,
+        "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+        "explanation": "8 người"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Ngân sách nhà nước bố trí ít nhất bao nhiêu % tổng chi ngân sách hằng năm cho khoa học công nghệ và chuyển đổi số?",
+        "options": {
+          "A": "1%",
+          "B": "2%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "answer": 3,
+        "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+        "explanation": "1%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Phấn đấu đến năm 2030 có bao nhiêu tổ chức khoa học công nghệ được xếp hạng khu vực và thế giới?",
+        "options": {
+          "A": "10 - 20 tổ chức",
+          "B": "20 - 30 tổ chức",
+          "C": "40 - 50 tổ chức",
+          "D": "Trên 100 tổ chức"
+        },
+        "answer": 3,
+        "topic": "I.2. Quản trị dữ liệu (Data Governance)",
+        "explanation": "10 - 20 tổ chức"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Phấn đấu tỷ lệ thương mại hóa kết quả nghiên cứu đạt mức nào vào năm 2030?",
+        "options": {
+          "A": "2 - 5%",
+          "B": "5 - 7%",
+          "C": "8 - 10%",
+          "D": "Trên 15%"
+        },
+        "answer": 3,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "2 - 5%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Tầm nhìn đến năm 2045, quy mô kinh tế số Việt Nam phấn đấu đạt tối thiểu bao nhiêu % GDP?",
+        "options": {
+          "A": "30% GDP",
+          "B": "40% GDP",
+          "C": "50% GDP",
+          "D": "60% GDP"
+        },
+        "answer": 3,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "30% GDP"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Tỷ lệ kinh phí từ xã hội chiếm bao nhiêu % trong tổng kinh phí R&D năm 2030?",
+        "options": {
+          "A": "Trên 40%",
+          "B": "Trên 50%",
+          "C": "Trên 60%",
+          "D": "Trên 80%"
+        },
+        "answer": 3,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "Trên 40%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Tỷ lệ ngân sách nhà nước chi sự nghiệp KHCN ưu tiên cho nghiên cứu công nghệ chiến lược là bao nhiêu?",
+        "options": {
+          "A": "Ít nhất 5%",
+          "B": "Ít nhất 10%",
+          "C": "Ít nhất 15%",
+          "D": "Ít nhất 20%"
+        },
+        "answer": 3,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "Ít nhất 5%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Tỷ lệ người dân và doanh nghiệp sử dụng dịch vụ công trực tuyến năm 2030 đạt trên bao nhiêu %?",
+        "options": {
+          "A": "60%",
+          "B": "70%",
+          "C": "80%",
+          "D": "90%"
+        },
+        "answer": 3,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "60%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Tỷ trọng đóng góp của năng suất nhân tố tổng hợp (TFP) vào tăng trưởng kinh tế năm 2030 mục tiêu là bao nhiêu?",
+        "options": {
+          "A": "Trên 40%",
+          "B": "Trên 45%",
+          "C": "Trên 50%",
+          "D": "Ở mức trên 55%"
+        },
+        "answer": 4,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "Trên 40%"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Văn phòng Trung ương Đảng định kỳ bao lâu báo cáo kết quả thực hiện Nghị quyết cho Bộ Chính trị?",
+        "options": {
+          "A": "3 tháng một lần",
+          "B": "6 tháng một lần",
+          "C": "Hàng năm",
+          "D": "2 năm một lần"
+        },
+        "answer": 2,
+        "topic": "I.3.Chất lượng dữ liệu, chuẩn hóa dữ liệu",
+        "explanation": "3 tháng một lần"
+      },
+      {
+        "question": "Nghị quyết 57-NQ/TW,Việt Nam đặt mục tiêu duy trì chỉ số phát triển con người (HDI) năm 2030 trên mức nào?",
+        "options": {
+          "A": "Trên 0,5",
+          "B": "Trên 0,6",
+          "C": "Trên 0,7",
+          "D": "Trên 0,8"
+        },
+        "answer": 3,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "Trên 0,5"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, mục tiêu hoàn thành xây dựng kết nối, chia sẻ đồng bộ bao nhiêu % cơ sở dữ liệu quốc gia?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, nguồn nhân lực nghiên cứu khoa học phấn đấu đạt bao nhiêu người trên một vạn dân?",
+        "options": {
+          "A": "8 người",
+          "B": "10 người",
+          "C": "12 người",
+          "D": "15 người"
+        },
+        "answer": 3,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "8 người"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, tỷ lệ giao dịch không dùng tiền mặt phấn đấu đạt tối thiểu bao nhiêu %?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "80%",
+          "D": "90%"
+        },
+        "answer": 3,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "50%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, tỷ trọng đóng góp của năng suất nhân tố tổng hợp (TFP) vào tăng trưởng kinh tế mục tiêu đạt bao nhiêu?",
+        "options": {
+          "A": ">= 40%",
+          "B": ">= 45%",
+          "C": ">= 50%",
+          "D": ">= 55%"
+        },
+        "answer": 4,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": ">= 40%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, Việt Nam phấn đấu có tối thiểu bao nhiêu doanh nghiệp công nghệ số ngang tầm các nước tiên tiến?",
+        "options": {
+          "A": "03 doanh nghiệp",
+          "B": "05 doanh nghiệp",
+          "C": "10 doanh nghiệp",
+          "D": "20 doanh nghiệp"
+        },
+        "answer": 2,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "03 doanh nghiệp"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Đến năm 2030, Việt Nam phấn đấu hoàn thành xây dựng đô thị thông minh tại tối thiểu bao nhiêu thành phố trực thuộc Trung ương?",
+        "options": {
+          "A": "3 thành phố",
+          "B": "4 thành phố",
+          "C": "5 thành phố",
+          "D": "6 thành phố"
+        },
+        "answer": 4,
+        "topic": "I.4.Chia sẻ, kết nối dữ liệu liên ngành",
+        "explanation": "3 thành phố"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Kinh phí chi cho nghiên cứu phát triển (R&D) năm 2030 mục tiêu đạt bao nhiêu % GDP?",
+        "options": {
+          "A": "1%",
+          "B": "2%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "answer": 2,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "1%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Mục tiêu hình thành ít nhất bao nhiêu Trung tâm dữ liệu quốc gia đến năm 2030?",
+        "options": {
+          "A": "01 trung tâm",
+          "B": "02 trung tâm",
+          "C": "03 trung tâm",
+          "D": "05 trung tâm"
+        },
+        "answer": 3,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "01 trung tâm"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Mục tiêu tỷ lệ dịch vụ công trực tuyến TOÀN TRÌNH trên tổng số thủ tục đủ điều kiện năm 2030 là bao nhiêu?",
+        "options": {
+          "A": "80%",
+          "B": "85%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Ngân sách nhà nước bố trí hằng năm cho KHCN, ĐMST và CĐS quốc gia ít nhất đạt bao nhiêu % tổng chi?",
+        "options": {
+          "A": "1%",
+          "B": "2%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "answer": 3,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "1%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Phấn đấu hình thành bao nhiêu sàn dữ liệu đến năm 2030?",
+        "options": {
+          "A": "02 sàn",
+          "B": "03 sàn",
+          "C": "05 sàn",
+          "D": "10 sàn"
+        },
+        "answer": 3,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "02 sàn"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Quy mô kinh tế số Việt Nam đến năm 2030 phấn đấu đạt tối thiểu bao nhiêu % GDP?",
+        "options": {
+          "A": "20% GDP",
+          "B": "25% GDP",
+          "C": "30% GDP",
+          "D": "40% GDP"
+        },
+        "answer": 3,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "20% GDP"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Số lượng công bố khoa học quốc tế mục tiêu tăng trung bình bao nhiêu % mỗi năm đến năm 2030?",
+        "options": {
+          "A": "5%",
+          "B": "10%",
+          "C": "15%",
+          "D": "20%"
+        },
+        "answer": 2,
+        "topic": "I.5.Dữ liệu mở (Open Data)",
+        "explanation": "5%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Số lượng doanh nghiệp công nghệ hàng đầu thế giới đặt trụ sở, đầu tư nghiên cứu tại Việt Nam mục tiêu đến 2030 là bao nhiêu?",
+        "options": {
+          "A": ">= 1",
+          "B": ">= 2",
+          "C": ">= 3",
+          "D": ">= 5"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": ">= 1"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Số lượng doanh nghiệp công nghệ số Việt Nam ngang tầm các nước tiên tiến mục tiêu đến năm 2030 là bao nhiêu?",
+        "options": {
+          "A": "Ít nhất 2 doanh nghiệp",
+          "B": "Ít nhất 5 doanh nghiệp",
+          "C": "Ít nhất 10 doanh nghiệp",
+          "D": "Ít nhất 20 doanh nghiệp"
+        },
+        "answer": 2,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "Ít nhất 2 doanh nghiệp"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Số lượng đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế mục tiêu tăng trung bình bao nhiêu % mỗi năm đến năm 2030?",
+        "options": {
+          "A": "10 - 12%",
+          "B": "12 - 15%",
+          "C": "16 - 18%",
+          "D": "20 - 25%"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "10 - 12%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Số lượng tổ chức KHCN của Việt Nam được xếp hạng khu vực và thế giới năm 2030 phấn đấu đạt bao nhiêu?",
+        "options": {
+          "A": "10 - 20 tổ chức",
+          "B": "20 - 30 tổ chức",
+          "C": "40 - 50 tổ chức",
+          "D": "Trên 100 tổ chức"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "10 - 20 tổ chức"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tầm nhìn đến năm 2045, quy mô kinh tế số Việt Nam mục tiêu đạt bao nhiêu % GDP?",
+        "options": {
+          "A": "30% GDP",
+          "B": "40% GDP",
+          "C": "50% GDP",
+          "D": "60% GDP"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "30% GDP"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tầm nhìn đến năm 2045, Việt Nam phấn đấu có bao nhiêu doanh nghiệp công nghệ số ngang tầm các nước tiên tiến?",
+        "options": {
+          "A": "≥ 5 doanh nghiệp",
+          "B": "≥ 10 doanh nghiệp",
+          "C": "≥ 20 doanh nghiệp",
+          "D": "≥ 50 doanh nghiệp"
+        },
+        "answer": 2,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "≥ 5 doanh nghiệp"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Trong tổng chi cho R&D năm 2030, tỷ trọng kinh phí từ nguồn xã hội mục tiêu đạt bao nhiêu %?",
+        "options": {
+          "A": "> 40%",
+          "B": "> 50%",
+          "C": "> 60%",
+          "D": "> 80%"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "> 40%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ cung cấp dịch vụ công trực tuyến TOÀN TRÌNH trên tổng số thủ tục hành chính có đủ điều kiện năm 2030 là bao nhiêu?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": "70%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ dân số trưởng thành có chữ ký số hoặc chữ ký điện tử cá nhân năm 2030 mục tiêu là bao nhiêu?",
+        "options": {
+          "A": ">= 50%",
+          "B": ">= 60%",
+          "C": ">= 70%",
+          "D": ">= 80%"
+        },
+        "answer": 3,
+        "topic": "I.6.Vòng đời dữ liệu khách hàng",
+        "explanation": ">= 50%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ dân số từ 15 tuổi trở lên có tài khoản giao dịch tại ngân hàng năm 2030 mục tiêu là bao nhiêu?",
+        "options": {
+          "A": ">= 80%",
+          "B": ">= 85%",
+          "C": ">= 90%",
+          "D": ">= 95%"
+        },
+        "answer": 4,
+        "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+        "explanation": ">= 80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ doanh nghiệp có hoạt động đổi mới sáng tạo mục tiêu đến năm 2030 đạt mức nào?",
+        "options": {
+          "A": "≥ 20%",
+          "B": "≥ 30%",
+          "C": "≥ 40%",
+          "D": "≥ 50%"
+        },
+        "answer": 3,
+        "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+        "explanation": "≥ 20%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ đơn đăng ký sáng chế, văn bằng bảo hộ sáng chế KHAI THÁC THƯƠNG MẠI năm 2030 mục tiêu đạt bao nhiêu %?",
+        "options": {
+          "A": "5 - 8%",
+          "B": "8 - 10%",
+          "C": "10 - 15%",
+          "D": "15 - 20%"
+        },
+        "answer": 2,
+        "topic": "I.7.Khai thác dữ liệu phục vụ QTRR, kinh doanh",
+        "explanation": "5 - 8%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ giao dịch không dùng tiền mặt mục tiêu đến năm 2030 đạt mức nào?",
+        "options": {
+          "A": "≥ 50%",
+          "B": "≥ 70%",
+          "C": "≥ 80%",
+          "D": "≥ 95%"
+        },
+        "answer": 3,
+        "topic": "I.8.Tài sản số",
+        "explanation": "≥ 50%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ hồ sơ, kết quả giải quyết thủ tục hành chính được số hóa năm 2030 phải đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "I.8.Tài sản số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân được phủ sóng 5G mục tiêu đến năm 2030 là bao nhiêu?",
+        "options": {
+          "A": "90%",
+          "B": "95%",
+          "C": "99%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "I.8.Tài sản số",
+        "explanation": "90%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân được phủ sóng mạng 5G đến năm 2030 mục tiêu đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "99%"
+        },
+        "answer": 4,
+        "topic": "I.8.Tài sản số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ người dân và doanh nghiệp sử dụng dịch vụ công trực tuyến năm 2030 mục tiêu đạt bao nhiêu %?",
+        "options": {
+          "A": ">= 60%",
+          "B": ">= 70%",
+          "C": ">= 80%",
+          "D": ">= 90%"
+        },
+        "answer": 3,
+        "topic": "I.8.Tài sản số",
+        "explanation": ">= 60%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ lệ số hóa hồ sơ, kết quả giải quyết thủ tục hành chính năm 2030 mục tiêu đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "I.8.Tài sản số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ trọng doanh nghiệp Make in Vietnam trong tổng doanh thu công nghiệp số năm 2030 mục tiêu là?",
+        "options": {
+          "A": "30%",
+          "B": "40%",
+          "C": "50%",
+          "D": "60%"
+        },
+        "answer": 3,
+        "topic": "I.8.Tài sản số",
+        "explanation": "30%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Tỷ trọng xuất khẩu sản phẩm công nghệ cao trên tổng giá trị hàng hóa xuất khẩu năm 2030 mục tiêu là bao nhiêu?",
+        "options": {
+          "A": "≥ 30%",
+          "B": "≥ 40%",
+          "C": "≥ 50%",
+          "D": "≥ 60%"
+        },
+        "answer": 3,
+        "topic": "I.8.Tài sản số",
+        "explanation": "≥ 30%"
+      },
+      {
+        "question": "Nghị quyết 71/NQ-CP,Xếp hạng chỉ số đổi mới sáng tạo toàn cầu (GII) của Việt Nam năm 2045 phấn đấu đạt mức nào?",
+        "options": {
+          "A": "Top 50",
+          "B": "Top 40",
+          "C": "Top 30",
+          "D": "Top 20"
+        },
+        "answer": 3,
+        "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+        "explanation": "Top 50"
+      },
+      {
+        "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Cơ quan chuyên trách bảo vệ dữ liệu cá nhân có trách nhiệm kiểm tra định kỳ bao nhiêu lần/năm?",
+        "options": {
+          "A": "01 lần",
+          "B": "Không quá 01 lần",
+          "C": "02 lần",
+          "D": "Hàng tháng"
+        },
+        "answer": 2,
+        "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+        "explanation": "01 lần"
+      },
+      {
+        "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Hồ sơ đánh giá tác động chuyển dữ liệu xuyên biên giới gồm bao nhiêu bản chính gửi Bộ Công an?",
+        "options": {
+          "A": "01 bản chính",
+          "B": "02 bản chính",
+          "C": "03 bản chính",
+          "D": "05 bản chính"
+        },
+        "answer": 1,
+        "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+        "explanation": "01 bản chính"
+      },
+      {
+        "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải được lưu trữ trong bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "Luôn luôn sẵn sàng để phục vụ hoạt động kiểm tra, đánh giá",
+          "C": "5 năm",
+          "D": "10 năm"
+        },
+        "answer": 2,
+        "topic": "I.9.Đạo đức trong sử dụng dữ liệu",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Khi có sự cố xâm phạm dữ liệu cá nhân, Bên kiểm soát phải thông báo cho cơ quan chuyên trách trong bao lâu?",
+        "options": {
+          "A": "24 giờ",
+          "B": "48 giờ",
+          "C": "72 giờ",
+          "D": "7 ngày"
+        },
+        "answer": 3,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "24 giờ"
+      },
+      {
+        "question": "Theo Luật Bảo vệ dữ liệu cá nhân 2025,Mức phạt tiền tối đa đối với các hành vi vi phạm khác (ngoài mua bán, chuyển xuyên biên giới) là bao nhiêu?",
+        "options": {
+          "A": "500 triệu đồng",
+          "B": "1 tỷ đồng",
+          "C": "3 tỷ đồng",
+          "D": "5 tỷ đồng"
+        },
+        "answer": 3,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "500 triệu đồng"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Điều kiện để thực hiện chuyển giao bắt buộc NHTM là lỗ lũy kế vượt mức nào?",
+        "options": {
+          "A": "50% vốn điều lệ và các quỹ dự trữ",
+          "B": "80% vốn điều lệ và các quỹ dự trữ",
+          "C": "100% giá trị vốn điều lệ và các quỹ dự trữ",
+          "D": "150% vốn điều lệ và các quỹ dự trữ"
+        },
+        "answer": 3,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "50% vốn điều lệ và các quỹ dự trữ"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Định kỳ bao lâu NHTM phải cập nhật, điều chỉnh phương án khắc phục dự kiến?",
+        "options": {
+          "A": "Hàng năm",
+          "B": "Ít nhất 02 năm",
+          "C": "Ít nhất 03 năm",
+          "D": "Ít nhất 05 năm"
+        },
+        "answer": 2,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "Hàng năm"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Đối với bất động sản nắm giữ do xử lý nợ, TCTD phải xử lý trong thời hạn tối đa bao lâu?",
+        "options": {
+          "A": "01 năm",
+          "B": "02 năm",
+          "C": "03 năm",
+          "D": "05 năm"
+        },
+        "answer": 4,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "01 năm"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Giới hạn cấp tín dụng của TCTD phi ngân hàng đối với một khách hàng là bao nhiêu % vốn tự có?",
+        "options": {
+          "A": "10%",
+          "B": "15%",
+          "C": "20%",
+          "D": "25%"
+        },
+        "answer": 2,
+        "topic": "II.1.Lấy khách hàng làm trung tâm",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Mức góp vốn tối đa của một NHTM vào một doanh nghiệp khác là bao nhiêu % vốn điều lệ doanh nghiệp đó?",
+        "options": {
+          "A": "5%",
+          "B": "11%",
+          "C": "15%",
+          "D": "20%"
+        },
+        "answer": 2,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Mức tối đa của quỹ dự trữ bổ sung vốn điều lệ là bao nhiêu?",
+        "options": {
+          "A": "50% vốn điều lệ",
+          "B": "100% vốn điều lệ",
+          "C": "200% vốn điều lệ",
+          "D": "Không giới hạn"
+        },
+        "answer": 2,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "50% vốn điều lệ"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Năm tài chính của TCTD bắt đầu và kết thúc khi nào?",
+        "options": {
+          "A": "01/01 đến 31/12",
+          "B": "01/04 đến 31/03 năm sau",
+          "C": "01/07 đến 30/06 năm sau",
+          "D": "Tùy quyết định TCTD"
+        },
+        "answer": 1,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "01/01 đến 31/12"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,NHNN can thiệp sớm khi lỗ lũy kế lớn hơn bao nhiêu % giá trị vốn điều lệ và các quỹ dự trữ?",
+        "options": {
+          "A": "10%",
+          "B": "15%",
+          "C": "20%",
+          "D": "25%"
+        },
+        "answer": 2,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,NHNN quyết định đặt TCTD vào kiểm soát đặc biệt khi tỷ lệ CAR thấp hơn mức nào trong 06 tháng liên tục?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "6%",
+          "D": "8%"
+        },
+        "answer": 2,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "2%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Quỹ tín dụng nhân dân được đầu tư tài sản cố định tối đa bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+        "options": {
+          "A": "50%",
+          "B": "75%",
+          "C": "100%",
+          "D": "150%"
+        },
+        "answer": 3,
+        "topic": "II.2.Hành trình khách hàng số",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,TCTD được can thiệp sớm phải gửi phương án khắc phục cho NHNN trong bao lâu sau khi được thông qua?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,TCTD phải trích bao nhiêu % lợi nhuận sau thuế hằng năm để lập quỹ dự trữ bổ sung vốn điều lệ?",
+        "options": {
+          "A": "5%",
+          "B": "10%",
+          "C": "15%",
+          "D": "20%"
+        },
+        "answer": 2,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Thời gian phân bổ lãi phải thu phải thoái tối đa cho TCTD can thiệp sớm là bao lâu?",
+        "options": {
+          "A": "03 năm",
+          "B": "05 năm",
+          "C": "07 năm",
+          "D": "10 năm"
+        },
+        "answer": 2,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "03 năm"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Thời hạn gửi báo cáo hằng năm cho Ngân hàng Nhà nước là bao lâu kể từ ngày kết thúc năm tài chính?",
+        "options": {
+          "A": "30 ngày",
+          "B": "60 ngày",
+          "C": "90 ngày",
+          "D": "120 ngày"
+        },
+        "answer": 3,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Thời hạn xây dựng phương án phục hồi sau khi nhận yêu cầu từ Ban kiểm soát đặc biệt là bao lâu?",
+        "options": {
+          "A": "30 ngày",
+          "B": "45 ngày",
+          "C": "60 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 3,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Tổng dư nợ cấp tín dụng đối với các đối tượng hạn chế cấp tín dụng (không bao gồm công ty con, công ty liên kết của TCTD) không được vượt quá bao nhiêu % vốn tự có?",
+        "options": {
+          "A": "1%",
+          "B": "3%",
+          "C": "5%",
+          "D": "10%"
+        },
+        "answer": 3,
+        "topic": "II.3.Cá nhân hóa sản phẩm, dịch vụ",
+        "explanation": "1%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Tổng mức góp vốn, mua cổ phần của NHTM vào các doanh nghiệp, TCTD khác không vượt quá bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+        "options": {
+          "A": "30%",
+          "B": "40%",
+          "C": "50%",
+          "D": "60%"
+        },
+        "answer": 2,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "30%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Trong thời gian can thiệp sớm, lỗ lũy kế vượt bao nhiêu % vốn điều lệ thì được hỗ trợ về dự phòng rủi ro?",
+        "options": {
+          "A": "30%",
+          "B": "40%",
+          "C": "50%",
+          "D": "60%"
+        },
+        "answer": 3,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "30%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Từ ngày 01/01/2029, giới hạn cấp tín dụng của NHTM đối với một khách hàng và người có liên quan là bao nhiêu?",
+        "options": {
+          "A": "15% vốn tự có",
+          "B": "20% vốn tự có",
+          "C": "23% vốn tự có",
+          "D": "25% vốn tự có"
+        },
+        "answer": 1,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "15% vốn tự có"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Từ ngày Luật có hiệu lực đến trước 01/01/2026, giới hạn cấp tín dụng của NHTM đối với một khách hàng là bao nhiêu?",
+        "options": {
+          "A": "10% vốn tự có",
+          "B": "12% vốn tự có",
+          "C": "14% vốn tự có",
+          "D": "15% vốn tự có"
+        },
+        "answer": 3,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "10% vốn tự có"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Tỷ lệ an toàn vốn tối thiểu (CAR) mà TCTD phải duy trì là bao nhiêu?",
+        "options": {
+          "A": "5%",
+          "B": "8%",
+          "C": "10%",
+          "D": "12%"
+        },
+        "answer": 2,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Tỷ lệ giá trị tài sản cố định phục vụ hoạt động của NHTM không được vượt quá bao nhiêu % vốn điều lệ và quỹ dự trữ?",
+        "options": {
+          "A": "30%",
+          "B": "50%",
+          "C": "70%",
+          "D": "100%"
+        },
+        "answer": 2,
+        "topic": "II.4.Định danh điện tử (eKYC)",
+        "explanation": "30%"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Vi phạm tỷ lệ an toàn vốn tối thiểu (CAR) trong bao lâu liên tục thì bị can thiệp sớm?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 3,
+        "topic": "II.5.Chăm sóc khách hàng đa kênh",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": "Theo Luật Các TCTD 2024,Vi phạm tỷ lệ khả năng chi trả trong bao lâu liên tục thì TCTD bị can thiệp sớm?",
+        "options": {
+          "A": "07 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 3,
+        "topic": "II.5.Chăm sóc khách hàng đa kênh",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Theo Luật Chuyển đổi số số 148/2025/QH15,Cơ quan nào chịu trách nhiệm thống nhất quản lý nhà nước về chuyển đổi số trên toàn quốc?",
+        "options": {
+          "A": "Bộ Công an",
+          "B": "Chính phủ",
+          "C": "Bộ Khoa học và Công nghệ",
+          "D": "Quốc hội"
+        },
+        "answer": 2,
+        "topic": "II.5.Chăm sóc khách hàng đa kênh",
+        "explanation": "Bộ Công an"
+      },
+      {
+        "question": "Theo Luật Chuyển đổi số số 148/2025/QH15,Việc thống kê, đánh giá mức độ chuyển đổi số quốc gia được thực hiện định kỳ bao lâu?",
+        "options": {
+          "A": "10 năm một lần",
+          "B": "Hằng năm",
+          "C": "5 năm một lần",
+          "D": "Mỗi tháng"
+        },
+        "answer": 2,
+        "topic": "II.5.Chăm sóc khách hàng đa kênh",
+        "explanation": "10 năm một lần"
+      },
+      {
+        "question": "Theo Luật Công nghiệp công nghệ số 2025,Các khoản thu nhập của nhân lực công nghệ số chất lượng cao được miễn thuế thu nhập cá nhân trong bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "05 năm",
+          "C": "10 năm",
+          "D": "Vĩnh viễn"
+        },
+        "answer": 2,
+        "topic": "II.5.Chăm sóc khách hàng đa kênh",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Theo Luật Công nghiệp công nghệ số 2025,Nhân lực công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú trong bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "05 năm",
+          "C": "10 năm",
+          "D": "2 năm"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Theo Luật Công nghiệp công nghệ số 2025,Nhân lực công nghệ số chất lượng cao là người nước ngoài được cấp thẻ tạm trú trong bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "05 năm",
+          "C": "10 năm",
+          "D": "2 năm"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Theo Luật Dữ liệu,Tỷ lệ kinh phí tối thiểu dành cho an toàn thông tin, an ninh mạng trong dự án dữ liệu là bao nhiêu?",
+        "options": {
+          "A": "5%",
+          "B": "15%",
+          "C": "20%",
+          "D": "50%"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo Luật giao dịch điện tử 2023,Chuyển giao chứng thư điện tử yêu cầu hệ thống thông tin đạt mức an toàn nào?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Tối thiểu cấp độ 3",
+          "C": "Cấp độ quốc gia",
+          "D": "Cấp độ bí mật"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Theo Luật giao dịch điện tử 2023,Hệ thống thông tin phục vụ việc chuyển giao chứng thư điện tử phải đáp ứng an toàn cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Tối thiểu cấp độ 3",
+          "C": "Cấp độ 5",
+          "D": "Tối thiểu cấp độ 2"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Theo Luật giao dịch điện tử 2023,Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là bao lâu?",
+        "options": {
+          "A": "5 năm",
+          "B": "10 năm",
+          "C": "15 năm",
+          "D": "20 năm"
+        },
+        "answer": 2,
+        "topic": "II.6.UX/UI trong ngân hàng số",
+        "explanation": "5 năm"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Cá nhân cung cấp dịch vụ bảo vệ dữ liệu cá nhân thuê ngoài cần bao nhiêu năm kinh nghiệm?",
+        "options": {
+          "A": "01 năm",
+          "B": "02 năm",
+          "C": "03 năm",
+          "D": "05 năm"
+        },
+        "answer": 3,
+        "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "explanation": "01 năm"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Các tổ chức tài chính, ngân hàng phải đánh giá tuân thủ bảo vệ dữ liệu cá nhân định kỳ bao lâu?",
+        "options": {
+          "A": "06 tháng/lần",
+          "B": "01 năm/lần",
+          "C": "02 năm/lần",
+          "D": "03 năm/lần"
+        },
+        "answer": 2,
+        "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "explanation": "06 tháng/lần"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Cơ quan chuyên trách thông báo kiểm tra định kỳ trước bao nhiêu ngày?",
+        "options": {
+          "A": "03 ngày",
+          "B": "07 ngày",
+          "C": "10 ngày",
+          "D": "15 ngày"
+        },
+        "answer": 4,
+        "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "explanation": "03 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Cơ quan chuyên trách trả kết quả đánh giá hồ sơ chuyển dữ liệu trong bao lâu?",
+        "options": {
+          "A": "07 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "20 ngày"
+        },
+        "answer": 3,
+        "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Đơn vị vận hành Blockchain phải đánh giá tuân thủ bảo vệ dữ liệu định kỳ bao lâu?",
+        "options": {
+          "A": "06 tháng/lần",
+          "B": "01 năm/lần",
+          "C": "02 năm/lần",
+          "D": "05 năm/lần"
+        },
+        "answer": 2,
+        "topic": "II.7.Tài chính toàn diện qua ngân hàng số",
+        "explanation": "06 tháng/lần"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Giấy chứng nhận kinh doanh sẽ bị thu hồi nếu tổ chức không hoạt động từ bao nhiêu tháng?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Hồ sơ đánh giá tác động xử lý/chuyển dữ liệu phải được cập nhật định kỳ bao lâu?",
+        "options": {
+          "A": "03 tháng/lần",
+          "B": "06 tháng/lần",
+          "C": "01 năm/lần",
+          "D": "02 năm/lần"
+        },
+        "answer": 2,
+        "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+        "explanation": "03 tháng/lần"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Hồ sơ vi phạm dữ liệu cá nhân phải được lưu trữ trong thời gian tối thiểu bao nhiêu năm?",
+        "options": {
+          "A": "01 năm",
+          "B": "03 năm",
+          "C": "05 năm",
+          "D": "10 năm"
+        },
+        "answer": 3,
+        "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+        "explanation": "01 năm"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận được yêu cầu rút lại sự đồng ý, bên kiểm soát dữ liệu phải phản hồi trong bao lâu?",
+        "options": {
+          "A": "24 giờ",
+          "B": "02 ngày làm việc",
+          "C": "05 ngày làm việc",
+          "D": "07 ngày"
+        },
+        "answer": 2,
+        "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+        "explanation": "24 giờ"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận được yêu cầu xóa dữ liệu, bên kiểm soát dữ liệu phải hoàn thành trong bao lâu?",
+        "options": {
+          "A": "10 ngày",
+          "B": "15 ngày",
+          "C": "20 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 3,
+        "topic": "II.8.Blockchain trong tài chính – ngân hàng",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Khi nhận yêu cầu chỉnh sửa dữ liệu, bên kiểm soát phản hồi về thủ tục trong bao lâu?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "05 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Một tổ chức có thể gia hạn thời gian giải quyết yêu cầu xóa dữ liệu tối đa mấy lần?",
+        "options": {
+          "A": "Không được gia hạn",
+          "B": "01 lần",
+          "C": "02 lần",
+          "D": "03 lần"
+        },
+        "answer": 2,
+        "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "explanation": "Không được gia hạn"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Nếu cần yêu cầu bên thứ ba ngừng xử lý dữ liệu khi chủ thể rút lại sự đồng ý, thời hạn là bao lâu?",
+        "options": {
+          "A": "15 ngày",
+          "B": "20 ngày",
+          "C": "25 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "explanation": "15 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Nếu hồ sơ đánh giá tác động bị yêu cầu hoàn thiện, tổ chức có bao nhiêu ngày để thực hiện?",
+        "options": {
+          "A": "10 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "45 ngày"
+        },
+        "answer": 3,
+        "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Nếu hồ sơ đề nghị cấp giấy phép không đầy đủ, doanh nghiệp có bao nhiêu ngày để bổ sung?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "20 ngày"
+        },
+        "answer": 3,
+        "topic": "II.9.Quản lý phản hồi, dữ liệu hành vi khách hàng",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Nhân sự bảo vệ dữ liệu cá nhân nội bộ cần có ít nhất bao nhiêu năm kinh nghiệm?",
+        "options": {
+          "A": "01 năm",
+          "B": "02 năm",
+          "C": "03 năm",
+          "D": "05 năm"
+        },
+        "answer": 2,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "01 năm"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Quyền được xem dữ liệu của mình của chủ thể phải được thực hiện trong bao nhiêu ngày?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "20 ngày"
+        },
+        "answer": 2,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn hoàn thành việc chỉnh sửa dữ liệu cá nhân theo yêu cầu là bao nhiêu ngày?",
+        "options": {
+          "A": "05 ngày",
+          "B": "07 ngày",
+          "C": "10 ngày",
+          "D": "15 ngày"
+        },
+        "answer": 3,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn hoàn thành việc thực hiện yêu cầu rút lại sự đồng ý của chủ thể là bao nhiêu ngày?",
+        "options": {
+          "A": "10 ngày",
+          "B": "15 ngày",
+          "C": "20 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Thời hạn thẩm định và cấp Giấy chứng nhận kinh doanh dịch vụ xử lý dữ liệu là bao nhiêu ngày?",
+        "options": {
+          "A": "15 ngày",
+          "B": "20 ngày",
+          "C": "30 ngày",
+          "D": "45 ngày"
+        },
+        "answer": 3,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "15 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức cung cấp dịch vụ bảo vệ dữ liệu cá nhân phải có tối thiểu bao nhiêu nhân sự đủ điều kiện?",
+        "options": {
+          "A": "01 nhân sự",
+          "B": "02 nhân sự",
+          "C": "03 nhân sự",
+          "D": "05 nhân sự"
+        },
+        "answer": 3,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "01 nhân sự"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức cung cấp dịch vụ điện toán đám mây phải thực hiện đánh giá tuân thủ định kỳ bao lâu?",
+        "options": {
+          "A": "06 tháng/lần",
+          "B": "01 năm/lần",
+          "C": "02 năm/lần",
+          "D": "Theo yêu cầu khách hàng"
+        },
+        "answer": 2,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "06 tháng/lần"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức kinh doanh dịch vụ xử lý dữ liệu phải dành bao nhiêu % kinh phí cho an toàn thông tin?",
+        "options": {
+          "A": "5%",
+          "B": "10%",
+          "C": "15%",
+          "D": "20%"
+        },
+        "answer": 3,
+        "topic": "III.1 AI trong ngân hàng",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức phải nộp lại Giấy chứng nhận cho cơ quan chuyên trách trong bao lâu sau quyết định thu hồi?",
+        "options": {
+          "A": "03 ngày làm việc",
+          "B": "05 ngày làm việc",
+          "C": "10 ngày làm việc",
+          "D": "15 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "03 ngày làm việc"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức tài chính phải làm gì khi phát hiện lộ, mất dữ liệu cá nhân nhạy cảm của khách hàng?",
+        "options": {
+          "A": "Thông báo trong 24 giờ",
+          "B": "Thông báo trong 48 giờ",
+          "C": "Thông báo trong 72 giờ",
+          "D": "Thông báo trong 07 ngày"
+        },
+        "answer": 3,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "Thông báo trong 24 giờ"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Tổ chức xử lý dữ liệu phải nộp hồ sơ đánh giá tác động xử lý trong bao lâu?",
+        "options": {
+          "A": "30 ngày từ khi bắt đầu",
+          "B": "45 ngày từ khi bắt đầu",
+          "C": "60 ngày từ khi bắt đầu",
+          "D": "90 ngày từ khi bắt đầu"
+        },
+        "answer": 3,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "30 ngày từ khi bắt đầu"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Trong trường hợp phức tạp, thời hạn xóa dữ liệu có thể gia hạn tối đa bao nhiêu ngày?",
+        "options": {
+          "A": "10 ngày",
+          "B": "15 ngày",
+          "C": "20 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 3,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Trường hợp kiểm tra đột xuất, cơ quan chuyên trách có cần thông báo trước không?",
+        "options": {
+          "A": "Thông báo trước 24 giờ",
+          "B": "Thông báo trước 12 giờ",
+          "C": "Không cần thông báo trước",
+          "D": "Luôn phải thông báo"
+        },
+        "answer": 3,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "Thông báo trước 24 giờ"
+      },
+      {
+        "question": "Theo nghị định 356/2025/NĐ-CP,Trường hợp thay đổi thông tin về tổ chức cung cấp dịch vụ, hồ sơ phải cập nhật trong bao lâu?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo nghị định 53/2022, Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia phải thông báo về hoạt động giám sát cho lực lượng chuyên trách định kỳ bao lâu một lần?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 2,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": "Theo nghị định 53/2022, Dữ liệu của hệ thống thông tin quan trọng về an ninh quốc gia phải được sao lưu dự phòng với tần suất thay đổi trong vòng bao nhiêu giờ?",
+        "options": {
+          "A": "6 giờ",
+          "B": "12 giờ",
+          "C": "24 giờ",
+          "D": "48 giờ"
+        },
+        "answer": 3,
+        "topic": "III.2 Machine Learning, tự động hóa quyết định",
+        "explanation": "6 giờ"
+      },
+      {
+        "question": "Theo nghị định 53/2022, Hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia gồm mấy loại văn bản/tài liệu chính?",
+        "options": {
+          "A": "2 loại",
+          "B": "3 loại",
+          "C": "4 loại",
+          "D": "5 loại"
+        },
+        "answer": 2,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "2 loại"
+      },
+      {
+        "question": "Theo nghị định 53/2022, Nhật ký hệ thống để phục vụ điều tra, xử lý vi phạm pháp luật về an ninh mạng phải được lưu trữ tối thiểu bao lâu?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Đoàn kiểm tra an ninh mạng phải thông báo kết quả kiểm tra trong thời hạn bao lâu kể từ khi hoàn thành?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "03 ngày làm việc",
+          "C": "05 ngày làm việc",
+          "D": "07 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống quan trọng về an ninh quốc gia được lập thành bao nhiêu bản?",
+        "options": {
+          "A": "01 bản chính",
+          "B": "02 bản chính",
+          "C": "03 bản chính",
+          "D": "04 bản chính"
+        },
+        "answer": 1,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "01 bản chính"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Lực lượng chuyên trách phải cấp giấy tiếp nhận hồ sơ đề nghị thẩm định an ninh mạng trong thời gian bao lâu?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "05 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Nghị định 262/2025/NĐ-CP Chi nhánh của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian trình độ đại học trở lên?",
+        "options": {
+          "A": "01 người",
+          "B": "02 người",
+          "C": "03 người",
+          "D": "05 người"
+        },
+        "answer": 3,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "01 người"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Nhật ký hệ thống về hoạt động của hệ thống thông tin quan trọng về an ninh quốc gia phải được lưu trữ tối thiểu bao lâu?",
+        "options": {
+          "A": "1 tháng",
+          "B": "3 tháng",
+          "C": "6 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 2,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "1 tháng"
+      },
+      {
+        "question": "Theo nghị định 53/2022,Việc kiểm tra an ninh mạng định kỳ đối với hệ thống thông tin quan trọng về an ninh quốc gia được thực hiện bao lâu một lần?",
+        "options": {
+          "A": "01 lần/năm",
+          "B": "02 lần/năm",
+          "C": "03 lần/năm",
+          "D": "05 năm/lần"
+        },
+        "answer": 1,
+        "topic": "III.3 Điện toán đám mây",
+        "explanation": "01 lần/năm"
+      },
+      {
+        "question": "Theo nghị định 63/2010/NĐ-CP,Cán bộ công chức không được để cá nhân, tổ chức phải đi lại bổ sung hồ sơ quá mấy lần cho một vụ việc?",
+        "options": {
+          "A": "01 lần",
+          "B": "02 lần",
+          "C": "03 lần",
+          "D": "05 lần"
+        },
+        "answer": 2,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "01 lần"
+      },
+      {
+        "question": "Theo nghị định 63/2010/NĐ-CP,Định kỳ hàng quý, các Bộ, UBND tỉnh phải báo cáo kết quả kiểm soát thủ tục hành chính trước ngày nào?",
+        "options": {
+          "A": "Ngày 01 của quý sau",
+          "B": "Trước ngày 15 của tháng thứ ba của mỗi quý",
+          "C": "Ngày 30 của tháng cuối năm",
+          "D": "Không cần báo cáo định kỳ"
+        },
+        "answer": 2,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "Ngày 01 của quý sau"
+      },
+      {
+        "question": "Theo nghị định 63/2010/NĐ-CP,Thời hạn nhập dữ liệu và gửi Cơ quan kiểm soát thủ tục hành chính là bao lâu kể từ ngày ký quyết định công bố?",
+        "options": {
+          "A": "03 ngày làm việc",
+          "B": "05 ngày làm việc",
+          "C": "07 ngày làm việc",
+          "D": "10 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "03 ngày làm việc"
+      },
+      {
+        "question": "Theo nghị định 63/2010/NĐ-CP,Thời hạn Văn phòng Bộ hoặc Văn phòng UBND tỉnh gửi văn bản tham gia ý kiến là bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "20 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Theo QĐ 11/2019,Có bao nhiêu chuẩn mực đạo đức nghề nghiệp cốt lõi của cán bộ ngân hàng được quy định tại Chương II?",
+        "options": {
+          "A": "04 chuẩn mực",
+          "B": "05 chuẩn mực",
+          "C": "06 chuẩn mực",
+          "D": "08 chuẩn mực"
+        },
+        "answer": 3,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "04 chuẩn mực"
+      },
+      {
+        "question": "Theo QĐ 1789/2005,Chứng từ kế toán bằng giấy được lưu tại bộ phận kế toán tối đa bao lâu trước khi chuyển vào kho lưu trữ?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Theo QĐ 1789/2005,Khách hàng gửi chứng từ điện tử phải lưu trữ chứng từ đó ít nhất bao lâu để phục vụ tra soát?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "30 ngày",
+          "D": "01 năm"
+        },
+        "answer": 2,
+        "topic": "III.4 RPA - Tự động hóa quyết định",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo QĐ 2439 năm 2025,Hệ thống quản lý truy cập và mã hóa dữ liệu thuộc lớp nào trong kiến trúc an toàn dữ liệu?",
+        "options": {
+          "A": "Lớp 1",
+          "B": "Lớp 2",
+          "C": "Lớp 3",
+          "D": "Lớp 8"
+        },
+        "answer": 3,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "Lớp 1"
+      },
+      {
+        "question": "Theo QĐ 2439 năm 2025,Kho dữ liệu dùng chung quốc gia bao gồm bao nhiêu lớp dữ liệu dùng chung?",
+        "options": {
+          "A": "05 lớp",
+          "B": "08 lớp",
+          "C": "10 lớp",
+          "D": "12 lớp"
+        },
+        "answer": 2,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "05 lớp"
+      },
+      {
+        "question": "Theo QĐ 2439 năm 2025,Một tổ chức được xếp loại mức độ trưởng thành về năng lực quản trị dữ liệu là \"Tối ưu, tự động hóa\" khi điểm trung bình đạt?",
+        "options": {
+          "A": "0.0 - 0.99",
+          "B": "2.0 - 2.99",
+          "C": "4.0 - 4.49",
+          "D": "4.5 - 5.0"
+        },
+        "answer": 4,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "0.0 - 0.99"
+      },
+      {
+        "question": "Theo QĐ 2439 năm 2025,Phiên bản \"Chính\" (Major Release) của Từ điển dữ liệu dùng chung được phát hành theo chu kỳ bao lâu?",
+        "options": {
+          "A": "12 tháng",
+          "B": "2 năm",
+          "C": "3 năm",
+          "D": "5 năm"
+        },
+        "answer": 3,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "12 tháng"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Đến năm 2030, bao nhiêu dịch vụ công trực tuyến toàn trình phải ứng dụng Trí tuệ nhân tạo (AI)?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Khung quốc gia tuân thủ bao nhiêu nguyên tắc cốt lõi?",
+        "options": {
+          "A": "05 nguyên tắc",
+          "B": "07 nguyên tắc",
+          "C": "09 nguyên tắc",
+          "D": "10 nguyên tắc"
+        },
+        "answer": 2,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "05 nguyên tắc"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Mục tiêu đào tạo kỹ năng số cơ bản cho tối thiểu bao nhiêu người dân trong độ tuổi lao động đến năm 2030?",
+        "options": {
+          "A": "1.000.000 người",
+          "B": "5.000.000 người",
+          "C": "10.000.000 người",
+          "D": "20.000.000 người"
+        },
+        "answer": 3,
+        "topic": "III.5 API, Open Banking",
+        "explanation": "1.000.000 người"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Mục tiêu đến năm 2030, bao nhiêu phần trăm thủ tục hành chính đủ điều kiện được cung cấp dịch vụ công trực tuyến toàn trình?",
+        "options": {
+          "A": "50%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Tầm nhìn đến năm 2045, kinh tế số chiếm bao nhiêu phần trăm GDP?",
+        "options": {
+          "A": "20% GDP",
+          "B": "30% GDP",
+          "C": "50% GDP",
+          "D": "70% GDP"
+        },
+        "answer": 3,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "20% GDP"
+      },
+      {
+        "question": "Theo QĐ 3090/2025,Trục liên thông văn bản quốc gia dự kiến hoàn thành trong giai đoạn nào?",
+        "options": {
+          "A": "2020-2022",
+          "B": "2025-2026",
+          "C": "2027-2028",
+          "D": "Sau 2030"
+        },
+        "answer": 2,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "2020-2022"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Kết quả đánh giá việc giải quyết thủ tục hành chính được phân thành bao nhiêu mức?",
+        "options": {
+          "A": "03 mức",
+          "B": "04 mức",
+          "C": "05 mức",
+          "D": "10 mức"
+        },
+        "answer": 3,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "03 mức"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Sau khi nhận được thông báo khóa tài khoản do lỗi thông tin định danh không chính xác, cơ quan quản lý phải phản hồi kết quả xử lý cho chủ tài khoản trong bao lâu?",
+        "options": {
+          "A": "Trong vòng 08 giờ làm việc",
+          "B": "Trong vòng 24 giờ làm việc",
+          "C": "Không quá 48 giờ làm việc",
+          "D": "Sau 07 ngày"
+        },
+        "answer": 3,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "Trong vòng 08 giờ làm việc"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Tài khoản người dùng sẽ bị khóa nếu không phát sinh hoạt động nào trong bao lâu kể từ lần đăng nhập cuối cùng?",
+        "options": {
+          "A": "06 tháng",
+          "B": "12 tháng",
+          "C": "02 năm",
+          "D": "05 năm"
+        },
+        "answer": 3,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "06 tháng"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Thời hạn xử lý hoàn trả tiền cho người dùng (nếu lỗi xác định đúng là do nộp thừa/trùng) là bao lâu kể từ ngày nhận được đề nghị?",
+        "options": {
+          "A": "Không quá 02 ngày làm việc",
+          "B": "Không quá 05 ngày làm việc",
+          "C": "Không quá 10 ngày làm việc",
+          "D": "Sau 01 tháng"
+        },
+        "answer": 2,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "Không quá 02 ngày làm việc"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Trường hợp đối soát phát hiện có chênh lệch, các bên phải phối hợp xử lý dứt điểm chậm nhất trong bao lâu?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "05 ngày làm việc",
+          "D": "10 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "III.6 Công nghệ thanh toán không dùng tiền mặt",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Văn phòng Chính phủ phải thông báo cho các bên liên quan về kế hoạch bảo trì, nâng cấp hệ thống trước bao lâu?",
+        "options": {
+          "A": "Tối thiểu 01 ngày làm việc",
+          "B": "Tối thiểu 03 ngày làm việc",
+          "C": "Tối thiểu 05 ngày làm việc",
+          "D": "Không cần thông báo"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "Tối thiểu 01 ngày làm việc"
+      },
+      {
+        "question": "Theo QĐ 31 năm 2021',Việc thanh toán điện tử giữa ngân hàng thương mại (hoặc trung gian thanh toán) đến tài khoản thụ hưởng của cơ quan được thực hiện không chậm hơn thời gian nào (trừ thuế, bảo hiểm)?",
+        "options": {
+          "A": "Ngay lập tức",
+          "B": "Chậm nhất ngày T+1",
+          "C": "Chậm nhất ngày T+2",
+          "D": "Sau 01 tuần"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "Ngay lập tức"
+      },
+      {
+        "question": "Theo thông tư 09/2020 \"Xác thực đa yếu tố\" theo Thông tư 09 yêu cầu tối thiểu bao nhiêu yếu tố?",
+        "options": {
+          "A": "Một yếu tố",
+          "B": "Hai yếu tố",
+          "C": "Ba yếu tố",
+          "D": "Bốn yếu tố"
+        },
+        "answer": 2,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "Một yếu tố"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Báo cáo hoàn thành khắc phục sự cố phải gửi NHNN trong vòng bao nhiêu ngày sau khi khắc phục xong?",
+        "options": {
+          "A": "1 ngày làm việc",
+          "B": "3 ngày làm việc",
+          "C": "5 ngày làm việc",
+          "D": "10 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "1 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Báo cáo kỷ luật sa thải nhân sự CNTT phải gửi cho NHNN trong vòng bao nhiêu ngày?",
+        "options": {
+          "A": "24 giờ",
+          "B": "3 ngày làm việc",
+          "C": "5 ngày làm việc",
+          "D": "7 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "24 giờ"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Bộ phận kiểm toán nội bộ phải thực hiện kiểm tra ATTT tối thiểu bao lâu một lần?",
+        "options": {
+          "A": "Hàng năm",
+          "B": "2 năm một lần",
+          "C": "3 năm một lần",
+          "D": "5 năm một lần"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "Hàng năm"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Các ngân hàng thương mại phải thực hiện kiểm tra nội bộ về ATTT tối thiểu bao lâu một lần?",
+        "options": {
+          "A": "6 tháng một lần",
+          "B": "1 năm một lần",
+          "C": "2 năm một lần",
+          "D": "3 năm một lần"
+        },
+        "answer": 2,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "6 tháng một lần"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Camera giám sát tại Trung tâm dữ liệu phải lưu trữ dữ liệu tối thiểu bao nhiêu ngày?",
+        "options": {
+          "A": "30 ngày",
+          "B": "60 ngày",
+          "C": "90 ngày",
+          "D": "180 ngày"
+        },
+        "answer": 3,
+        "topic": "III.7 Sinh trắc học (Biometrics)",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Danh sách HTTT theo cấp độ phải được rà soát, cập nhật định kỳ bao lâu một lần?",
+        "options": {
+          "A": "6 tháng",
+          "B": "Hàng năm",
+          "C": "2 năm",
+          "D": "3 năm"
+        },
+        "answer": 2,
+        "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "explanation": "6 tháng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Đối với giao dịch chuyển tiền điện tử liên ngân hàng từ bao nhiêu tiền trở lên bắt buộc áp dụng xác thực đa yếu tố tại bước phê duyệt cuối?",
+        "options": {
+          "A": "50 triệu đồng",
+          "B": "100 triệu đồng",
+          "C": "200 triệu đồng",
+          "D": "500 triệu đồng"
+        },
+        "answer": 2,
+        "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "explanation": "50 triệu đồng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Dữ liệu của HTTT cấp độ 3 trở lên phải được sao lưu với tần suất như thế nào?",
+        "options": {
+          "A": "Hàng tuần",
+          "B": "Hàng tháng",
+          "C": "Trong vòng 24 giờ kể từ khi phát sinh",
+          "D": "Theo quý"
+        },
+        "answer": 3,
+        "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "explanation": "Hàng tuần"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Dữ liệu nhật ký (log) của HTTT cấp độ 3 trở lên phải được lưu trực tuyến tối thiểu bao lâu?",
+        "options": {
+          "A": "1 tháng",
+          "B": "3 tháng",
+          "C": "6 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 2,
+        "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "explanation": "1 tháng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Dữ liệu nhật ký của HTTT cấp độ 2 phải được sao lưu tối thiểu bao lâu?",
+        "options": {
+          "A": "1 tháng",
+          "B": "3 tháng",
+          "C": "6 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 3,
+        "topic": "IV.1.Khung pháp lý chuyển đổi số, chuyển đổi số ngành ngân hàng",
+        "explanation": "1 tháng"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Khi chủ thẻ báo mất thẻ, TCPHT phải thực hiện việc khóa thẻ trong bao lâu?",
+        "options": {
+          "A": "Ngay lập tức",
+          "B": "Sau 30 phút",
+          "C": "Sau 01 giờ",
+          "D": "Trong ngày làm việc"
+        },
+        "answer": 1,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "Ngay lập tức"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Khi thay đổi biểu phí dịch vụ thẻ, TCPHT phải thông báo cho chủ thẻ trước ít nhất bao nhiêu ngày?",
+        "options": {
+          "A": "03 ngày",
+          "B": "05 ngày",
+          "C": "07 ngày",
+          "D": "15 ngày"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "03 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Khoản cấp tín dụng qua thẻ có mức giá trị nhỏ theo Luật Các TCTD là khoản nợ không vượt quá bao nhiêu?",
+        "options": {
+          "A": "100 triệu đồng",
+          "B": "200 triệu đồng",
+          "C": "400 triệu đồng",
+          "D": "500 triệu đồng"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "100 triệu đồng"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Nếu không xác định được lỗi trong thời gian quy định, trong bao lâu TCPHT phải thỏa thuận phương án xử lý tạm thời?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "30 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 18/2024, TCPHT phải bồi hoàn cho chủ thẻ trong vòng bao nhiêu ngày làm việc kể từ khi thông báo kết quả tra soát nếu lỗi thuộc ngân hàng?",
+        "options": {
+          "A": "03 ngày",
+          "B": "05 ngày",
+          "C": "07 ngày",
+          "D": "10 ngày"
+        },
+        "answer": 2,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "03 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, TCPHT phải gửi thông báo cho khách hàng bao nhiêu ngày trước khi giấy tờ tùy thân hết hiệu lực?",
+        "options": {
+          "A": "07 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, TCPHT phải gửi thông báo về mẫu thẻ phát hành cho Ngân hàng Nhà nước trước ít nhất bao nhiêu ngày?",
+        "options": {
+          "A": "07 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, TCPHT phải lưu trữ quy định nội bộ về cấp tín dụng qua thẻ và gửi cho NHNN trong bao lâu sau khi ban hành?",
+        "options": {
+          "A": "05 ngày",
+          "B": "10 ngày",
+          "C": "15 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Thời hạn chủ thẻ được quyền đề nghị tra soát, khiếu nại không được ít hơn bao nhiêu ngày?",
+        "options": {
+          "A": "30 ngày",
+          "B": "45 ngày",
+          "C": "60 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 3,
+        "topic": "IV.10.Khoa học công nghệ",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Thời hạn xử lý đề nghị tra soát, khiếu nại tối đa đối với thẻ có BIN của NHNN là bao nhiêu ngày?",
+        "options": {
+          "A": "15 ngày làm việc",
+          "B": "30 ngày làm việc",
+          "C": "45 ngày làm việc",
+          "D": "60 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.11.Dữ liệu",
+        "explanation": "15 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Thời hạn xử lý thông báo mất thẻ (đối với thẻ có BIN của Ngân hàng Nhà nước) không quá bao nhiêu ngày làm việc?",
+        "options": {
+          "A": "03 ngày",
+          "B": "05 ngày",
+          "C": "07 ngày",
+          "D": "10 ngày"
+        },
+        "answer": 2,
+        "topic": "IV.11.Dữ liệu",
+        "explanation": "03 ngày"
+      },
+      {
+        "question": "Theo thông tư 25, Tài liệu trong hồ sơ mở tài khoản của nhà đầu tư nước ngoài do cơ quan nước ngoài cấp phải được công chứng, chứng thực trong thời hạn bao lâu?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "IV.11.Dữ liệu",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Theo thông tư 25, Theo Phụ lục 02, tài khoản có bao nhiêu giao dịch nhận tiền từ tài khoản nghi ngờ lừa đảo thì bị xếp vào lý do số 4?",
+        "options": {
+          "A": "01 giao dịch",
+          "B": "Hơn 03 giao dịch",
+          "C": "Hơn 10 giao dịch",
+          "D": "100 giao dịch"
+        },
+        "answer": 2,
+        "topic": "IV.11.Dữ liệu",
+        "explanation": "01 giao dịch"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Khi nhận được lệnh chuyển tiền đến, doanh nghiệp bưu chính phải hạch toán và thông báo cho bên thụ hưởng trong bao lâu?",
+        "options": {
+          "A": "Ngay lập tức",
+          "B": "Chậm nhất trong 01 ngày làm việc",
+          "C": "Chậm nhất trong 02 ngày làm việc",
+          "D": "Chậm nhất trong 05 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.11.Dữ liệu",
+        "explanation": "Ngay lập tức"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Dữ liệu nhật ký HTTT cấp độ 3+ phải được sao lưu tối thiểu bao lâu?",
+        "options": {
+          "A": "3 tháng",
+          "B": "6 tháng",
+          "C": "1 năm",
+          "D": "2 năm"
+        },
+        "answer": 3,
+        "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+        "explanation": "3 tháng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Hệ thống dự phòng thảm họa phải đảm bảo khả năng thay thế hệ thống chính cấp độ 3 trong bao lâu?",
+        "options": {
+          "A": "1 giờ",
+          "B": "2 giờ",
+          "C": "4 giờ",
+          "D": "24 giờ"
+        },
+        "answer": 3,
+        "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+        "explanation": "1 giờ"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Hệ thống thông tin phục vụ hoạt động nội bộ và chỉ xử lý thông tin công cộng được phân loại là cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Cấp độ 2",
+          "C": "Cấp độ 3",
+          "D": "Cấp độ 4"
+        },
+        "answer": 1,
+        "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Hệ thống thông tin phục vụ khách hàng yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành không có kế hoạch là cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 2",
+          "B": "Cấp độ 3",
+          "C": "Cấp độ 4",
+          "D": "Cấp độ 5"
+        },
+        "answer": 2,
+        "topic": "IV.2.Bảo vệ dữ liệu cá nhân",
+        "explanation": "Cấp độ 2"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Hoạt động kiểm tra, đánh giá ATTT cho HTTT cấp độ 3 và 4 định kỳ bao lâu?",
+        "options": {
+          "A": "6 tháng một lần",
+          "B": "1 năm một lần",
+          "C": "2 năm một lần",
+          "D": "3 năm một lần"
+        },
+        "answer": 2,
+        "topic": "IV.3.Giao dịch điện tử",
+        "explanation": "6 tháng một lần"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT cấp độ 5 phải thực hiện kiểm tra, đánh giá ATTT định kỳ bao lâu một lần?",
+        "options": {
+          "A": "3 tháng một lần",
+          "B": "6 tháng một lần",
+          "C": "1 năm một lần",
+          "D": "2 năm một lần"
+        },
+        "answer": 2,
+        "topic": "IV.3.Giao dịch điện tử",
+        "explanation": "3 tháng một lần"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT cấp độ mấy xử lý thông tin bí mật nhà nước ở mức \"Tối mật\"?",
+        "options": {
+          "A": "Cấp độ 3",
+          "B": "Cấp độ 4",
+          "C": "Cấp độ 5",
+          "D": "Không phân cấp"
+        },
+        "answer": 2,
+        "topic": "IV.3.Giao dịch điện tử",
+        "explanation": "Cấp độ 3"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT cấp độ mấy xử lý thông tin bí mật nhà nước ở mức \"Tuyệt mật\"?",
+        "options": {
+          "A": "Cấp độ 3",
+          "B": "Cấp độ 4",
+          "C": "Cấp độ 5",
+          "D": "Cấp độ đặc biệt"
+        },
+        "answer": 3,
+        "topic": "IV.3.Giao dịch điện tử",
+        "explanation": "Cấp độ 3"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT cung cấp dịch vụ trực tuyến cho khách hàng phải tuân thủ tiêu chuẩn nào?",
+        "options": {
+          "A": "ISO 9001",
+          "B": "TCVN 11930:2017",
+          "C": "ISO 14001",
+          "D": "TCVN 7568"
+        },
+        "answer": 2,
+        "topic": "IV.3.Giao dịch điện tử",
+        "explanation": "ISO 9001"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT phục vụ khách hàng có xử lý, lưu trữ dữ liệu của bao nhiêu khách hàng trở lên thì được xếp vào cấp độ 4?",
+        "options": {
+          "A": "1 triệu khách hàng",
+          "B": "5 triệu khách hàng",
+          "C": "10 triệu khách hàng",
+          "D": "20 triệu khách hàng"
+        },
+        "answer": 3,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "1 triệu khách hàng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT quốc gia trong ngành Ngân hàng phục vụ kết nối liên thông quốc tế thuộc cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 3",
+          "B": "Cấp độ 4",
+          "C": "Cấp độ 5",
+          "D": "Cấp độ đặc biệt"
+        },
+        "answer": 3,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "Cấp độ 3"
+      },
+      {
+        "question": "Theo thông tư 09/2020 HTTT từ cấp độ mấy trở lên bắt buộc phải áp dụng phương án chống thất thoát dữ liệu (DLP)?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Cấp độ 2",
+          "C": "Cấp độ 3",
+          "D": "Cấp độ 4"
+        },
+        "answer": 3,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Khi thuê bên thứ ba quản trị HTTT cấp độ 3, tổ chức phải gửi báo cáo đánh giá rủi ro cho NHNN trước bao nhiêu ngày?",
+        "options": {
+          "A": "5 ngày làm việc",
+          "B": "7 ngày làm việc",
+          "C": "10 ngày làm việc",
+          "D": "15 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "5 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Quy chế an toàn thông tin của tổ chức phải được rà soát tối thiểu bao lâu một lần?",
+        "options": {
+          "A": "6 tháng",
+          "B": "Mỗi năm một lần",
+          "C": "2 năm một lần",
+          "D": "5 năm một lần"
+        },
+        "answer": 2,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "6 tháng"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Tổ chức phải báo cáo sự cố ATTT về Ngân hàng Nhà nước trong vòng bao lâu kể từ khi phát hiện?",
+        "options": {
+          "A": "1 giờ",
+          "B": "12 giờ",
+          "C": "24 giờ",
+          "D": "48 giờ"
+        },
+        "answer": 3,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "1 giờ"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Việc diễn tập phương án xử lý sự cố ATTT cho ít nhất một HTTT cấp độ 3 trở lên phải thực hiện định kỳ bao lâu?",
+        "options": {
+          "A": "6 tháng một lần",
+          "B": "Hàng năm",
+          "C": "2 năm một lần",
+          "D": "3 năm một lần"
+        },
+        "answer": 2,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "6 tháng một lần"
+      },
+      {
+        "question": "Theo thông tư 09/2020 Việc kiểm tra phục hồi dữ liệu từ phương tiện lưu trữ ngoài đối với HTTT cấp độ 3 trở lên được thực hiện định kỳ bao lâu?",
+        "options": {
+          "A": "6 tháng một lần",
+          "B": "1 năm một lần",
+          "C": "2 năm một lần",
+          "D": "3 năm một lần"
+        },
+        "answer": 2,
+        "topic": "IV.4.Rủi ro pháp lý trong môi trường số",
+        "explanation": "6 tháng một lần"
+      },
+      {
+        "question": "Theo thông tư 15/2024, \"Xác thực đa yếu tố\" trong giao dịch thanh toán trực tuyến là yêu cầu tại cấp độ nào?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Cấp độ 2",
+          "C": "Theo quy định về an toàn bảo mật hệ thống thông tin",
+          "D": "Không bắt buộc"
+        },
+        "answer": 3,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Báo cáo về tình hình triển khai dịch vụ của doanh nghiệp bưu chính định kỳ hàng năm phải gửi trước ngày nào?",
+        "options": {
+          "A": "4638700%",
+          "B": "Trước ngày 15/01 của năm tiếp theo",
+          "C": "Trước ngày 30/01 của năm tiếp theo",
+          "D": "4602300%"
+        },
+        "answer": 2,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "4638700%"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Cục Công nghệ thông tin có bao nhiêu ngày để đánh giá điều kiện kỹ thuật của doanh nghiệp bưu chính?",
+        "options": {
+          "A": "07 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "30 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "07 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Doanh nghiệp bưu chính công ích thực hiện chuyển tiền đi cho khách hàng trong thời hạn bao lâu kể từ khi nhận chứng từ hợp lệ?",
+        "options": {
+          "A": "Ngay lập tức",
+          "B": "Chậm nhất 01 ngày làm việc",
+          "C": "Chậm nhất 02 ngày làm việc",
+          "D": "Chậm nhất 03 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "Ngay lập tức"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Khi thực hiện dịch vụ ủy nhiệm chi, nếu bên thụ hưởng và bên trả tiền có tài khoản tại CÙNG một ngân hàng, thời hạn hạch toán chậm nhất là bao lâu?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "Tức thời"
+        },
+        "answer": 1,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Nếu bên thụ hưởng nhận tiền mặt nhưng không đến nhận hoặc không liên hệ được, sau bao lâu ngân hàng phải hoàn trả tiền cho bên trả tiền?",
+        "options": {
+          "A": "05 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 3,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "05 ngày"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Nếu tổn thất phát sinh không do lỗi của khách hàng, tổ chức thanh toán phải bồi hoàn trong thời hạn bao lâu sau khi thông báo kết quả tra soát?",
+        "options": {
+          "A": "Tối đa 02 ngày làm việc",
+          "B": "Tối đa 03 ngày làm việc",
+          "C": "Tối đa 05 ngày làm việc",
+          "D": "Tối đa 07 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.5.Pháp lý Fintech, Bigtech",
+        "explanation": "Tối đa 02 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Tại ngân hàng phục vụ bên thụ hưởng, nếu lệnh chuyển tiền hợp lệ, thời hạn hạch toán vào tài khoản khách hàng là bao lâu?",
+        "options": {
+          "A": "Chậm nhất 01 ngày làm việc",
+          "B": "Chậm nhất 02 ngày làm việc",
+          "C": "Chậm nhất 04 ngày làm việc",
+          "D": "Chậm nhất 07 ngày làm việc"
+        },
+        "answer": 1,
+        "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+        "explanation": "Chậm nhất 01 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Tại ngân hàng phục vụ bên trả tiền, nếu ủy nhiệm thu có sai sót, ngân hàng phải gửi yêu cầu tra soát hoặc trả lại trong bao lâu?",
+        "options": {
+          "A": "Chậm nhất 01 ngày làm việc",
+          "B": "Chậm nhất 02 ngày làm việc",
+          "C": "Chậm nhất 03 ngày làm việc",
+          "D": "Chậm nhất 05 ngày làm việc"
+        },
+        "answer": 1,
+        "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+        "explanation": "Chậm nhất 01 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Thời hạn để khách hàng có quyền đề nghị tra soát, khiếu nại đối với giao dịch thanh toán là bao lâu kể từ ngày phát sinh?",
+        "options": {
+          "A": "Không ít hơn 30 ngày",
+          "B": "Không ít hơn 60 ngày",
+          "C": "Không ít hơn 90 ngày",
+          "D": "Không ít hơn 180 ngày"
+        },
+        "answer": 2,
+        "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+        "explanation": "Không ít hơn 30 ngày"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Thời hạn để Vụ Thanh toán xem xét và gửi hồ sơ lấy ý kiến các đơn vị liên quan về cấp phép dịch vụ bưu chính là bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "20 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.6.Chữ ký số, hợp đồng điện tử",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Thời hạn phối hợp tra soát giữa các tổ chức cung ứng dịch vụ thanh toán trong thanh toán ủy nhiệm chi là bao nhiêu ngày?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "04 ngày làm việc",
+          "D": "07 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Thời hạn tổ chức thanh toán phải trả lời hoặc xử lý khiếu nại của khách hàng là bao lâu?",
+        "options": {
+          "A": "Tối đa 15 ngày làm việc",
+          "B": "Tối đa 30 ngày làm việc",
+          "C": "Tối đa 45 ngày làm việc",
+          "D": "Tối đa 60 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+        "explanation": "Tối đa 15 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Thống đốc NHNN quyết định chấp thuận hoạt động cung ứng dịch vụ thanh toán của doanh nghiệp bưu chính trong thời hạn bao lâu?",
+        "options": {
+          "A": "15 ngày làm việc",
+          "B": "30 ngày làm việc",
+          "C": "45 ngày làm việc",
+          "D": "60 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+        "explanation": "15 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 15/2024, Trong quá trình xử lý khiếu nại, nếu hết thời hạn mà vẫn chưa xác định được lỗi thuộc bên nào thì trong bao lâu tiếp theo hai bên phải thỏa thuận phương án xử lý?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "30 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "IV.7.Trách nhiệm pháp lý khi xảy ra sự cố Công nghệ thông tin",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 17/2024, Định kỳ hàng tháng, ngân hàng phải cung cấp thông tin về tài khoản nghi ngờ gian lận cho Ngân hàng Nhà nước vào ngày nào?",
+        "options": {
+          "A": "Ngày 01",
+          "B": "Chậm nhất ngày 10",
+          "C": "Ngày 20",
+          "D": "Ngày cuối tháng"
+        },
+        "answer": 2,
+        "topic": "IV.8.Ngân hàng số, thanh toán",
+        "explanation": "Ngày 01"
+      },
+      {
+        "question": "Theo thông tư 17/2024, Ngân hàng phải thông báo cho khách hàng trước bao nhiêu ngày khi giấy tờ tùy thân hết hiệu lực?",
+        "options": {
+          "A": "10 ngày",
+          "B": "Tối thiểu 30 ngày",
+          "C": "60 ngày",
+          "D": "Không cần thông báo"
+        },
+        "answer": 2,
+        "topic": "IV.8.Ngân hàng số, thanh toán",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Theo thông tư 17/2024, Tài khoản thanh toán có hơn bao nhiêu giao dịch nhận tiền từ các tài khoản nghi ngờ lừa đảo thì bị xếp vào lý do nghi ngờ số 4?",
+        "options": {
+          "A": "01 giao dịch",
+          "B": "03 giao dịch",
+          "C": "05 giao dịch",
+          "D": "10 giao dịch"
+        },
+        "answer": 2,
+        "topic": "IV.8.Ngân hàng số, thanh toán",
+        "explanation": "01 giao dịch"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Cá nhân từ đủ bao nhiêu tuổi trở lên có năng lực hành vi dân sự đầy đủ được sử dụng mọi loại thẻ chính?",
+        "options": {
+          "A": "Đủ 15 tuổi",
+          "B": "Đủ 16 tuổi",
+          "C": "Đủ 18 tuổi",
+          "D": "Đủ 20 tuổi"
+        },
+        "answer": 3,
+        "topic": "IV.8.Ngân hàng số, thanh toán",
+        "explanation": "Đủ 15 tuổi"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Đối với chủ thẻ là người nước ngoài, thời hạn cư trú tại Việt Nam tối thiểu để được phát hành thẻ là bao lâu?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "IV.8.Ngân hàng số, thanh toán",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Đối với thẻ trả trước vô danh, số dư tại mọi thời điểm trên một thẻ không được vượt quá bao nhiêu?",
+        "options": {
+          "A": "02 triệu đồng",
+          "B": "05 triệu đồng",
+          "C": "10 triệu đồng",
+          "D": "15 triệu đồng"
+        },
+        "answer": 2,
+        "topic": "IV.9.An ninh an toàn thông tin",
+        "explanation": "02 triệu đồng"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Hạn mức rút ngoại tệ tiền mặt tại nước ngoài tối đa cho một thẻ trong một ngày là bao nhiêu?",
+        "options": {
+          "A": "Tương đương 10 triệu VND",
+          "B": "Tương đương 20 triệu VND",
+          "C": "Tương đương 30 triệu VND",
+          "D": "Tương đương 50 triệu VND"
+        },
+        "answer": 3,
+        "topic": "IV.9.An ninh an toàn thông tin",
+        "explanation": "Tương đương 10 triệu VND"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Hạn mức rút tiền mặt bằng thẻ tín dụng tối đa trong 01 tháng là bao nhiêu (tính theo BIN)?",
+        "options": {
+          "A": "50 triệu đồng",
+          "B": "100 triệu đồng",
+          "C": "200 triệu đồng",
+          "D": "Tùy thỏa thuận không giới hạn"
+        },
+        "answer": 2,
+        "topic": "IV.9.An ninh an toàn thông tin",
+        "explanation": "50 triệu đồng"
+      },
+      {
+        "question": "Theo thông tư 18/2024, Hạn mức tín dụng tối đa đối với thẻ tín dụng phát hành không có tài sản bảo đảm cho cá nhân là bao nhiêu?",
+        "options": {
+          "A": "100 triệu đồng",
+          "B": "300 triệu đồng",
+          "C": "500 triệu đồng",
+          "D": "01 tỷ đồng"
+        },
+        "answer": 3,
+        "topic": "IV.9.An ninh an toàn thông tin",
+        "explanation": "100 triệu đồng"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Khi phát hiện sự cố gây gián đoạn dịch vụ thanh toán trực tuyến QUÁ 30 phút, tổ chức phải báo cáo NHNN trong bao lâu?",
+        "options": {
+          "A": "Trong vòng 01 giờ",
+          "B": "Trong vòng 04 giờ",
+          "C": "Trong vòng 12 giờ",
+          "D": "Trong vòng 24 giờ"
+        },
+        "answer": 2,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "Trong vòng 01 giờ"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Một lần gián đoạn cung ứng dịch vụ thanh toán trực tuyến không được vượt quá bao nhiêu phút (trừ trường hợp bất khả kháng hoặc bảo trì đã thông báo)?",
+        "options": {
+          "A": "15 phút",
+          "B": "30 phút",
+          "C": "45 phút",
+          "D": "60 phút"
+        },
+        "answer": 2,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "15 phút"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Sau khi cơ quan nhà nước thông báo kết quả xử lý không có yếu tố tội phạm, tổ chức thanh toán phải thỏa thuận với khách hàng về phương án xử lý khiếu nại trong bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "30 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Sau khi hoàn thành khắc phục sự cố gián đoạn dịch vụ, tổ chức phải gửi báo cáo đầy đủ cho NHNN trong bao lâu?",
+        "options": {
+          "A": "24 giờ",
+          "B": "03 ngày làm việc",
+          "C": "05 ngày làm việc",
+          "D": "07 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "24 giờ"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Theo Phụ lục 05, sự cố được coi là \"Nghiêm trọng\" khi thời gian gián đoạn là bao lâu?",
+        "options": {
+          "A": "> 01 giờ",
+          "B": "> 02 giờ",
+          "C": "> 04 giờ",
+          "D": "> 24 giờ"
+        },
+        "answer": 3,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "> 01 giờ"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Thời hạn chậm nhất để doanh nghiệp bưu chính xử lý và hoàn tất việc chuyển tiền đi là bao lâu?",
+        "options": {
+          "A": "Ngay lập tức",
+          "B": "Chậm nhất trong 01 ngày làm việc",
+          "C": "Chậm nhất trong 02 ngày làm việc",
+          "D": "Chậm nhất trong 03 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "Ngay lập tức"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Tổng thời gian gián đoạn cung ứng toàn bộ dịch vụ thanh toán trực tuyến không được vượt quá bao nhiêu?",
+        "options": {
+          "A": "02 giờ/năm",
+          "B": "04 giờ/năm",
+          "C": "10 giờ/năm",
+          "D": "24 giờ/năm"
+        },
+        "answer": 2,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "02 giờ/năm"
+      },
+      {
+        "question": "Theo thông tư 30/2025, Trước khi bảo trì, nâng cấp hệ thống dẫn đến gián đoạn dịch vụ, tổ chức thanh toán phải thông báo cho khách hàng trước bao lâu?",
+        "options": {
+          "A": "04 giờ",
+          "B": "12 giờ",
+          "C": "24 giờ",
+          "D": "48 giờ"
+        },
+        "answer": 3,
+        "topic": "V.1.An toàn thông tin ngân hàng số",
+        "explanation": "04 giờ"
+      },
+      {
+        "question": "Thời gian chậm nhất để gửi văn bản yêu cầu đình chỉ, tạm đình chỉ hoạt động hệ thống thông tin là bao lâu kể từ khi có yêu cầu (trường hợp cấp bách đã yêu cầu trực tiếp)?Theo nghị định 53/2022",
+        "options": {
+          "A": "12 giờ",
+          "B": "24 giờ",
+          "C": "48 giờ",
+          "D": "72 giờ"
+        },
+        "answer": 2,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "12 giờ"
+      },
+      {
+        "question": "Thời gian khảo sát thực tế để thẩm định an ninh mạng (trường hợp cần thiết) không quá bao nhiêu ngày?Theo nghị định 53/2022",
+        "options": {
+          "A": "03 ngày làm việc",
+          "B": "05 ngày làm việc",
+          "C": "07 ngày làm việc",
+          "D": "10 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "03 ngày làm việc"
+      },
+      {
+        "question": "Thời gian khảo sát, đánh giá thực tế khi thực hiện thẩm định an ninh mạng tối đa là bao nhiêu ngày làm việc?Theo nghị định 53/2022",
+        "options": {
+          "A": "03 ngày",
+          "B": "05 ngày",
+          "C": "07 ngày",
+          "D": "10 ngày"
+        },
+        "answer": 3,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "03 ngày"
+      },
+      {
+        "question": "Thời gian thẩm định hồ sơ đề nghị đưa hệ thống thông tin vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia là bao lâu?Theo nghị định 53/2022",
+        "options": {
+          "A": "15 ngày",
+          "B": "20 ngày",
+          "C": "30 ngày",
+          "D": "45 ngày"
+        },
+        "answer": 3,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "15 ngày"
+      },
+      {
+        "question": "Thời gian xác nhận hồ sơ hợp lệ kể từ khi nhận đủ hồ sơ đề nghị là bao lâu?Theo nghị định 53/2022",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "05 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Thời hạn để doanh nghiệp hoàn thành việc lưu trữ dữ liệu, đặt chi nhánh hoặc văn phòng đại diện tại Việt Nam là bao lâu kể từ ngày có quyết định của Bộ trưởng Bộ Công an?Theo nghị định 53/2022",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Thời hạn tiến hành thẩm định an ninh mạng và thông báo kết quả là bao nhiêu ngày kể từ khi nhận đủ hồ sơ?Theo nghị định 53/2022",
+        "options": {
+          "A": "10 ngày",
+          "B": "15 ngày",
+          "C": "20 ngày",
+          "D": "30 ngày"
+        },
+        "answer": 4,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Định kỳ tối thiểu bao lâu đơn vị phải lập danh mục và kiểm tra các phần mềm được phép cài đặt trên máy chủ?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 2,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Đối với giao dịch Nhóm I.2 của khách hàng cá nhân, giao dịch có giá trị (G+T) từ bao nhiêu tiền trở lên thì được xếp vào loại D?",
+        "options": {
+          "A": "Trên 100 triệu VND",
+          "B": "Trên 500 triệu VND",
+          "C": "Trên 1 tỷ VND",
+          "D": "Trên 1,5 tỷ VND"
+        },
+        "answer": 4,
+        "topic": "V.2.An ninh mạng",
+        "explanation": "Trên 100 triệu VND"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Đơn vị phải gửi báo cáo về việc cung cấp dịch vụ Online Banking cho NHNN trước khi cung cấp chính thức bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "30 ngày"
+        },
+        "answer": 2,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Đơn vị phải thông báo cho khách hàng tối thiểu bao nhiêu ngày trước khi giấy tờ tùy thân của khách hàng hết hiệu lực?",
+        "options": {
+          "A": "07 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 3,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Giao dịch nạp, rút tiền từ ví điện tử của khách hàng tại ngân hàng liên kết (G <= 10 triệu, G+Tksth <= 20 triệu) là loại giao dịch nào?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 1,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Hệ thống Online Banking phải tuân thủ quy định bảo đảm an toàn hệ thống thông tin tối thiểu từ cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Cấp độ 2",
+          "C": "Cấp độ 3",
+          "D": "Cấp độ 4"
+        },
+        "answer": 3,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Hiệu năng sử dụng tài nguyên máy chủ (CPU, RAM) trung bình hàng tháng tối đa là bao nhiêu so với công suất thiết kế?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "80%",
+          "D": "90%"
+        },
+        "answer": 3,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "50%"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Khi có lỗ hổng bảo mật được đánh giá ở mức NGHIÊM TRỌNG, đơn vị phải triển khai bản vá cho hệ thống kết nối Internet trong bao lâu?",
+        "options": {
+          "A": "Trong vòng 01 ngày",
+          "B": "Trong vòng 07 ngày",
+          "C": "Trong vòng 15 ngày",
+          "D": "Trong vòng 30 ngày"
+        },
+        "answer": 1,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "Trong vòng 01 ngày"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Khi sử dụng hình thức khớp đúng thông tin sinh trắc học, đơn vị phải lưu trữ thông tin này đối với tối thiểu bao nhiêu giao dịch gần nhất?",
+        "options": {
+          "A": "05 giao dịch",
+          "B": "10 giao dịch",
+          "C": "20 giao dịch",
+          "D": "50 giao dịch"
+        },
+        "answer": 2,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "05 giao dịch"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua cuộc gọi thoại (Voice OTP) có hiệu lực tối đa bao lâu?",
+        "options": {
+          "A": "02 phút",
+          "B": "03 phút",
+          "C": "05 phút",
+          "D": "10 phút"
+        },
+        "answer": 2,
+        "topic": "V.3.Quản lý rủi ro công nghệ thông tin",
+        "explanation": "02 phút"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua Email (Email OTP) có hiệu lực tối đa bao lâu?",
+        "options": {
+          "A": "03 phút",
+          "B": "05 phút",
+          "C": "07 phút",
+          "D": "10 phút"
+        },
+        "answer": 2,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "03 phút"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Mã OTP gửi qua tin nhắn SMS (SMS OTP) có hiệu lực tối đa bao lâu?",
+        "options": {
+          "A": "02 phút",
+          "B": "03 phút",
+          "C": "05 phút",
+          "D": "10 phút"
+        },
+        "answer": 3,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "02 phút"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Nhật ký (log) giao dịch Online Banking phải được sao lưu tối thiểu trong bao lâu?",
+        "options": {
+          "A": "06 tháng",
+          "B": "01 năm",
+          "C": "02 năm",
+          "D": "05 năm"
+        },
+        "answer": 2,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "06 tháng"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Nhật ký (log) xác nhận giao dịch phải được lưu trữ trực tuyến tối thiểu bao lâu?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 2,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Phần mềm Online Banking phải tự động ngắt phiên giao dịch khi người dùng không thao tác trong bao lâu?",
+        "options": {
+          "A": "Do đơn vị quy định",
+          "B": "Cố định 5 phút",
+          "C": "Cố định 10 phút",
+          "D": "Cố định 30 phút"
+        },
+        "answer": 1,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "Do đơn vị quy định"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Thẻ ma trận OTP có thời hạn sử dụng tối đa bao lâu kể từ ngày đăng ký thẻ?",
+        "options": {
+          "A": "06 tháng",
+          "B": "01 năm",
+          "C": "02 năm",
+          "D": "05 năm"
+        },
+        "answer": 2,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "06 tháng"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Thời gian hiệu lực tối đa của mã khóa bí mật (Password) được cấp phát mặc định lần đầu là bao nhiêu ngày?",
+        "options": {
+          "A": "07 ngày",
+          "B": "15 ngày",
+          "C": "30 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 3,
+        "topic": "V.4.Phòng chống gian lận (Fraud Detection)",
+        "explanation": "07 ngày"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Thời gian thực hiện khớp đúng thông tin sinh trắc học tối đa là bao lâu?",
+        "options": {
+          "A": "01 phút",
+          "B": "02 phút",
+          "C": "03 phút",
+          "D": "05 phút"
+        },
+        "answer": 3,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "01 phút"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Trường hợp xác nhận khớp đúng thông tin sinh trắc học bằng khuôn mặt, tỷ lệ chấp nhận sai (FAR) phải thấp hơn mức nào?",
+        "options": {
+          "A": "0,1%",
+          "B": "0,01%",
+          "C": "0,001%",
+          "D": "1%"
+        },
+        "answer": 2,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "0,1%"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Việc diễn tập phương án xử lý các tình huống rủi ro cấp độ CAO phải được thực hiện định kỳ tối thiểu bao lâu?",
+        "options": {
+          "A": "06 tháng một lần",
+          "B": "01 năm một lần",
+          "C": "02 năm một lần",
+          "D": "03 năm một lần"
+        },
+        "answer": 2,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "06 tháng một lần"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Việc kiểm tra, đánh giá an toàn, bảo mật hệ thống Online Banking phải được thực hiện định kỳ bao lâu?",
+        "options": {
+          "A": "Hàng quý",
+          "B": "Hàng năm",
+          "C": "02 năm một lần",
+          "D": "05 năm một lần"
+        },
+        "answer": 2,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "Hàng quý"
+      },
+      {
+        "question": "Thông tư 50/2024/TT-NHNN,Với khách hàng cá nhân, giao dịch chuyển tiền giữa các tài khoản của chính khách hàng đó trong cùng một TCTD được xếp vào nhóm nào?",
+        "options": {
+          "A": "Nhóm I.1",
+          "B": "Nhóm I.2",
+          "C": "Nhóm I.3",
+          "D": "Nhóm II.1"
+        },
+        "answer": 1,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "Nhóm I.1"
+      },
+      {
+        "question": "Thông tư 64/2024/TT-NHNN,Hệ thống thông tin triển khai Open API của ngân hàng phải đáp ứng tối thiểu cấp độ mấy?",
+        "options": {
+          "A": "Cấp độ 1",
+          "B": "Cấp độ 2",
+          "C": "Cấp độ 3",
+          "D": "Cấp độ 4"
+        },
+        "answer": 3,
+        "topic": "V.5.Bảo mật dữ liệu khách hàng",
+        "explanation": "Cấp độ 1"
+      },
+      {
+        "question": "Thông tư 64/2024/TT-NHNN,Nhật ký sử dụng Open API từ bên thứ ba phải được ghi nhận và lưu trữ trực tuyến tối thiểu bao lâu?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 2,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": "Thông tư 64/2024/TT-NHNN,Thời gian sao lưu nhật ký sử dụng Open API tối thiểu là bao lâu?",
+        "options": {
+          "A": "06 tháng",
+          "B": "01 năm",
+          "C": "02 năm",
+          "D": "05 năm"
+        },
+        "answer": 2,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "06 tháng"
+      },
+      {
+        "question": "Thông tư 64/2024/TT-NHNN,Thời hạn mặc định để bên thứ ba thực hiện truy vấn thông tin khách hàng sau khi được đồng ý là bao nhiêu ngày?",
+        "options": {
+          "A": "Không quá 30 ngày",
+          "B": "Không quá 90 ngày",
+          "C": "Không quá 180 ngày",
+          "D": "Không quá 365 ngày"
+        },
+        "answer": 3,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "Không quá 30 ngày"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Chuyển tiền liên ngân hàng ra nước ngoài (Nhóm I.4) với G+T > 1 tỷ VND được phân loại là?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 4,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Định kỳ tối thiểu bao lâu đơn vị phải đánh giá an toàn, bảo mật của các phiên bản phần mềm Mobile Banking đang cho phép cài đặt?",
+        "options": {
+          "A": "Hàng tháng",
+          "B": "03 tháng một lần",
+          "C": "06 tháng một lần",
+          "D": "Hàng năm"
+        },
+        "answer": 2,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "Hàng tháng"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Giải pháp phát hiện tấn công giả mạo thông tin sinh trắc học của vật thể sống (PAD) phải đạt tiêu chuẩn nào?",
+        "options": {
+          "A": "ISO 9001",
+          "B": "ISO 30107 cấp độ 2 hoặc tương đương",
+          "C": "TCVN 11930",
+          "D": "OWASP Top 10"
+        },
+        "answer": 2,
+        "topic": "V.6.Phòng chống lừa đảo trên không gian mạng",
+        "explanation": "ISO 9001"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Giao dịch chuyển tiền giữa các ví điện tử của cùng một khách hàng trong một tổ chức trung gian thanh toán thuộc loại giao dịch nào?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 1,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Giao dịch Nhóm I.2 của khách hàng cá nhân có giá trị G+T > 1,5 tỷ VND là loại giao dịch nào?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 4,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Giao dịch Nhóm I.2 của khách hàng cá nhân có giá trị G+T > 100 triệu VND là loại giao dịch nào?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 3,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Giao dịch thanh toán hóa đơn hàng hóa dịch vụ hợp pháp (Nhóm I.2) có giá trị G+T <= 5 triệu VND là loại giao dịch nào?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Loại D"
+        },
+        "answer": 1,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Hình thức xác nhận giao dịch loại D có thể dùng để xác nhận cho loại giao dịch nào khác?",
+        "options": {
+          "A": "Loại A",
+          "B": "Loại B",
+          "C": "Loại C",
+          "D": "Tất cả các loại A, B, C"
+        },
+        "answer": 4,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "Loại A"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Phần mềm Online Banking trên nền tảng web phải phòng chống tối thiểu bao nhiêu lỗi hổng theo OWASP?",
+        "options": {
+          "A": "05 lỗ hổng",
+          "B": "10 lỗ hổng",
+          "C": "15 lỗ hổng",
+          "D": "20 lỗ hổng"
+        },
+        "answer": 2,
+        "topic": "V.7.DR, BCP – khôi phục hệ thống",
+        "explanation": "05 lỗ hổng"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Phiên bản OWASP áp dụng cho phần mềm phải là phiên bản được ban hành trong vòng bao lâu?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 2,
+        "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Thông tư 77/2025/TT-NHNN,Theo Thông tư 77, \"Khách hàng tổ chức mới\" là tổ chức đăng ký thành lập trong vòng bao lâu?",
+        "options": {
+          "A": "03 tháng",
+          "B": "06 tháng",
+          "C": "12 tháng",
+          "D": "24 tháng"
+        },
+        "answer": 3,
+        "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+        "explanation": "03 tháng"
+      },
+      {
+        "question": "Việc đình chỉ hoạt động của hệ thống thông tin phải được lập thành bao nhiêu bản biên bản?Theo nghị định 53/2022",
+        "options": {
+          "A": "01 bản",
+          "B": "02 bản",
+          "C": "03 bản",
+          "D": "04 bản"
+        },
+        "answer": 2,
+        "topic": "V.8.Nâng cao nhận thức an toàn thông tin cho cán bộ",
+        "explanation": "01 bản"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Bản thỏa thuận sáp nhập phải được gửi cho các chủ nợ và người lao động trong thời hạn bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "20 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Chi nhánh của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+        "options": {
+          "A": "01 người",
+          "B": "02 người",
+          "C": "03 người",
+          "D": "05 người"
+        },
+        "answer": 3,
+        "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "explanation": "01 người"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Đội ngũ nhân lực nghiên cứu toàn thời gian của trung tâm R&D được công nhận tối thiểu bao nhiêu người?",
+        "options": {
+          "A": "03 người",
+          "B": "05 người",
+          "C": "10 người",
+          "D": "20 người"
+        },
+        "answer": 3,
+        "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "explanation": "03 người"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Đối với tổ chức nghiên cứu và phát triển công nghệ, yêu cầu tối thiểu bao nhiêu Tiến sĩ có chuyên môn phù hợp?",
+        "options": {
+          "A": "01 Tiến sĩ",
+          "B": "02 Tiến sĩ",
+          "C": "03 Tiến sĩ",
+          "D": "05 Tiến sĩ"
+        },
+        "answer": 1,
+        "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "explanation": "01 Tiến sĩ"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Giấy công nhận trung tâm nghiên cứu và phát triển có giá trị trong bao nhiêu năm?",
+        "options": {
+          "A": "02 năm",
+          "B": "03 năm",
+          "C": "05 năm",
+          "D": "10 năm"
+        },
+        "answer": 3,
+        "topic": "VI.1.Chiến lược chuyển đổi số ngân hàng",
+        "explanation": "02 năm"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Hồ sơ đề nghị công nhận trung tâm R&D phải có tài liệu chứng minh kết quả nghiên cứu được ứng dụng trong bao nhiêu năm gần nhất?",
+        "options": {
+          "A": "01 năm",
+          "B": "02 năm",
+          "C": "03 năm",
+          "D": "05 năm"
+        },
+        "answer": 4,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "01 năm"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Hội đồng biên tập tạp chí khoa học phải có tối thiểu bao nhiêu thành viên?",
+        "options": {
+          "A": "03 thành viên",
+          "B": "05 thành viên",
+          "C": "07 thành viên",
+          "D": "09 thành viên"
+        },
+        "answer": 3,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "03 thành viên"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Hội đồng tư vấn công nhận trung tâm R&D làm việc theo nguyên tắc nào về sự có mặt của thành viên?",
+        "options": {
+          "A": "Phải có mặt 100%",
+          "B": "Phải có mặt ít nhất 2/3 số thành viên",
+          "C": "Phải có mặt ít nhất 1/2 số thành viên",
+          "D": "Chỉ cần Chủ tịch và Thư ký"
+        },
+        "answer": 2,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "Phải có mặt 100%"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Hội đồng tư vấn thẩm định hồ sơ công nhận trung tâm R&D có bao nhiêu thành viên?",
+        "options": {
+          "A": "03 đến 05",
+          "B": "05 đến 07",
+          "C": "09 đến 11",
+          "D": "15 đến 17"
+        },
+        "answer": 3,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "03 đến 05"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Kết quả thẩm định của Hội đồng được thông qua khi có ít nhất bao nhiêu số thành viên có mặt đồng ý?",
+        "options": {
+          "A": "2/3 số thành viên",
+          "B": "3/4 số thành viên",
+          "C": "4/5 số thành viên",
+          "D": "Toàn bộ"
+        },
+        "answer": 2,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "2/3 số thành viên"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Nguồn tài chính ổn định cho hoạt động của trung tâm R&D yêu cầu cam kết chi tối thiểu bao nhiêu mỗi năm?",
+        "options": {
+          "A": "500 triệu đồng",
+          "B": "01 tỷ đồng",
+          "C": "02 tỷ đồng",
+          "D": "05 tỷ đồng"
+        },
+        "answer": 3,
+        "topic": "VI.2.Vai trò lãnh đạo trong chuyển đổi số",
+        "explanation": "500 triệu đồng"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Sau khi có quyết định thành lập, tổ chức KH&CN có vốn nước ngoài phải hoàn tất đăng ký trong thời hạn bao nhiêu ngày?",
+        "options": {
+          "A": "30 ngày",
+          "B": "45 ngày",
+          "C": "60 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 3,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời điểm thông báo đánh giá phải đảm bảo tối thiểu bao nhiêu ngày trước khi bắt đầu?",
+        "options": {
+          "A": "03 ngày làm việc",
+          "B": "05 ngày làm việc",
+          "C": "10 ngày làm việc",
+          "D": "15 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "03 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn cập nhật thông tin vi phạm liêm chính khoa học lên Nền tảng số quản lý KH, CN và ĐMST quốc gia là bao lâu?",
+        "options": {
+          "A": "03 ngày kể từ ngày ban hành kết luận",
+          "B": "05 ngày kể từ ngày ban hành kết luận",
+          "C": "10 ngày kể từ ngày ban hành kết luận",
+          "D": "15 ngày kể từ ngày ban hành kết luận"
+        },
+        "answer": 2,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "03 ngày kể từ ngày ban hành kết luận"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn giải quyết hồ sơ công nhận trung tâm R&D kể từ khi nhận đủ hồ sơ là bao nhiêu ngày?",
+        "options": {
+          "A": "15 ngày",
+          "B": "30 ngày",
+          "C": "45 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 3,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "15 ngày"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn nộp hồ sơ đăng ký văn phòng đại diện, chi nhánh là bao nhiêu ngày kể từ ngày thành lập?",
+        "options": {
+          "A": "15 ngày",
+          "B": "30 ngày",
+          "C": "45 ngày",
+          "D": "60 ngày"
+        },
+        "answer": 4,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "15 ngày"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn thẩm định và cấp Giấy chứng nhận đăng ký hoạt động KH&CN kể từ khi nhận đủ hồ sơ là bao nhiêu ngày?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "10 ngày làm việc",
+          "C": "15 ngày làm việc",
+          "D": "20 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn thanh lý tài sản và thanh toán nợ khi giải thể không quá bao nhiêu tháng?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 3,
+        "topic": "VI.3.Mô hình ngân hàng số",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn trả lời bằng văn bản của các bộ, cơ quan liên quan về việc thành lập tổ chức KH&CN có vốn nước ngoài là bao lâu?",
+        "options": {
+          "A": "05 ngày làm việc",
+          "B": "07 ngày làm việc",
+          "C": "10 ngày làm việc",
+          "D": "15 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VI.4.Đánh giá mức độ trưởng thành CĐS",
+        "explanation": "05 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Thời hạn Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thành lập tổ chức KH&CN có vốn nước ngoài là bao nhiêu ngày?",
+        "options": {
+          "A": "10 ngày",
+          "B": "20 ngày",
+          "C": "35 ngày",
+          "D": "45 ngày"
+        },
+        "answer": 3,
+        "topic": "VI.5.Quản trị thay đổi",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Tổ chức KH&CN công lập phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+        "options": {
+          "A": "01 người",
+          "B": "02 người",
+          "C": "03 người",
+          "D": "05 người"
+        },
+        "answer": 4,
+        "topic": "VI.5.Quản trị thay đổi",
+        "explanation": "01 người"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Tổng điểm đánh giá tối đa cho một tổ chức KH&CN công lập là bao nhiêu điểm?",
+        "options": {
+          "A": "50 điểm",
+          "B": "100 điểm",
+          "C": "200 điểm",
+          "D": "500 điểm"
+        },
+        "answer": 2,
+        "topic": "VI.5.Quản trị thay đổi",
+        "explanation": "50 điểm"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Trong số nhân lực trình độ đại học của tổ chức KH&CN, tối thiểu bao nhiêu % có chuyên môn phù hợp lĩnh vực đăng ký?",
+        "options": {
+          "A": "10%",
+          "B": "20%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "answer": 3,
+        "topic": "VI.5.Quản trị thay đổi",
+        "explanation": "10%"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP Văn phòng đại diện của tổ chức KH&CN phải có tối thiểu bao nhiêu người làm việc toàn thời gian có trình độ đại học trở lên?",
+        "options": {
+          "A": "01 người",
+          "B": "02 người",
+          "C": "03 người",
+          "D": "05 người"
+        },
+        "answer": 2,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "01 người"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CP, Ai có thẩm quyền thành lập Tổ chức Khoa học và Công nghệ công lập thuộc Chính Phu?",
+        "options": {
+          "A": "Thủ tướng Chính Phủ",
+          "B": "Quốc Hội",
+          "C": "Chính Phủ",
+          "D": "Bộ Khoa học và Công nghệ"
+        },
+        "answer": 3,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "Thủ tướng Chính Phủ"
+      },
+      {
+        "question": "Nghị định 262/2025/NĐ-CPGiấy chứng nhận đăng ký hoạt động KH&CN bị tước quyền sử dụng trong thời hạn tối đa bao lâu?",
+        "options": {
+          "A": "01 tháng",
+          "B": "03 tháng",
+          "C": "06 tháng",
+          "D": "12 tháng"
+        },
+        "answer": 3,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "01 tháng"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Kế hoạch tổng thể về khoa học, công nghệ và đổi mới sáng tạo được xây dựng phù hợp với chu kỳ bao nhiêu năm?",
+        "options": {
+          "A": "01 năm",
+          "B": "03 năm",
+          "C": "05 năm",
+          "D": "10 năm"
+        },
+        "answer": 3,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "01 năm"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Kinh phí cấp cho Quỹ Đổi mới công nghệ quốc gia tối đa mấy lần?",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "answer": 3,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "100%"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Kinh phí cấp cho Quỹ Phát triển Khoa học và Công nghệ quốc gia tối đa mấy lần?",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "answer": 3,
+        "topic": "VI.6.Quản lý dự án công nghệ thông tin",
+        "explanation": "100%"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Mức kinh phí bổ sung tối đa cho tổ chức khoa học công lập thực hiện nhiệm vụ thường xuyên là bao nhiêu?",
+        "options": {
+          "A": "5% kinh phí cố định",
+          "B": "10% kinh phí cố định",
+          "C": "20% kinh phí cố định",
+          "D": "30% kinh phí cố định"
+        },
+        "answer": 2,
+        "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "explanation": "5% kinh phí cố định"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Tổ chức khoa học và công nghệ công lập đạt từ bao nhiêu điểm trở lên thì được bảo đảm 100% kinh phí cố định?",
+        "options": {
+          "A": "50 điểm",
+          "B": "60 điểm",
+          "C": "80 điểm",
+          "D": "100 điểm"
+        },
+        "answer": 3,
+        "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "explanation": "50 điểm"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Tổ chức khoa học và công nghệ công lập liên tục đạt điểm dưới bao nhiêu 3 năm liên tục thì bị xem xét quyết định việc hoạt động của tổ chức đó?",
+        "options": {
+          "A": "50 điểm",
+          "B": "60 điểm",
+          "C": "80 điểm",
+          "D": "100 điểm"
+        },
+        "answer": 2,
+        "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "explanation": "50 điểm"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Khi bị dừng thử nghiệm, tổ chức phải thông báo cho khách hàng trước bao nhiêu ngày?",
+        "options": {
+          "A": "ít nhất 7 ngày",
+          "B": "ít nhất 30 ngày",
+          "C": "ít nhất 60 ngày",
+          "D": "ít nhất 90 ngày"
+        },
+        "answer": 2,
+        "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "explanation": "ít nhất 7 ngày"
+      },
+      {
+        "question": " Theo Nghị định 265/2025 ,Mức kinh phí cố định tối đa cho tổ chức khoa học công lập đạt dưới 60 điểm là bao nhiêu?",
+        "options": {
+          "A": "100%",
+          "B": "90%",
+          "C": "80%",
+          "D": "70%"
+        },
+        "answer": 2,
+        "topic": "VI.7.Đo lường hiệu quả chuyển đổi số (KPI, OKR)",
+        "explanation": "100%"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Khi phát hiện sự cố rủi ro nghiêm trọng, tổ chức phải báo cáo cho Ngân hàng Nhà nước trong bao lâu?",
+        "options": {
+          "A": "1 giờ",
+          "B": "Trong vòng 24 giờ kể từ thời điểm phát hiện",
+          "C": "1 tuần",
+          "D": "1 tháng"
+        },
+        "answer": 2,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "1 giờ"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Nếu sau bao nhiêu ngày kể từ khi cấp Giấy chứng nhận mà tổ chức không triển khai thì sẽ bị dừng thử nghiệm?",
+        "options": {
+          "A": "30 ngày",
+          "B": "90 ngày",
+          "C": "180 ngày",
+          "D": "1 năm"
+        },
+        "answer": 2,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Sau khi báo cáo bằng điện thoại/email về sự cố, tổ chức phải gửi văn bản báo cáo trong bao lâu?",
+        "options": {
+          "A": "12 giờ",
+          "B": "Trong vòng 03 ngày làm việc",
+          "C": "Trong vòng 05 ngày làm việc",
+          "D": "Trong vòng 07 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "12 giờ"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Số lần tối đa một giải pháp Fintech có thể được gia hạn thử nghiệm là bao nhiêu?",
+        "options": {
+          "A": "1 lần",
+          "B": "02 lần",
+          "C": "3 lần",
+          "D": "Không giới hạn"
+        },
+        "answer": 2,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "1 lần"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá toán bộ quá trình thử nghiệm giải pháp để tiền hành cấp chứng nhận thử nghiệm là bao lâu?",
+        "options": {
+          "A": "Trong vòng 30 ngày làm việc",
+          "B": "Trong vòng 45 ngày làm việc",
+          "C": "Trong vòng 60 ngày làm việc",
+          "D": "Trong vòng 90 ngày làm việc"
+        },
+        "answer": 1,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "Trong vòng 30 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá yêu cầu điều chỉnh giải pháp là bao lâu?",
+        "options": {
+          "A": "10 ngày",
+          "B": "Trong vòng 30 ngày làm việc",
+          "C": "60 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 2,
+        "topic": "VI.8.Dịch vụ công, cải cách hành chính",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian để Ngân hàng Nhà nước đánh giá yêu cầu gia hạn giải pháp là bao lâu?",
+        "options": {
+          "A": "Trong vòng 30 ngày làm việc",
+          "B": "Trong vòng 45 ngày làm việc",
+          "C": "Trong vòng 60 ngày làm việc",
+          "D": "Trong vòng 90 ngày làm việc"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "Trong vòng 30 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian mỗi lần gia hạn thời gian thử nghiệm là bao lâu?",
+        "options": {
+          "A": "6 tháng",
+          "B": "không quá 01 năm",
+          "C": "2 năm",
+          "D": "5 năm"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "6 tháng"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời gian thẩm định hồ sơ tham gia Cơ chế thử nghiệm là bao nhiêu ngày?",
+        "options": {
+          "A": "30 ngày",
+          "B": "90 ngày làm việc",
+          "C": "180 ngày",
+          "D": "1 năm"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn để Ngân hàng Nhà nước xác nhận đã nhận đủ hồ sơ hợp lệ là bao lâu?",
+        "options": {
+          "A": "1 ngày",
+          "B": "05 ngày làm việc",
+          "C": "30 ngày",
+          "D": "90 ngày"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "1 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn để tổ chức triển khai giải pháp sau khi được cấp Giấy chứng nhận tham gia là bao lâu?",
+        "options": {
+          "A": "30 ngày",
+          "B": "90 ngày",
+          "C": "6 tháng",
+          "D": "1 năm"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "30 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn giải quyết khiếu nại của khách hàng tối đa?",
+        "options": {
+          "A": "2 ngày làm việc",
+          "B": "3 ngày làm việc",
+          "C": "5 ngày làm việc",
+          "D": "7 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "2 ngày làm việc"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Thời hạn tối đa của một hợp đồng cho vay ngang hàng tham gia thử nghiệm là bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "Không quá 02 năm",
+          "C": "5 năm",
+          "D": "10 năm"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Tổ chức phải gửi báo cáo đánh giá kết quả thử nghiệm trước khi kết thúc thời hạn bao lâu?",
+        "options": {
+          "A": "10 ngày",
+          "B": "Tối thiểu 90 ngày",
+          "C": "6 tháng",
+          "D": "1 năm"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "10 ngày"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Tổ chức phải gửi đơn đề nghị gia hạn trước khi kết thúc thời hạn bao lâu?",
+        "options": {
+          "A": "1 tháng",
+          "B": "Tối thiểu 90 ngày",
+          "C": "6 tháng",
+          "D": "10 ngày"
+        },
+        "answer": 2,
+        "topic": "VII.1.Phát triển nguồn nhân lực số",
+        "explanation": "1 tháng"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Trước khi kiểm tra tại chỗ để thẩm định, Ngân hàng Nhà nước phải thông báo trước bao lâu?",
+        "options": {
+          "A": "1 giờ",
+          "B": "ít nhất 03 ngày làm việc",
+          "C": "1 tuần",
+          "D": "1 tháng"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "1 giờ"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng, Trường hợp hồ sơ đăng ký gia hạn cần giải trình, tổ chức có bao nhiêu lần thực hiện?",
+        "options": {
+          "A": "5 lần",
+          "B": "01 lần",
+          "C": "Không giới hạn",
+          "D": "10 lần"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "5 lần"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng,, Thời gian thử nghiệm các giải pháp Fintech tối đa là bao lâu? ",
+        "options": {
+          "A": "6 tháng",
+          "B": "02 năm",
+          "C": "5 năm",
+          "D": "Không giới hạn"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "6 tháng"
+      },
+      {
+        "question": "Nghị định 94/2025/NĐ-CP Cơ chế thử nghiệm có kiểm soát ngành ngân hàng,Tổ chức đăng ký có bao nhiêu lần gửi giải trình, hoàn thiện hồ sơ trong quá trình thẩm định?",
+        "options": {
+          "A": "Không giới hạn",
+          "B": "01 lần",
+          "C": "3 lần",
+          "D": "5 lần"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "Không giới hạn"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Chiến lược chuyển đổi số ngành Ngân hàng được đặt mục tiêu đến năm nào?",
+        "options": {
+          "A": "2025",
+          "B": "2030",
+          "C": "2035",
+          "D": "2045"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Chiến lược dữ liệu ngành Ngân hàng được định hướng đến năm nào?",
+        "options": {
+          "A": "2026",
+          "B": "2030",
+          "C": "2025",
+          "D": "2035"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "202600%"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Kế hoạch phát triển các hệ thống thanh toán Việt Nam được đặt mục tiêu đến năm nào?",
+        "options": {
+          "A": "2025",
+          "B": "2030",
+          "C": "2026",
+          "D": "2027"
+        },
+        "answer": 2,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Thời hạn nộp báo cáo tình hình thực hiện Chỉ thị 02 về NHNN hằng năm là khi nào?",
+        "options": {
+          "A": "Trước ngày 15/12",
+          "B": "Trước ngày 30/12",
+          "C": "Trước ngày 01/01 năm sau",
+          "D": "Ngày 01/06 hằng năm"
+        },
+        "answer": 1,
+        "topic": "VII.2.Kỹ năng số cho người lao động",
+        "explanation": "Trước ngày 15/12"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Thống đốc NHNN yêu cầu các đơn vị thuộc NHNN, TCTD tập trung triển khai nhiệm vụ này trong năm nào?",
+        "options": {
+          "A": "2025",
+          "B": "2026",
+          "C": "2030",
+          "D": "2032"
+        },
+        "answer": 2,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo Chỉ thị 02/2026,Tỷ lệ kinh phí tối thiểu dành cho các sản phẩm, dịch vụ an ninh mạng là bao nhiêu trong tổng kinh phí dự án CNTT?",
+        "options": {
+          "A": "5%",
+          "B": "15%",
+          "C": "10%",
+          "D": "20%"
+        },
+        "answer": 2,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo Đề án 06 năm 2022,Các bộ, ngành, địa phương phải báo cáo tình hình, kết quả thực hiện Đề án 06 định kỳ vào ngày nào hằng tháng?",
+        "options": {
+          "A": "Ngày 15 hàng tháng",
+          "B": "Trước ngày 20 hàng tháng",
+          "C": "Trước ngày 22 hàng tháng",
+          "D": "Ngày cuối cùng của tháng"
+        },
+        "answer": 3,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "Ngày 15 hàng tháng"
+      },
+      {
+        "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, phấn đấu đạt bao nhiêu tài khoản người dùng trên ứng dụng VNeID?",
+        "options": {
+          "A": "Trên 40 triệu",
+          "B": "Trên 50 triệu",
+          "C": "Trên 60 triệu",
+          "D": "Trên 80 triệu"
+        },
+        "answer": 3,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "Trên 40 triệu"
+      },
+      {
+        "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, tỷ lệ hồ sơ liên quan đến quản lý dân cư tại cấp bộ, tỉnh được xử lý trên môi trường mạng đạt bao nhiêu?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "100%",
+          "D": "95%"
+        },
+        "answer": 3,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo Đề án 06 năm 2022,Mục tiêu giai đoạn 2025-2030, tỷ lệ mẫu đơn, tờ khai thông tin được chuẩn hóa thống nhất?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 1,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo Luật PCRT,Thời hạn áp dụng biện pháp trì hoãn giao dịch tối đa là bao nhiêu?",
+        "options": {
+          "A": "24 giờ",
+          "B": "2 ngày làm việc",
+          "C": "3 ngày làm việc",
+          "D": "5 ngày làm việc"
+        },
+        "answer": 3,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "24 giờ"
+      },
+      {
+        "question": "Theo Luật PCRT,Thời hạn báo cáo giao dịch giá trị lớn (trên 400 triệu) bằng dữ liệu điện tử là?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "24 giờ"
+        },
+        "answer": 1,
+        "topic": "VII.3.Thích ứng nghề nghiệp",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo Luật PCRT,Thời hạn lưu trữ hồ sơ nhận biết khách hàng tối thiểu là bao lâu?",
+        "options": {
+          "A": "1 năm",
+          "B": "3 năm",
+          "C": "5 năm",
+          "D": "10 năm"
+        },
+        "answer": 3,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "1 năm"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,\"Đại sứ số\" ở cấp đơn vị được xác định theo nguyên tắc tối thiểu bao nhiêu người?",
+        "options": {
+          "A": "Ít nhất 01 người",
+          "B": "Ít nhất 02 người",
+          "C": "Tùy quy mô đơn vị",
+          "D": "Mỗi phòng 01 người"
+        },
+        "answer": 1,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "Ít nhất 01 người"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,\"Hạt nhân số\" ở mỗi phòng ban trực thuộc được xác định theo nguyên tắc tối thiểu bao nhiêu người?",
+        "options": {
+          "A": "Ít nhất 01 người",
+          "B": "Ít nhất 02 người",
+          "C": "Ít nhất 03 người",
+          "D": "Tùy quy mô đơn vị"
+        },
+        "answer": 1,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "Ít nhất 01 người"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,Các đơn vị phải gửi báo cáo định kỳ kết quả triển khai Kế hoạch về NHNN vào các ngày nào?",
+        "options": {
+          "A": "Ngày 30 hàng tháng",
+          "B": "Ngày 15 của các tháng 6, 9, 12 và tháng 3 năm sau",
+          "C": "Ngày 01 hàng quý",
+          "D": "Cuối mỗi năm"
+        },
+        "answer": 2,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "Ngày 30 hàng tháng"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,Đến ngày 31/12/2026, yêu cầu bao nhiêu % các đơn vị trong ngành Ngân hàng có \"Đại sứ số\" và \"Hạt nhân số\"?",
+        "options": {
+          "A": "50%",
+          "B": "80%",
+          "C": "100%",
+          "D": "90%"
+        },
+        "answer": 3,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,Đến ngày 31/12/2026, yêu cầu mỗi đơn vị có bao nhiêu sản phẩm phục vụ công tác tuyên truyền, truyền thông, ứng dụng công nghệ số để ái tiến quy trình công việc được công bố trên Cổng thông tin điện tử NHNN?",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "answer": 3,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "100%"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,Mỗi \"mentor\" trong mạng lưới \"Đại sứ số\" được yêu cầu hướng dẫn kỹ năng số cho ít nhất bao nhiêu \"mentee\"?",
+        "options": {
+          "A": "02 mentee",
+          "B": "05 mentee",
+          "C": "10 mentee",
+          "D": "Không giới hạn"
+        },
+        "answer": 2,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "02 mentee"
+      },
+      {
+        "question": "Theo QĐ 1938/2025,Mục tiêu đến ngày 30/9/2026, tỷ lệ CBCCVC&NLĐ trong ngành được phổ cập kiến thức chuyển đổi số ở CẤP ĐỘ NÂNG CAO đạt bao nhiêu?",
+        "options": {
+          "A": "70%",
+          "B": "90%",
+          "C": "100%",
+          "D": "50%"
+        },
+        "answer": 3,
+        "topic": "VII.4.Đào tạo lại, nâng cao trình độ kỹ năng chuyển đổi số,…",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% chỉ tiêu thống kê của NHNN được cung cấp dưới dạng dữ liệu số?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% CSDL chuyên ngành hiện có của NHNN phải đáp ứng an toàn thông tin năm 2030?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% CSDL do NHNN quản lý phải được rà soát, chuẩn hóa toàn diện theo tiêu chuẩn chung?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% dữ liệu kết quả TTHC được tái sử dụng để khách hàng chỉ phải cung cấp thông tin một lần?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,% hoạt động chỉ đạo, điều hành tại NHNN được quyết định dựa trên dữ liệu?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Các TCTD, chi nhánh NH nước ngoài có trách nhiệm báo cáo kết quả định kỳ khi nào?",
+        "options": {
+          "A": "Trước 15/12",
+          "B": "Trước 15/11 hàng năm",
+          "C": "Trước 30/12",
+          "D": "Hàng quý"
+        },
+        "answer": 2,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "Trước 15/12"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Đến năm nào hệ thống Thanh toán liên ngân hàng phải chuyển sang Active-Active?",
+        "options": {
+          "A": "2025",
+          "B": "2026",
+          "C": "2027",
+          "D": "2028"
+        },
+        "answer": 2,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Dữ liệu định danh được sử dụng để xác thực điện tử cho bao nhiêu % giao dịch cổng DVC?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Hệ thống dữ liệu trọng yếu của ngành Ngân hàng được sao lưu với tỷ lệ bao nhiêu?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.5.Văn hóa đổi mới sáng tạo",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Ít nhất bao nhiêu % hoạt động kiểm tra, giám sát NHNN thực hiện qua môi trường số?",
+        "options": {
+          "A": "50%",
+          "B": "60%",
+          "C": "70%",
+          "D": "80%"
+        },
+        "answer": 3,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Ngân hàng Nhà nước ứng dụng AI trong bao nhiêu % dịch vụ công trực tuyến?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Nhiệm vụ xây dựng nền tảng phân tích dữ liệu tập trung (Big Data) hoàn thành năm nào?",
+        "options": {
+          "A": "202500%",
+          "B": "202700%",
+          "C": "203000%",
+          "D": "202600%"
+        },
+        "answer": 3,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo Luật PCRT,Thời hạn báo cáo giao dịch có giá trị lớn bằng dữ liệu điện tử là?",
+        "options": {
+          "A": "01 ngày làm việc",
+          "B": "02 ngày làm việc",
+          "C": "03 ngày làm việc",
+          "D": "24 giờ"
+        },
+        "answer": 1,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "01 ngày làm việc"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Thuê dịch vụ CNTT để quản trị phần mềm quản lý dữ liệu cán bộ hoàn thành khi nào?",
+        "options": {
+          "A": "202500%",
+          "B": "Giai đoạn 2025-2029",
+          "C": "203000%",
+          "D": "Hàng năm"
+        },
+        "answer": 2,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "202500%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tiêu chuẩn nào dùng cho an ninh mạng hệ thống thông tin quan trọng của NHNN?",
+        "options": {
+          "A": "ISO 9001",
+          "B": "TCVN 14423:2025",
+          "C": "PCI DSS",
+          "D": "FIDO"
+        },
+        "answer": 2,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "ISO 9001"
+      },
+      {
+        "question": "Theo QĐ 3579,Tổ chức Tài chính vi mô phải đạt tỷ lệ bao nhiêu nghiệp vụ trực tuyến?",
+        "options": {
+          "A": "30%",
+          "B": "40%",
+          "C": "50%",
+          "D": "60%"
+        },
+        "answer": 2,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "30%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ áp dụng dữ liệu số trong kiểm tra, xếp loại cán bộ NHNN tối thiểu đạt?",
+        "options": {
+          "A": "50%",
+          "B": "60%",
+          "C": "70%",
+          "D": "80%"
+        },
+        "answer": 3,
+        "topic": "VII.6.Đạo đức nghề nghiệp trong môi trường số",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ các CSDL do NHNN quản lý được chuẩn hóa toàn diện đến năm 2030?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ cán bộ quản trị dữ liệu của NHNN, TCTD được đào tạo AI và Big Data?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ CSDL trọng yếu của TCTD phải đáp ứng tiêu chuẩn an toàn quốc tế?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dân số trưởng thành có tài khoản giao dịch ngân hàng theo QĐ 3580 là?",
+        "options": {
+          "A": ">= 80%",
+          "B": ">= 90%",
+          "C": ">= 95%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": ">= 80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dữ liệu mở của NHNN công bố có lượt truy cập hoặc sử dụng lại tối thiểu?",
+        "options": {
+          "A": "50%",
+          "B": "60%",
+          "C": "70%",
+          "D": "80%"
+        },
+        "answer": 3,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ hồ sơ, kết quả giải quyết TTHC tại NHNN phải được số hóa là bao nhiêu?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ Ngân hàng có doanh thu từ kênh số đạt trên 30% vào năm 2030?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "80%",
+          "D": "90%"
+        },
+        "answer": 3,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ dữ liệu mở công bộ ghi nhận có lượt truy cập, sử dụng lại hoặc tích hợp vào nền tảng bên ngoài?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 1,
+        "topic": "VIII.1.Rò rỉ dữ liệu khách hàng",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 3580/2025 Chiên lược dữ liệu ngành ngân hàng,Tỷ lệ nhiệm vụ của Chính phủ giao cho NHNN được theo dõi bằng dữ liệu số?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.2.Số hóa quy trình nội bộ",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 3579,Tỷ lệ ứng dụng tự động hóa (RPA) trong vận hành hạ tầng tại NHNN tối thiểu?",
+        "options": {
+          "A": "30%",
+          "B": "50%",
+          "C": "70%",
+          "D": "80%"
+        },
+        "answer": 2,
+        "topic": "VIII.2.Số hóa quy trình nội bộ",
+        "explanation": "30%"
+      },
+      {
+        "question": "Theo Luật PCRT,Việc đánh giá rủi ro về rửa tiền của đối tượng báo cáo được cập nhật khi nào?",
+        "options": {
+          "A": "5 năm",
+          "B": "2 năm",
+          "C": "Hằng năm",
+          "D": "3 năm"
+        },
+        "answer": 3,
+        "topic": "VIII.2.Số hóa quy trình nội bộ",
+        "explanation": "5 năm"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành có điện thoại thông minh đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "VIII.3. Kịch bản CĐS tại chi nhánh",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 Chương trình phát triển mạng lưới chuyên gia, tổ chức tư vấn số là bao nhiêu?",
+        "options": {
+          "A": "1000 chuyên gia và 500 đơn vị tư vấn",
+          "B": "2000 chuyên gia và 1000 đơn vị tư vấn",
+          "C": "3000 chuyên gia và 1500 đơn vị tư vấn",
+          "D": "4000 chuyên gia và 2000 đơn vị tư vấn"
+        },
+        "answer": 1,
+        "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+        "explanation": "1000 chuyên gia và 500 đơn vị tư vấn"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Mục tiêu đến năm 2030, tỷ lệ hộ gia đình có đường Internet cáp quang băng rộng đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "100%",
+          "D": "95%"
+        },
+        "answer": 3,
+        "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ các cơ sở đào tạo đại học cao đẳng, giáo dục nghề nghiệp được mô hình quản trị số, hoạt động số, chuẩn hóa dữ liệu số, kho học liệu số?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ các cơ sở giáo dục từ tiểu học đến phổ thông được mô hình quản trị số, hoạt động số, chuẩn hóa dữ liệu số, kho học liệu số?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "VIII.3.Kịch bản chuyển đổi số tại chi nhánh",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân cơ hồ sơ sức khỏe điện tử?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 3,
+        "topic": "VIII.4. Rủi ro khi triển khai NH số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành sử dụng dịch vụ công trực tuyến?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 1,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số trưởng thành sử dụng dịch vụ tư vấn sức khỏe trực tuyến, khám chữa bệnh từ xa?",
+        "options": {
+          "A": "40%",
+          "B": "50%",
+          "C": "60%",
+          "D": "70%"
+        },
+        "answer": 2,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "40%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ dân số từ 15 tuổi trở lên có tài khoản giao dịch thanh toán đạt trên bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "85%",
+          "C": "90%",
+          "D": "95%"
+        },
+        "answer": 4,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ doanh nghiệp sử dụng nền tảng hợp đồng điện tử đạt bao nhiêu %?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "95%",
+          "D": "100%"
+        },
+        "answer": 4,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ doanh nghiệp vừa và nhỏ sử dụng nền tảng số đạt bao nhiêu %?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 1,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ lực lượng lao động kinh tế số đạt bao nhiêu % lực lượng lao động?",
+        "options": {
+          "A": "1%",
+          "B": "2%",
+          "C": "3%",
+          "D": "4%"
+        },
+        "answer": 3,
+        "topic": "VIII.4.Rủi ro khi triển khai ngân hàng số",
+        "explanation": "1%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 , Thời điểm gửi báo cáo về Bộ KHCN hàng năm?",
+        "options": {
+          "A": "Trước ngày 15/11",
+          "B": "Trước ngày 15/12",
+          "C": "Trước ngày 31/12",
+          "D": "Trước ngày 15/01 năm sau"
+        },
+        "answer": 2,
+        "topic": "VIII.5. Ứng dụng CNTT trong hoạt động Công đoàn",
+        "explanation": "Trước ngày 15/11"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân kết nối mạng được bảo vệ ở mức cơ bản?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 2,
+        "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ lệ người dân trong độ tuổi lao động được đào tạo kỹ năng số cơ bản?",
+        "options": {
+          "A": "70%",
+          "B": "80%",
+          "C": "90%",
+          "D": "100%"
+        },
+        "answer": 2,
+        "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "explanation": "70%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng kinh tế số đạt tối thiểu bao nhiêu % GDP?",
+        "options": {
+          "A": "10%",
+          "B": "20%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "answer": 3,
+        "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng kinh tế số trong từng ngành, lĩnh vực đạt tối thiểu bao nhiêu %?",
+        "options": {
+          "A": "10%",
+          "B": "20%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "answer": 2,
+        "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo QĐ 411/QĐ-TTg Chiến lược phát triển kinh tế số và xã hội số đến 2025, tầm nhìn 2030 năm 2022,Tầm nhìn đến năm 2030, tỷ trọng thương mại điện tử đạt tối thiểu bao nhiêu % tổng mức bán lẻ?",
+        "options": {
+          "A": "10%",
+          "B": "20%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "answer": 2,
+        "topic": "VIII.5.Ứng dụng công nghệ thông tin trong hoạt động Công đoàn",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Chương trình đặt ra mục tiêu đào tạo được bao nhiêu chuyên gia về chuyển đổi số?",
+        "options": {
+          "A": "100 chuyên gia",
+          "B": "500 chuyên gia",
+          "C": "1000 chuyên gia",
+          "D": "5000 chuyên gia"
+        },
+        "answer": 3,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "100 chuyên gia"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ dân số có tài khoản thanh toán điện tử mục tiêu đạt trên bao nhiêu %?",
+        "options": {
+          "A": "50%",
+          "B": "60%",
+          "C": "80%",
+          "D": "95%"
+        },
+        "answer": 3,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "50%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ dịch vụ công trực tuyến mức độ 4 được cung cấp trên nhiều phương tiện truy cập khác nhau?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "100%",
+          "D": "70%"
+        },
+        "answer": 3,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ giảm thủ tục hành chính là bao nhiêu?",
+        "options": {
+          "A": "10%",
+          "B": "20%",
+          "C": "30%",
+          "D": "70%"
+        },
+        "answer": 3,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "10%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ hồ sơ công việc tại cấp bộ, tỉnh được xử lý trên môi trường mạng là bao nhiêu?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "100%",
+          "D": "70%"
+        },
+        "answer": 3,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Đến năm 2030, tỷ lệ hoạt động kiểm tra của cơ quan quản lý nhà nước được thực hiện thông qua môi trường số?",
+        "options": {
+          "A": "80%",
+          "B": "90%",
+          "C": "100%",
+          "D": "70%"
+        },
+        "answer": 4,
+        "topic": "VIII.6.Phân tích sản phẩm ngân hàng số",
+        "explanation": "80%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, kinh tế số chiếm bao nhiêu % GDP?",
+        "options": {
+          "A": "20% GDP",
+          "B": "25% GDP",
+          "C": "30% GDP",
+          "D": "50% GDP"
+        },
+        "answer": 3,
+        "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "explanation": "20% GDP"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, Năng suất lao động hàng năm tăng tối thiểu bao nhiêu?",
+        "options": {
+          "A": "5%",
+          "B": "6%",
+          "C": "7%",
+          "D": "8%"
+        },
+        "answer": 4,
+        "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "explanation": "5%"
+      },
+      {
+        "question": "Theo QĐ 749 năm 2020 ,Mục tiêu đến năm 2030, Tỷ lệ kinh tế số trong từng ngành, lĩnh vực đạt tối thiểu bao nhiêu?",
+        "options": {
+          "A": "15%",
+          "B": "20%",
+          "C": "25%",
+          "D": "30%"
+        },
+        "answer": 3,
+        "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "explanation": "15%"
+      },
+      {
+        "question": "Theo QĐ số 2711 năm 2025,Chiến lược đặt mục tiêu bảo đảm tối thiểu bao nhiêu % phụ nữ và người dân tộc thiểu số tham gia các vị trí lãnh đạo KHCN?",
+        "options": {
+          "A": "20%",
+          "B": "30%",
+          "C": "40%",
+          "D": "50%"
+        },
+        "answer": 3,
+        "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "explanation": "20%"
+      },
+      {
+        "question": "Theo QĐ số 2711 năm 2025,Chiến lược quốc gia về phát triển đội ngũ trí thức được phê duyệt có tầm nhìn đến năm bao nhiêu?",
+        "options": {
+          "A": "Năm 2030",
+          "B": "Năm 2035",
+          "C": "Năm 2040",
+          "D": "Năm 2045"
+        },
+        "answer": 4,
+        "topic": "VIII.7.Bài học mô hình ngân hàng số thành công",
+        "explanation": "Năm 2030"
+      }
+    ]
   }
 ];
 

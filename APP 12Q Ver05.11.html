@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Q1 - Q12</title>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #f4f6f9;
+      color: #222;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    h1, h2 {
+      margin-top: 0;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    input, select, button {
+      width: 100%;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+
+    button {
+      width: auto;
+      cursor: pointer;
+      border: none;
+      background: #0d6efd;
+      color: white;
+      font-weight: bold;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      align-items: end;
+    }
+
+    .grid > div {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+
+    .question-box {
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .option {
+      background: #f7f7f7;
+      border: 1px solid #ddd;
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .option:hover {
+      background: #e7f1ff;
+      border-color: #0d6efd;
+    }
+
+    .option-text {
+      display: inline-block;
+      font-weight: 400;
+    }
+
+    .hint-correct .option-text::first-letter {
+      color: rgba(33, 37, 41, 0.58);
+      text-shadow: 0 0 1.4px rgba(33, 37, 41, 0.42);
+    }
+
+    .selected-option {
+      background: #dbeafe !important;
+      border: 2px solid #0d6efd !important;
+      font-weight: bold;
+    }
+
+    .answer-input {
+      width: 120px;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .timer {
+      font-size: 22px;
+      font-weight: bold;
+      color: #dc3545;
+    }
+
+    .progress {
+      height: 24px;
+      background: #ddd;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 0%;
+      background: #198754;
+      transition: 0.3s;
+    }
+
+    .result-box {
+      margin-top: 20px;
+      padding: 16px;
+      border-radius: 10px;
+      background: #eef6ff;
+      border: 1px solid #b7d4ff;
+      display: none;
+    }
+
+    .correct {
+      color: green;
+      font-weight: bold;
+    }
+
+    .wrong {
+      color: red;
+      font-weight: bold;
+    }
+
+    .summary {
+      font-size: 18px;
+      line-height: 1.8;
+    }
+
+    .result-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 20px 0;
+    }
+
+    .result-card {
+      padding: 20px;
+      border-radius: 16px;
+      color: white;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      text-align: center;
+    }
+
+    .result-card h2 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    .result-card p {
+      margin-top: 10px;
+      font-size: 16px;
+      opacity: 0.95;
+    }
+
+    .bg-green {
+      background: linear-gradient(135deg, #16a34a, #22c55e);
+    }
+
+    .bg-red {
+      background: linear-gradient(135deg, #dc2626, #ef4444);
+    }
+
+    .bg-blue {
+      background: linear-gradient(135deg, #2563eb, #3b82f6);
+    }
+
+    .bg-orange {
+      background: linear-gradient(135deg, #ea580c, #f97316);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      vertical-align: top;
+      text-align: left;
+    }
+
+    th {
+      background: #0d6efd;
+      color: white;
+      position: sticky;
+      top: 0;
+    }
+
+    tr:nth-child(even) {
+      background: #f9f9f9;
+    }
+
+    .table-wrapper {
+      overflow-x: auto;
+      margin-top: 20px;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .footer-note {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="card" id="setupCard">
+      <h1>PHẦN MỀM QUIZZ Q1 - Q12</h1>
+
+      <div class="grid">
+        <div>
+          <label>Chọn file Excel</label>
+          <input type="file" id="excelFile" accept=".xlsx,.xls" />
+        </div>
+
+        <div>
+          <label>Chọn Quiz</label>
+          <select id="quizSelect">
+            <option value="Q1">Q1</option>
+            <option value="Q2">Q2</option>
+            <option value="Q3">Q3</option>
+            <option value="Q4">Q4</option>
+            <option value="Q5">Q5</option>
+            <option value="Q6">Q6</option>
+            <option value="Q7">Q7</option>
+            <option value="Q8">Q8</option>
+            <option value="Q9">Q9</option>
+            <option value="Q10">Q10</option>
+            <option value="Q11">Q11</option>
+            <option value="Q12">Q12</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Họ và tên người làm bài</label>
+          <input type="text" id="studentName" placeholder="Nhập họ tên" />
+        </div>
+
+        <div>
+          <label>Đảo vị trí đáp án</label>
+          <select id="shuffleAnswers">
+            <option value="yes">Có</option>
+            <option value="no">Không</option>
+          </select>
+        </div>
+
+        <div>
+          <label>Tổng số câu hỏi</label>
+          <input type="text" value="Làm toàn bộ câu hỏi của Quiz đã chọn" disabled />
+        </div>
+      </div>
+
+      <div style="margin-top:24px; display:flex; justify-content:flex-start;">
+        <button onclick="startQuiz()">BẮT ĐẦU LÀM QUIZZ</button>
+      </div>
+
+      <div class="footer-note">
+        <h3>📋 HƯỚNG DẪN & ĐIỀU KHOẢN BÀI TEST</h3>
+
+        <ul style="line-height:1.8; padding-left:20px;">
+          <li>Người dùng cần chọn đúng file Excel chứa dữ liệu Quiz Q1 → Q12.</li>
+          <li>File Excel phải có các sheet được đặt tên từ Q1 đến Q12.</li>         
+          <li>Hệ thống sẽ xáo trộn ngẫu nhiên vị trí các câu hỏi trước khi bắt đầu.</li>
+          <li>Mỗi câu hỏi có 4 phương án trả lời: A, B, C, D.</li>
+          <li>Trả lời bằng cách nhập ký tự A / B / C / D vào ô trả lời.</li>
+          <li>Người dùng có thể thay đổi đáp án trước khi nhấn Submit.</li>
+          <li>Hệ thống ghi nhận đáp án cuối cùng tại thời điểm Submit.</li>
+          <li>Cho phép tạm dừng bài làm để nghỉ giải lao.</li>
+          <li>Điểm số được tính dựa trên tốc độ trả lời và độ chính xác.</li>
+        </ul>
+
+        <h4>🧮 PHƯƠNG THỨC CHẤM ĐIỂM</h4>
+
+        <ul style="line-height:1.8; padding-left:20px;">
+          <li>Trả lời đúng ≤ 5 giây: <strong>2 điểm</strong></li>
+          <li>5 giây &lt; thời gian ≤ 10 giây: <strong>1.75 điểm</strong></li>
+          <li>10 giây &lt; thời gian ≤ 15 giây: <strong>1.5 điểm</strong></li>
+          <li>Trả lời đúng &gt; 15 giây: <strong>1 điểm</strong></li>
+          <li>Trả lời sai hoặc không trả lời: <strong>0 điểm</strong></li>
+        </ul>
+
+        <h4>📁 YÊU CẦU ĐỊNH DẠNG FILE EXCEL</h4>
+
+        <p>
+          File Excel cần có các cột dữ liệu:
+          <strong>
+            Question Text,
+            Option 1,
+            Option 2,
+            Option 3,
+            Option 4,
+            Correct Answer
+          </strong>
+        </p>
+
+        <p>
+          Cột <strong>Correct Answer</strong> có thể sử dụng:
+          A/B/C/D hoặc 1/2/3/4.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="card hidden" id="quizCard">
+
+      <div class="top-bar">
+        <div>
+          <strong id="quizTitle"></strong>
+        </div>
+
+        <div>
+          Câu: <span id="currentQuestion">1</span>/<span id="totalQuestion">0</span>
+        </div>
+
+        <div class="timer">
+          ⏱ <span id="timer">0.0</span>s
+        </div>
+
+        <div>
+          Điểm hiện tại: <strong id="currentScore">0</strong>
+        </div>
+      </div>
+
+      <div class="progress">
+        <div class="progress-bar" id="progressBar"></div>
+      </div>
+
+      <div class="question-box" id="questionText"></div>
+
+      <div class="option" id="optionA"></div>
+      <div class="option" id="optionB"></div>
+      <div class="option" id="optionC"></div>
+      <div class="option" id="optionD"></div>
+
+      <br>
+
+      <label>Nhập đáp án (A / B / C / D)</label>
+      <input
+        type="text"
+        id="answerInput"
+        maxlength="1"
+        class="answer-input"
+        autocomplete="off"
+      />
+
+      <br><br>
+
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <button id="nextBtn">CÂU HỎI TIẾP THEO / SUBMIT</button>
+        <button id="pauseBtn" style="background:#fd7e14;">TẠM DỪNG / TIẾP TỤC</button>
+      </div>
+
+      <div class="result-box" id="resultBox"></div>
+
+    </div>
+
+
+    <div class="card hidden" id="reviewCard">
+      <h2>REVIEW CÁC CÂU TRẢ LỜI SAI</h2>
+
+      <div id="reviewContent"></div>
+
+      <br>
+      <button onclick="document.getElementById('reviewCard').classList.add('hidden'); window.scrollTo(0,0);">
+        ĐÓNG REVIEW
+      </button>
+    </div>
+
+    <div class="card hidden" id="finalCard">
+      <h2>KẾT QUẢ BÀI QUIZZ</h2>
+
+      <div class="summary" id="summaryContent"></div>
+    </div>
+
+  </div>
+
+
+  <script>
+    let workbook;
+    let quizData = [];
+    let currentIndex = 0;
+    let totalScore = 0;
+    let correctCount = 0;
+    let startTime;
+    let timerInterval;
+    let paused = false;
+    let pausedElapsed = 0;
+    let selectedQuiz = "";
+    let studentName = "";
+    let answerHistory = [];
+    let shuffleAnswersEnabled = true;
+    let isSubmitting = false;
+
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    document.getElementById('excelFile').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      const reader = new FileReader();
+
+      reader.onload = function(event) {
+        const data = new Uint8Array(event.target.result);
+        workbook = XLSX.read(data, { type: 'array' });
+      };
+
+      reader.readAsArrayBuffer(file);
+    });
+
+
+    function startQuiz() {
+      if (!workbook) {
+        alert('Vui lòng chọn file Excel trước!');
+        return;
+      }
+
+      selectedQuiz = document.getElementById('quizSelect').value;
+      studentName = document.getElementById('studentName').value.trim();
+      shuffleAnswersEnabled = document.getElementById('shuffleAnswers').value === 'yes';
+
+      if (!studentName) {
+        alert('Vui lòng nhập họ tên người làm bài!');
+        return;
+      }
+      
+
+      const sheet = workbook.Sheets[selectedQuiz];
+
+      if (!sheet) {
+        alert('Không tìm thấy sheet ' + selectedQuiz);
+        return;
+      }
+
+      let data = XLSX.utils.sheet_to_json(sheet, {
+        raw: false,
+        dateNF: 'dd/mm/yyyy'
+      });
+
+      data = data.filter(q => q['Question Text']);
+
+      // Chuẩn hóa dữ liệu để tránh lỗi hiển thị ngày tháng trong Excel
+      data = data.map(row => {
+        Object.keys(row).forEach(key => {
+          if (typeof row[key] === 'number' && row[key] > 30000 && row[key] < 60000) {
+            const excelDate = XLSX.SSF.parse_date_code(row[key]);
+            if (excelDate) {
+              const dd = String(excelDate.d).padStart(2, '0');
+              const mm = String(excelDate.m).padStart(2, '0');
+              const yyyy = excelDate.y;
+              row[key] = `${dd}/${mm}/${yyyy}`;
+            }
+          }
+        });
+        return row;
+      });
+
+      data = shuffleArray(data);
+
+      quizData = data;
+
+      currentIndex = 0;
+      totalScore = 0;
+      correctCount = 0;
+      answerHistory = [];
+
+      document.getElementById('setupCard').classList.add('hidden');
+      document.getElementById('quizCard').classList.remove('hidden');
+      document.getElementById('finalCard').classList.add('hidden');
+
+      document.getElementById('quizTitle').innerText = 'Bài Quiz: ' + selectedQuiz;
+      document.getElementById('totalQuestion').innerText = quizData.length;
+      document.getElementById('currentScore').innerText = totalScore.toFixed(2);
+
+      showQuestion();
+    }
+
+
+    function shuffleOptions(question) {
+      const options = [
+        { key: 'A', text: question['Option 1'] },
+        { key: 'B', text: question['Option 2'] },
+        { key: 'C', text: question['Option 3'] },
+        { key: 'D', text: question['Option 4'] }
+      ];
+
+      if (shuffleAnswersEnabled) {
+        for (let i = options.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [options[i], options[j]] = [options[j], options[i]];
+        }
+      }
+
+      return options;
+    }
+
+    function showQuestion() {
+      isSubmitting = false;
+      document.getElementById('nextBtn').disabled = false;
+      clearInterval(timerInterval);
+
+      const q = quizData[currentIndex];
+
+      document.getElementById('currentQuestion').innerText = currentIndex + 1;
+
+      document.getElementById('questionText').innerText = q['Question Text'];
+
+      const shuffledOptions = shuffleOptions(q);
+
+      const answerMap = { 1: 'A', 2: 'B', 3: 'C', 4: 'D' };
+      const originalCorrectAnswer = answerMap[q['Correct Answer']] || q['Correct Answer'];
+
+      ['A', 'B', 'C', 'D'].forEach((displayLetter, index) => {
+        const optionElement = document.getElementById('option' + displayLetter);
+        const optionData = shuffledOptions[index];
+
+        const isCorrectOption = optionData.key === originalCorrectAnswer;
+
+        optionElement.innerHTML = `<strong>${displayLetter}.</strong> <span class="option-text">${optionData.text}</span>`;
+        optionElement.dataset.answer = displayLetter;
+        optionElement.dataset.original = optionData.key;
+        optionElement.classList.toggle('hint-correct', isCorrectOption);
+      });
+
+      document.getElementById('answerInput').disabled = false;
+      document.getElementById('pauseBtn').innerText = 'TẠM DỪNG / TIẾP TỤC';
+      document.getElementById('answerInput').value = '';
+      document.getElementById('answerInput').focus();
+
+      document.querySelectorAll('.option').forEach(opt => {
+        opt.classList.remove('selected-option');
+      });
+
+      document.getElementById('resultBox').style.display = 'none';
+
+      const progress = ((currentIndex) / quizData.length) * 100;
+      document.getElementById('progressBar').style.width = progress + '%';
+
+      paused = false;
+      pausedElapsed = 0;
+      startTime = Date.now();
+
+      timerInterval = setInterval(() => {
+        const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+        document.getElementById('timer').innerText = elapsed;
+      }, 100);
+    }
+
+
+    function calculateScore(seconds, isCorrect) {
+      if (!isCorrect) return 0;
+
+      if (seconds <= 5) return 2;
+      if (seconds <= 10) return 1.75;
+      if (seconds <= 15) return 1.5;
+      return 1;
+    }
+
+
+    document.querySelectorAll('.option').forEach(option => {
+      option.addEventListener('click', function() {
+        if (paused) return;
+
+        const answer = this.dataset.answer;
+        document.getElementById('answerInput').value = answer;
+
+        document.querySelectorAll('.option').forEach(opt => {
+          opt.classList.remove('selected-option');
+        });
+
+        this.classList.add('selected-option');
+      });
+    });
+
+    document.getElementById('answerInput').addEventListener('input', function() {
+      this.value = this.value.toUpperCase().replace(/[^ABCD]/g, '');
+    });
+
+
+    document.getElementById('nextBtn').addEventListener('click', submitAnswer);
+
+    document.addEventListener('keydown', function(e) {
+      if (
+        e.key === 'Enter' &&
+        !document.getElementById('quizCard').classList.contains('hidden') &&
+        !isSubmitting
+      ) {
+        e.preventDefault();
+        submitAnswer();
+      }
+    });
+
+    document.getElementById('pauseBtn').addEventListener('click', togglePause);
+
+
+    function togglePause() {
+      const pauseBtn = document.getElementById('pauseBtn');
+
+      if (!paused) {
+        paused = true;
+        clearInterval(timerInterval);
+
+        pausedElapsed += Date.now() - startTime;
+
+        document.getElementById('answerInput').disabled = true;
+        pauseBtn.innerText = 'TIẾP TỤC LÀM BÀI';
+
+      } else {
+        paused = false;
+
+        startTime = Date.now();
+
+        timerInterval = setInterval(() => {
+          const elapsed = ((pausedElapsed + (Date.now() - startTime)) / 1000).toFixed(1);
+          document.getElementById('timer').innerText = elapsed;
+        }, 100);
+
+        document.getElementById('answerInput').disabled = false;
+        document.getElementById('answerInput').focus();
+
+        pauseBtn.innerText = 'TẠM DỪNG / TIẾP TỤC';
+      }
+    }
+
+    function submitAnswer() {
+      if (isSubmitting) return;
+
+      isSubmitting = true;
+      document.getElementById('nextBtn').disabled = true;
+      if (paused) {
+        alert('Vui lòng tiếp tục làm bài trước khi submit!');
+        isSubmitting = false;
+        document.getElementById('nextBtn').disabled = false;
+        return;
+      }
+      clearInterval(timerInterval);
+
+      const q = quizData[currentIndex];
+
+      const userAnswer = document.getElementById('answerInput').value.trim().toUpperCase();
+
+      const answerMap = {
+        1: 'A',
+        2: 'B',
+        3: 'C',
+        4: 'D'
+      };
+
+      const originalCorrectAnswer = answerMap[q['Correct Answer']] || q['Correct Answer'];
+
+      let correctAnswer = '';
+
+      document.querySelectorAll('.option').forEach(opt => {
+        if (opt.dataset.original === originalCorrectAnswer) {
+          correctAnswer = opt.dataset.answer;
+        }
+      });
+
+      const seconds = (pausedElapsed + (Date.now() - startTime)) / 1000;
+
+      const isCorrect = userAnswer === correctAnswer;
+
+      const score = calculateScore(seconds, isCorrect);
+
+      if (isCorrect) correctCount++;
+
+      totalScore += score;
+
+      const optionContentMap = {};
+
+      document.querySelectorAll('.option').forEach(opt => {
+        optionContentMap[opt.dataset.answer] = opt.innerText.replace(/^[A-D]\./, '').trim();
+      });
+
+      answerHistory.push({
+        question: q['Question Text'],
+        correctAnswer: correctAnswer,
+        correctAnswerText: optionContentMap[correctAnswer] || '',
+        userAnswer: userAnswer || '(Không trả lời)',
+        seconds: seconds.toFixed(1),
+        score: score,
+        isCorrect: isCorrect,
+        options: {
+          A: optionContentMap['A'] || '',
+          B: optionContentMap['B'] || '',
+          C: optionContentMap['C'] || '',
+          D: optionContentMap['D'] || ''
+        }
+      });
+
+      document.getElementById('currentScore').innerText = totalScore.toFixed(2);
+
+      const resultBox = document.getElementById('resultBox');
+
+      resultBox.style.display = 'block';
+
+      resultBox.innerHTML = `
+        <div>
+          <p><strong>Đáp án của bạn:</strong> ${userAnswer || '(Không trả lời)'}</p>
+          <p><strong>Đáp án đúng:</strong> ${correctAnswer}</p>
+          <p class="${isCorrect ? 'correct' : 'wrong'}">
+            ${isCorrect ? '✔ Chính xác' : '✘ Sai'}
+          </p>
+          <p><strong>Thời gian trả lời:</strong> ${seconds.toFixed(1)} giây</p>
+          <p><strong>Điểm nhận được:</strong> ${score}</p>
+        </div>
+      `;
+
+      currentIndex++;
+
+      if (currentIndex >= quizData.length) {
+        setTimeout(showFinalResult, 1200);
+      } else {
+        setTimeout(showQuestion, 1500);
+      }
+    }
+
+
+    function showWrongAnswersReview() {
+      const reviewCard = document.getElementById('reviewCard');
+      const reviewContent = document.getElementById('reviewContent');
+
+      const wrongAnswers = answerHistory.filter(item => !item.isCorrect);
+
+      if (wrongAnswers.length === 0) {
+        reviewContent.innerHTML = '<p class="correct"><strong>Chúc mừng! Bạn không có câu nào sai.</strong></p>';
+      } else {
+        reviewContent.innerHTML = wrongAnswers.map((item, index) => `
+          <div style="border:1px solid #ddd; border-radius:10px; padding:16px; margin-bottom:20px; background:#fff;">
+            <h3>Câu sai #${index + 1}</h3>
+
+            <p><strong>Câu hỏi:</strong><br>${item.question}</p>
+
+            <div style="margin-top:10px; line-height:1.8;">
+              <div><strong>A.</strong> ${item.options.A}</div>
+              <div><strong>B.</strong> ${item.options.B}</div>
+              <div><strong>C.</strong> ${item.options.C}</div>
+              <div><strong>D.</strong> ${item.options.D}</div>
+            </div>
+
+            <hr>
+
+            <p class="wrong"><strong>Đáp án đã chọn:</strong> ${item.userAnswer}</p>
+            <p class="correct"><strong>Đáp án đúng:</strong> ${item.correctAnswer}</p>
+            <p><strong>Nội dung đáp án đúng:</strong> ${item.correctAnswerText}</p>
+            <p><strong>Thời gian trả lời:</strong> ${item.seconds}s</p>
+            <p><strong>Điểm:</strong> ${item.score}</p>
+          </div>
+        `).join('');
+      }
+
+      reviewCard.classList.remove('hidden');
+      reviewCard.scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function showFinalResult() {
+      document.getElementById('quizCard').classList.add('hidden');
+      document.getElementById('finalCard').classList.remove('hidden');
+
+      document.getElementById('progressBar').style.width = '100%';
+
+      const totalQuestions = quizData.length;
+      const wrongCount = totalQuestions - correctCount;
+      const correctPercent = ((correctCount / totalQuestions) * 100).toFixed(1);
+      const incorrectPercent = (100 - parseFloat(correctPercent)).toFixed(1);
+
+      const detailRows = answerHistory.map((item, index) => `
+          <tr>
+            <td>${index + 1}</td>
+            <td>${item.question}</td>
+            <td>
+              <strong>${item.correctAnswer}</strong><br>
+              ${item.correctAnswerText || ''}
+            </td>
+            <td>${item.userAnswer}</td>
+            <td>${item.seconds}s</td>
+            <td>${item.score}</td>
+            <td class="${item.isCorrect ? 'correct' : 'wrong'}">
+              ${item.isCorrect ? 'Đúng' : 'Sai'}
+            </td>
+          </tr>
+        `).join('');
+
+      document.getElementById('summaryContent').innerHTML = `
+        <p><strong>Họ và tên:</strong> ${studentName}</p>
+        <p><strong>Quiz:</strong> ${selectedQuiz}</p>
+
+        <div class="result-grid">
+          <div class="result-card bg-green">
+            <h2>${correctCount}/${totalQuestions}</h2>
+            <p>SỐ CÂU ĐÚNG</p>
+          </div>
+
+          <div class="result-card bg-red">
+            <h2>${wrongCount}</h2>
+            <p>SỐ CÂU SAI</p>
+          </div>
+
+          <div class="result-card bg-orange">
+            <h2>${correctPercent}%</h2>
+            <p>TỶ LỆ TRẢ LỜI ĐÚNG</p>
+          </div>
+
+          <div class="result-card bg-blue">
+            <h2>${incorrectPercent}%</h2>
+            <p>TỶ LỆ TRẢ LỜI SAI</p>
+          </div>
+
+          <div class="result-card" style="background:linear-gradient(135deg, #7c3aed, #a855f7);">
+            <h2>${totalScore.toFixed(2)}</h2>
+            <p>TỔNG ĐIỂM</p>
+          </div>
+        </div>
+
+        <hr>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:10px;">
+          <h3 style="margin:0;">BẢNG TỔNG KẾT CHI TIẾT</h3>
+
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button onclick="showWrongAnswersReview()">
+              REVIEW CÂU SAI
+            </button>
+
+            <button onclick="location.reload()">
+              LÀM LẠI QUIZZ
+            </button>
+          </div>
+        </div>
+
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>STT</th>
+                <th>Nội dung câu hỏi</th>
+                <th>Đáp án đúng</th>
+                <th>Đáp án đã chọn</th>
+                <th>Thời gian</th>
+                <th>Điểm</th>
+                <th>Kết quả</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${detailRows}
+            </tbody>
+          </table>
+        </div>
+
+        <hr>
+
+        <p><strong>Phương thức chấm điểm:</strong></p>
+        <ul>
+          <li>Trả lời ≤ 5 giây = 2 điểm</li>
+          <li>5s &lt; t ≤ 10s = 1.75 điểm</li>
+          <li>10s &lt; t ≤ 15s = 1.5 điểm</li>
+          <li>Trả lời &gt; 15 giây = 1 điểm</li>
+          <li>Trả lời sai = 0 điểm</li>
+        </ul>
+
+        <br>
+        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:20px;">
+          
+        </div>
+      `;
+    }
+  </script>
+</body>
+</html>
